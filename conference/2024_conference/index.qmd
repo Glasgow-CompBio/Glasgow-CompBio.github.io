@@ -62,6 +62,37 @@ There are a number of ways to get to the conference site either by walking, cycl
 
 [Click here to view transport and accessibility options](https://www.gla.ac.uk/myglasgow/sustainability/travel/traveltogilmorehillcampus/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View transport and accessibility options"}
 
+# Frequently Asked Questions (FAQs)
+
+**Q: Who can attend the conference?** A: The conference is open to researchers, industry professionals, students, and anyone interested in computational biology.
+
+**Q: How do I register for the conference?** A: You can register for the conference through the Eventbrite registration link provided on our website.
+
+**Q: Can I submit an abstract for a presentation?** A: Yes, you can submit an abstract. Register for the conference via Eventbrite, and then you can edit your registration to add an abstract at a later date.
+
+**Q: Is there a deadline for abstract submissions?** A: Yes, the deadline for abstract submissions is \[*coming soon!*\]. Please ensure you submit your abstract by this date for consideration.
+
+**Q: What types of tickets are available?** A: We offer several ticket types:
+
+-   **Free Ticket**: For those without funds.
+-   **Standard Ticket**: Covers catering and room hire costs.
+-   **Advance Rate Ticket**: Offsets the cost of one free ticket.
+-   **Donation Ticket**: Choose any amount to support the conference.
+
+**Q: Can I change my ticket type after purchasing?** A: No, ticket types cannot be changed after purchase. Please select the ticket that best fits your situation.
+
+**Q: Will there be networking opportunities?** A: Yes, the conference includes multiple networking sessions to connect with peers, mentors, and potential collaborators.
+
+**Q: Are meals provided during the conference?** A: Yes, catering is included with your registration. Please indicate any dietary restrictions during the registration process.
+
+**Q: What is the refund policy for tickets?** A: Please refer to the Eventbrite page for our detailed refund policy.
+
+**Q: How can I stay updated on conference news and updates?** A: Follow our social media channels and check our website regularly for the latest updates.
+
+**Q: How do I get to the Advanced Research Centre at the University of Glasgow?** A: Detailed directions and travel information can be found on our Practical information section.
+
+**Q: Who do I contact for more information?** A: For any additional questions, please contact us at [compbio-conference\@glasgow.ac.uk](mailto:compbio-conference@glasgow.ac.uk){.email}.
+
 # Previous Conferences
 
 [Glasgow Computational Biology Conference 2023](https://glasgow-compbio.github.io/conference/2023_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2023 conference"}
