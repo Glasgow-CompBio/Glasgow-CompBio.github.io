@@ -13,7 +13,7 @@ Welcome to the University of Glasgow Computational Biology Hackathon. 
 
 Are you passionate about unravelling the mysteries of life through code and data? Do you dream of collaborating with brilliant minds to tackle complex biological problems? Look no further! Our exclusive hackathon is designed for researchers, students, and enthusiasts who share a common goal: advancing computational biology.
 
-[Sign Up Here!](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=e40eb3bd3575491e830f41c7e50ce6d3&id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u&analysis=false){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Sign Up Link"}
+[Sign Up Here!](https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Sign Up Link"}
 
 ## Event Details
 
@@ -107,4 +107,4 @@ A5: We aim to offer every participant a spot on their preferred team but this ma
 
 ## Registration
 
-Ready to embark on this scientific adventure? [Pick your preferred project and reserve your spot now](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=e40eb3bd3575491e830f41c7e50ce6d3&id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u&analysis=false). Limited slots available! Please express your interest and fill in the form by the 31st of May.
+Ready to embark on this scientific adventure? [Pick your preferred project and reserve your spot now](https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u). Limited slots available! Please express your interest and fill in the form by the 31st of May.
