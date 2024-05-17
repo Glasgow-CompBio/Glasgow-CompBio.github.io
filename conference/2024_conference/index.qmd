@@ -75,9 +75,9 @@ There are a number of ways to get to the conference site either by walking, cycl
 **Q: What types of tickets are available?** A: We offer several ticket types:
 
 -   **Free Ticket**: For those without funds.
--   **Standard Ticket**: Covers catering and room hire costs.
--   **Advance Rate Ticket**: Offsets the cost of one free ticket.
--   **Donation Ticket**: Choose any amount to support the conference.
+-   **General Ticket**: Covers catering and room hire costs.
+-   **Advance Ticket**: Offsets the cost of one free ticket.
+-   **Supporter Ticket**: Choose any amount to support the conference.
 
 **Q: Can I change my ticket type after purchasing?** A: No, ticket types cannot be changed after purchase. Please select the ticket that best fits your situation.
 
