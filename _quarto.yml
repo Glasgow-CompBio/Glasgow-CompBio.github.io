@@ -12,6 +12,8 @@ website:
         text: Monthly Events
       - href: conference.qmd
         text: Annual Conference
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
