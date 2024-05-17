@@ -68,6 +68,12 @@ There are a number of ways to get to the conference site either by walking, cycl
 
 **Q: How do I register for the conference?** A: You can register for the conference through the Eventbrite registration link provided on our website.
 
+**Q: What opportunities are there for me to present my work?** A: You have three options:
+
+-   Full presentation: 25 minute presentation with time for questions
+-   Flash talk: 3 minute presentation, includes the opportunity to bring a poster
+-   Poster: *Poster specifications coming soon*
+
 **Q: Can I submit an abstract for a presentation?** A: Yes, you can submit an abstract. Register for the conference via Eventbrite, and then you can edit your registration to add an abstract at a later date.
 
 **Q: Is there a deadline for abstract submissions?** A: Yes, the deadline for abstract submissions is \[*coming soon!*\]. Please ensure you submit your abstract by this date for consideration.
