@@ -153,17 +153,19 @@ School of Infection and Immunity
 
 :::: {.columns}
 ::: {.column width="20%"}
-[![](./assets/img/vinny.jpg){width=100}]()
+[![](./assets/img/Vinny2.jpg){width=100}](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vinnydavies/)
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="70%"}
-[Vinny Davies]()
+[Vinny Davies](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vinnydavies/)
 
-Lecturer
+Lecture in Statistics
 
-School of Maths and Statistics
+School of Mathematics and Statistics
+
+My interests are in the application of statistics, machine learning, and AI to real world problems with a particular focus on digital twins. I work on various biological applications including metabolomics, biodiversity, and cardiac mechanics.
 :::
 ::::
