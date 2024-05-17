@@ -1,8 +1,5 @@
 ---
 title: "Contact"
-# about:
-#     template: trestles
-# fig-cap-location: margin
 ---
 
 # Contact Details
