@@ -79,9 +79,11 @@ More information about this project can be found [here](https://gla-my.sharepoin
 
 5.  **Development of an iCLIP2 data analysis tool, mapping protein footprints on RNA.**
 
-Development of a pipeline with a web interface for iCLIP data analysis to allow researchers to upload sequencing data along with required parameters and necessary files for their analysis.
+Project lead: Rozeena Arif [r.arif.1\@research.gla.ac.uk](mailto:r.arif.1@research.gla.ac.uk)
 
-More information to follow!
+Project Summary: Protein-RNA interactions play a vital role in virus-host infections. It thus becomes essential to identify the binding interfaces between these two molecules for efficient understanding and manipulation of the mechanism. CLIP experiments provide highly precise binding sites during interaction. Analysis of such data is a complex, multistep and attention demanding process. We propose to build a pipeline to automate the analysis steps considering specific conditions of an experiment.
+
+More information about this project can be found [here](https://gla-my.sharepoint.com/:w:/g/personal/lucas_farndale_glasgow_ac_uk/EVrwRimnzmZIvbcQUgVhnZIBnaD10vdKJez6LmXpyLlTCA?e=Xaclvf)
 
 ## FAQs
 
