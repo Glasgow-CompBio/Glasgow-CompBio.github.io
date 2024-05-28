@@ -1,0 +1,23 @@
+---
+title: "June 2024"
+description: "CompBio Through Time!"
+date: 06-27-2024
+image: image.jpg
+categories: [careers] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Join us for our June event where Dr. Pawel Herzyk will be giving us a fantastic career talk taking us through his personal experiences with this everchanging field!
+
+**Date:** June 27th
+
+**Time:** 4:00 PM - 5:00 PM
+
+**Location:** 422/423 School of Computing Science, Sir Alwyn Williams Building
+
+[Dr. Pawel Herzyk](https://www.gla.ac.uk/schools/molecularbiosciences/staff/pawelherzyk/): "A Subjective Pathway Through Early Years of Computational Biology"
+
+Sharing my personal experiences on my long journey within the field of computational biology, focusing on the evolution of my perception of the field in the context of challenges and technical advances.
+
+
+See you there!
