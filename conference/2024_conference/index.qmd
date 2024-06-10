@@ -3,6 +3,7 @@ title: "Glasgow University Computational Biology Conference 2024"
 description: "Take part in talks, networking and learning about everything computational biology!"
 image: arc_image.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+date: 09-05-2024
 listing:
   - id: keynotes
     contents: "../../keynotes/key2024/*.qmd"
@@ -35,7 +36,7 @@ Take part in talks, networking and learning about everything computational biolo
     -   Coffee breaks long enough to have some great discussions!
     -   Poster session
 
-## **Our 2024 Keynote Speakers**
+## Our 2024 Keynote Speakers
 
 ::: {#keynotes}
 :::
