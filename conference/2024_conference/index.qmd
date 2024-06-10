@@ -76,7 +76,7 @@ There are a number of ways to get to the conference site either by walking, cycl
 
 **Q: Can I submit an abstract for a presentation?** A: Yes, you can submit an abstract. Register for the conference via Eventbrite, and then you can edit your registration to add an abstract at a later date.
 
-**Q: Is there a deadline for abstract submissions?** A: Yes, the deadline for abstract submissions is \[*coming soon!*\]. Please ensure you submit your abstract by this date for consideration.
+**Q: Is there a deadline for abstract submissions?** A: Yes, the deadline for abstract submissions is 1st August 2024. Please ensure you submit your abstract by this date for consideration.
 
 **Q: What types of tickets are available?** A: We offer several ticket types:
 
@@ -98,6 +98,8 @@ There are a number of ways to get to the conference site either by walking, cycl
 **Q: How do I get to the Advanced Research Centre at the University of Glasgow?** A: Detailed directions and travel information can be found on our Practical information section.
 
 **Q: Who do I contact for more information?** A: For any additional questions, please contact us at [compbio-conference\@glasgow.ac.uk](mailto:compbio-conference@glasgow.ac.uk){.email}.
+
+**Q: Do you have any travel bursaries?** A: We do not have the funds to offer travel fellowships at this time.
 
 # Previous Conferences
 
