@@ -45,6 +45,24 @@ Take part in talks, networking and learning about everything computational biolo
 
 [Programme of talks for 2024 TBD]{.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2024 TBD"}
 
+# Conference Scope and Interests
+
+Our conference is dedicated to exploring the diverse and dynamic intersections of computational biology. We welcome contributions from all areas where computational techniques and biological research converge. This includes, but is not limited to:
+
+-   **Genomics and Proteomics**: Analysis of genomic sequences, gene expression data, and protein structures using computational models and algorithms.
+-   **Systems Biology**: Integration of computational and mathematical modeling to understand complex biological systems and networks.
+-   **Bioinformatics**: Development and application of tools for the storage, retrieval, and analysis of biological data.
+-   **Computational Neuroscience**: Modeling of neural systems and brain functions using computational techniques.
+-   **Structural Biology**: Computational prediction and analysis of biological macromolecules' 3D structures.
+-   **Evolutionary Biology**: Use of computational methods to study evolutionary processes and phylogenetics.
+-   **Synthetic Biology**: Designing and modeling synthetic biological systems and organisms through computational approaches.
+-   **Biomedical Informatics**: Application of computational tools to manage and analyze biomedical data for healthcare advancements.
+-   **Computational Pharmacology**: Modeling and simulation of drug interactions and effects at the molecular and system levels.
+-   **Ecology and Environmental Biology**: Use of computational models to understand ecological systems and their responses to environmental changes.
+-   **Machine Learning and AI in Biology**: Application of machine learning and artificial intelligence to solve biological problems and uncover new insights.
+
+We are committed to fostering an inclusive and interdisciplinary environment where researchers from all backgrounds can share their latest findings, engage in thoughtful discussions, and build collaborations that push the boundaries of what is possible in computational biology. Whether you are a seasoned expert or a budding researcher, we invite you to join us in advancing the field and exploring new frontiers.
+
 # Practical information
 
 ## **Location**
@@ -64,24 +82,6 @@ Take part in talks, networking and learning about everything computational biolo
 There are a number of ways to get to the conference site either by walking, cycling, public transport or driving. For more information about site accessibility, click the button below. We encourage all attendees to take sustainable travel routes where possible.
 
 [Click here to view transport and accessibility options](https://www.gla.ac.uk/myglasgow/sustainability/travel/traveltogilmorehillcampus/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View transport and accessibility options"}
-
-# Conference Scope and Interests
-
-Our conference is dedicated to exploring the diverse and dynamic intersections of computational biology. We welcome contributions from all areas where computational techniques and biological research converge. This includes, but is not limited to:
-
--   **Genomics and Proteomics**: Analysis of genomic sequences, gene expression data, and protein structures using computational models and algorithms.
--   **Systems Biology**: Integration of computational and mathematical modeling to understand complex biological systems and networks.
--   **Bioinformatics**: Development and application of tools for the storage, retrieval, and analysis of biological data.
--   **Computational Neuroscience**: Modeling of neural systems and brain functions using computational techniques.
--   **Structural Biology**: Computational prediction and analysis of biological macromolecules' 3D structures.
--   **Evolutionary Biology**: Use of computational methods to study evolutionary processes and phylogenetics.
--   **Synthetic Biology**: Designing and modeling synthetic biological systems and organisms through computational approaches.
--   **Biomedical Informatics**: Application of computational tools to manage and analyze biomedical data for healthcare advancements.
--   **Computational Pharmacology**: Modeling and simulation of drug interactions and effects at the molecular and system levels.
--   **Ecology and Environmental Biology**: Use of computational models to understand ecological systems and their responses to environmental changes.
--   **Machine Learning and AI in Biology**: Application of machine learning and artificial intelligence to solve biological problems and uncover new insights.
-
-We are committed to fostering an inclusive and interdisciplinary environment where researchers from all backgrounds can share their latest findings, engage in thoughtful discussions, and build collaborations that push the boundaries of what is possible in computational biology. Whether you are a seasoned expert or a budding researcher, we invite you to join us in advancing the field and exploring new frontiers.
 
 # Frequently Asked Questions (FAQs)
 
