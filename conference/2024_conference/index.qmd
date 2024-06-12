@@ -24,11 +24,13 @@ Take part in talks, networking and learning about everything computational biolo
 
 **Abstract submission deadline:** 1st August 2024
 
+[Buy a ticket](https://www.eventbrite.com/e/university-of-glasgow-computational-biology-conference-2024-tickets-907696573887?aff=ebdssbdestsearch&keep_tld=1){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Buy a ticket on EventBright"}
+
 ## What to expect:
 
 -   **Two specialist sessions:**
     -   Is spatial transcriptomics worth the hype?
-    -   TBD
+    -   What is generative AI and how do you use it?
 -   **Scientific talks:**
     -   Three amazing keynote speakers
     -   Abstracts selected from your community on various topics within bioinformatics and computational biology
@@ -67,7 +69,7 @@ There are a number of ways to get to the conference site either by walking, cycl
 
 **Q: Who can attend the conference?** A: The conference is open to researchers, industry professionals, students, and anyone interested in computational biology.
 
-**Q: How do I register for the conference?** A: You can register for the conference through the Eventbrite registration link provided on our website.
+**Q: How do I register for the conference?** A: You can register for the conference through the [EventBright](https://www.eventbrite.com/e/university-of-glasgow-computational-biology-conference-2024-tickets-907696573887?aff=ebdssbdestsearch&keep_tld=1) registration link provided on our website.
 
 **Q: What opportunities are there for me to present my work?** A: You have three options:
 
@@ -75,7 +77,7 @@ There are a number of ways to get to the conference site either by walking, cycl
 -   Flash talk: 3 minute presentation, includes the opportunity to bring a poster
 -   Poster: *Poster specifications coming soon*
 
-**Q: Can I submit an abstract for a presentation?** A: Yes, you can submit an abstract. Register for the conference via Eventbrite, and then you can edit your registration to add an abstract at a later date.
+**Q: Can I submit an abstract for a presentation?** A: Yes, you can submit an abstract. Register for the conference via [EventBright](https://www.eventbrite.com/e/university-of-glasgow-computational-biology-conference-2024-tickets-907696573887?aff=ebdssbdestsearch&keep_tld=1), and then you can edit your registration to add an abstract at a later date.
 
 **Q: Is there a deadline for abstract submissions?** A: Yes, the deadline for abstract submissions is 1st August 2024. Please ensure you submit your abstract by this date for consideration.
 
@@ -86,13 +88,13 @@ There are a number of ways to get to the conference site either by walking, cycl
 -   **Advance Ticket**: Offsets the cost of one free ticket.
 -   **Supporter Ticket**: Choose any amount to support the conference.
 
-**Q: Can I change my ticket type after purchasing?** A: No, ticket types cannot be changed after purchase. Please select the ticket that best fits your situation.
+**Q: Can I change my ticket type after purchasing?** A: No, ticket types cannot be changed after purchase. Please select the ticket that best fits your situation on [EventBright](https://www.eventbrite.com/e/university-of-glasgow-computational-biology-conference-2024-tickets-907696573887?aff=ebdssbdestsearch&keep_tld=1).
 
 **Q: Will there be networking opportunities?** A: Yes, the conference includes multiple networking sessions to connect with peers, mentors, and potential collaborators.
 
 **Q: Are meals provided during the conference?** A: Yes, catering is included with your registration. Please indicate any dietary restrictions during the registration process.
 
-**Q: What is the refund policy for tickets?** A: Please refer to the Eventbrite page for our detailed refund policy.
+**Q: What is the refund policy for tickets?** A: Please refer to the [EventBright](https://www.eventbrite.com/e/university-of-glasgow-computational-biology-conference-2024-tickets-907696573887?aff=ebdssbdestsearch&keep_tld=1) page for our detailed refund policy.
 
 **Q: How can I stay updated on conference news and updates?** A: Follow our social media channels and check our website regularly for the latest updates.
 
