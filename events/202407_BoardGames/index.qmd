@@ -1,0 +1,24 @@
+---
+title: "July 2024"
+description: "Compbio board game social!"
+date: 07-18-2024
+image: image.jpeg
+categories: [social] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## **Board game social**
+
+After popular demand, we are bringing back the **Compbio board game social!**
+
+Bring your own board games or come play what others bring!
+
+**What**: Board Games and Social
+
+**When**: Thursday 18th July 2024, 4:00 till reasonably late
+
+**Where**:  School of Computer Science, Sir Alwyn Williams Building 422/423
+
+Looking forward to seeing you all, 
+
+The Compbio Committee
