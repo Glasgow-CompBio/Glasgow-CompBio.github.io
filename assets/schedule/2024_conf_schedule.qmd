@@ -1,0 +1,84 @@
+---
+title: "Conference 2024 schedule"
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+#| include: false
+require(toastui); require(dplyr)
+
+sched <- read.delim("~/Documents/GlasgowCompBio/website/assets/schedule/2024_sched.txt")
+
+sched$date = paste(sched$year, sched$month, sched$day, sep="-")
+
+sched$start = format.Date(paste(sched$date, sched$start), "%Y-%m-%d %H:%M:%S")
+sched$end = format.Date(paste(sched$date, sched$end), "%Y-%m-%d %H:%M:%S")
+sched$body = paste(
+  sched$Name, "-", sched$Title
+)
+sched$title = sched$Event
+sched$calendarID = as.numeric(factor(sched$Event))
+
+sched = left_join(sched, unique(data.frame(
+      calendarID = as.numeric(factor(sched$Event)),
+      name = factor(sched$Event),
+      color = "#000"
+      )) %>%
+      mutate(
+        backgroundColor = c(
+        "lightgrey", "lightgrey",
+        "#D1495BFF","lightgrey",
+        "#66A182FF",
+        "#EDAE49FF", "lightgrey","#35F393FF",
+        "#00798CFF","#1BD0D5FF",
+        "#F9771EFF")
+      ,
+        borderColor = "black"
+      )
+)
+
+```
+
+### Thursday:
+
+```{r}
+#| echo: false
+
+calendar(
+  sched,
+  view = c( "day"),
+  defaultDate = "2024-09-05",
+  useDetailPopup = TRUE,
+  isReadOnly = T
+  ) %>% 
+  cal_week_options(
+    startDayOfWeek = 1,
+    workweek = TRUE,
+    hourStart = 9,
+    hourEnd = 18,
+     showNowIndicator = T  ) 
+  
+
+
+```
+
+### Friday:
+
+```{r}
+#| echo: false
+
+calendar(
+  sched,
+  view = c( "day"),
+  defaultDate = "2024-09-06",
+  useDetailPopup = TRUE,
+  isReadOnly = T
+  ) %>% 
+  cal_week_options(
+    startDayOfWeek = 1,
+    workweek = TRUE,
+    hourStart = 9,
+    hourEnd = 18,
+     showNowIndicator = T  ) 
+```

@@ -43,7 +43,7 @@ Take part in talks, networking and learning about everything computational biolo
 ::: {#keynotes}
 :::
 
-[Programme of talks for 2024 TBD]{.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2024 TBD"}
+[Programme of talks for 2024 TBD](../../assets/schedule/2024_conf_schedule.qmd){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2024 TBD"}
 
 # Conference Scope and Interests
 
