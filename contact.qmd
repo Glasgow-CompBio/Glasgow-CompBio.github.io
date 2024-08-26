@@ -14,7 +14,7 @@ If you have a specific question, you may wish to address it directly to a releva
 
 ::: columns
 ::: {.column width="20%"}
-![](./assets/img/alex.jpg){width="100"}
+![](./assets/img/Alex.jpeg){width="100"}
 :::
 
 ::: {.column width="10%"}
@@ -116,7 +116,7 @@ Centre for Viral Research
 
 ::: columns
 ::: {.column width="20%"}
-![](./assets/img/kieran.jpg){width="100"}
+![](./assets/img/kieran.jpeg){width="100"}
 :::
 
 ::: {.column width="10%"}
@@ -150,7 +150,7 @@ CRUK Scotland Institute
 
 ::: columns
 ::: {.column width="20%"}
-![](./assets/img/olympia.jpg){width="100"}
+![](./assets/img/olympia.jpeg){width="100"}
 :::
 
 ::: {.column width="10%"}
@@ -180,6 +180,5 @@ Lecturer in Statistics
 
 School of Mathematics and Statistics
 
-My interests are in the application of statistics, machine learning, and AI to real world problems with a particular focus on digital twins. I work on various biological applications including metabolomics, biodiversity, and cardiac mechanics.
 :::
 :::
