@@ -65,7 +65,7 @@ CRUK Scotland Institute
 
 ::: columns
 ::: {.column width="20%"}
-![](./assets/img/jake.jpg){width="100"}
+![](./assets/img/Jake.jpeg){width="100"}
 :::
 
 ::: {.column width="10%"}
