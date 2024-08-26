@@ -1,6 +1,6 @@
 ---
 title: "Conference 2024 schedule"
-editor_options:
+editor_options: 
   chunk_output_type: console
 ---
 
@@ -14,8 +14,8 @@ sched$date = paste(sched$year, sched$month, sched$day, sep="-")
 
 sched$start = format.Date(paste(sched$date, sched$start), "%Y-%m-%d %H:%M:%S")
 sched$end = format.Date(paste(sched$date, sched$end), "%Y-%m-%d %H:%M:%S")
-sched$body = paste(
-  sched$Name, "-", sched$Title
+sched$body = paste0(
+  sched$Name, " - ", sched$Title
 )
 sched$title = sched$Event
 sched$calendarID = as.numeric(factor(sched$Event))
@@ -31,12 +31,14 @@ sched = left_join(sched, unique(data.frame(
         "#D1495BFF","lightgrey",
         "#66A182FF",
         "#EDAE49FF", "lightgrey","#35F393FF",
-        "#00798CFF","#1BD0D5FF",
+        "#00798CFF","#1BD0D5FF", "lightgrey",
         "#F9771EFF")
       ,
         borderColor = "black"
       )
 )
+
+sched$title = paste0(sched$Event, ": ", sched$Name)
 
 ```
 
@@ -51,14 +53,14 @@ calendar(
   defaultDate = "2024-09-05",
   useDetailPopup = TRUE,
   isReadOnly = T
-  ) %>%
+  ) %>% 
   cal_week_options(
     startDayOfWeek = 1,
     workweek = TRUE,
     hourStart = 9,
-    hourEnd = 18,
-     showNowIndicator = T  )
-
+    hourEnd = 19,
+     showNowIndicator = T  ) 
+  
 
 
 ```
@@ -74,11 +76,11 @@ calendar(
   defaultDate = "2024-09-06",
   useDetailPopup = TRUE,
   isReadOnly = T
-  ) %>%
+  ) %>% 
   cal_week_options(
     startDayOfWeek = 1,
     workweek = TRUE,
     hourStart = 9,
-    hourEnd = 18,
-     showNowIndicator = T  )
+    hourEnd = 19,
+     showNowIndicator = T  ) 
 ```
