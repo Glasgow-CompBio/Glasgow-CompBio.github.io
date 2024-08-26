@@ -43,6 +43,8 @@ Take part in talks, networking and learning about everything computational biolo
 ::: {#keynotes}
 :::
 
+## Programme of talks
+
 [Programme of talks for 2024](../../assets/schedule/2024_conf_schedule.qmd){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2024"}
 
 # Conference Scope and Interests
@@ -65,7 +67,7 @@ We are committed to fostering an inclusive and interdisciplinary environment whe
 
 # Practical information
 
-## **Location**
+## Location
 
 **Advanced Research Centre (ARC), University of Glasgow**
 
@@ -121,6 +123,10 @@ There are a number of ways to get to the conference site either by walking, cycl
 **Q: Who do I contact for more information?** A: For any additional questions, please contact us at [compbio-conference\@glasgow.ac.uk](mailto:compbio-conference@glasgow.ac.uk){.email}.
 
 **Q: Do you have any travel bursaries?** A: We do not have the funds to offer travel fellowships at this time.
+
+# Meet the organisers
+
+[Check out the contact page](https://glasgow-compbio.github.io/contact.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View our conference organisers"}
 
 # Previous Conferences
 
