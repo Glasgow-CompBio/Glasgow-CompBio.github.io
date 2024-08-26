@@ -27,7 +27,7 @@ sched = left_join(sched, unique(data.frame(
       )) %>%
       mutate(
         backgroundColor = c(
-        "lightgrey", "lightgrey",
+        "lightgrey", "#F9771EFF",
         "#D1495BFF","lightgrey",
         "#66A182FF",
         "#EDAE49FF", "lightgrey","#35F393FF",
