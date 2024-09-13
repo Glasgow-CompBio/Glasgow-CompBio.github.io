@@ -1,5 +1,5 @@
 ---
-title: "May 2024"
+title: "October 2024"
 description: "Careers"
 date: 10-24-2024
 image: image.jpeg
