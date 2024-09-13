@@ -1,0 +1,20 @@
+---
+title: "May 2024"
+description: "Careers"
+date: 10-24-2024
+image: image.jpeg
+categories: [careers] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Come along and hear some different perpectives on careers in computational biology!
+
+Join us for an engaging discussion on career paths across computational biology at our upcoming October meeting. We're excited to confirm the details:
+
+**Date:** October 24th
+
+**Time:** 3:00 PM - 4:30 PM
+
+**Location:** Sir Alwyn Williams Building (Computing Science): Room 422/423
+
+Speakers TBC
