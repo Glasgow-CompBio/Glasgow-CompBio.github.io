@@ -31,6 +31,23 @@ CRUK Scotland Institute
 
 ::: columns
 ::: {.column width="20%"}
+![](./assets/img/Anh.png){width="100"}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="70%"}
+[Anh Nguyen Phuong]()
+
+PhD Student
+
+CRUK Scotland Institute
+:::
+:::
+
+::: columns
+::: {.column width="20%"}
 ![](./assets/img/fran.jpg){width="100"}
 :::
 
@@ -91,7 +108,7 @@ School of Computing Science
 ::: {.column width="70%"}
 [Jenny Muscat]()
 
-Postdoctoral Researcher
+PhD Student
 
 CRUK Scotland Institute
 :::
