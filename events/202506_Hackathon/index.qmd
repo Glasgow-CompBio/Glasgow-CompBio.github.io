@@ -1,0 +1,84 @@
+---
+title: "Hackathon 2025"
+description: "Biology Meets Big Data "
+date: 06-01-2025
+image: image.jpeg
+categories: [hackathon] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Hackathon 2025
+
+Welcome to the University of Glasgow Computational Biology Hackathon. 
+
+Are you passionate about unravelling the mysteries of life through code and data? Do you dream of collaborating with brilliant minds to tackle complex biological problems? Look no further! Our exclusive hackathon is designed for researchers, students, and enthusiasts who share a common goal: advancing computational biology.
+
+[See what we got up to last year!](https://glasgow-compbio.github.io/events/202406_Hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2024"}
+
+This year we have decided to change the process of collecting project proposals. We are going to start with an initial expression of interest and an abstract submission. Below is the outlined hackathon timeline.
+
+1.  Step 1: Abstract submission ([email us](mailto:compbio-conference@glasgow.ac.uk) with a short abstract, no longer than 500 words). Deadline: **December 18th, 2024**. Following the abstract submission, the team will review your abstracts and liaise further with you to help shape exciting but achievable projects.
+
+2.  Step 2: Full project proposal deadline: March, 2025 TBC. Only projects that have completed Step 1 will be considered.
+
+3.  Step 3: Participants application form opens April 2025
+
+4.  Step 4: Hackathon event, 3 exciting days in June 2025 (TBC)
+
+Let us know if you have any questions, we can’t wait to see your ideas!
+
+## Event Details
+
+-   **Date**: TBC June, 2025
+
+-   **Time:** TBC
+
+-   **Location**: TBC
+
+## Why Participate?
+
+1.  **Interdisciplinary Exploration**: Dive into the intersection of biology, computer science, and big data analysis.
+
+2.  **Networking**: Connect with fellow researchers and forge collaborative relationships across the University.
+
+3.  **Challenging Problems**: We have curated an exciting range of projects with associated data. Choose your challenge!
+
+4.  **Skill Enhancement**: Learn new coding and data handling skills.
+
+## Who Should Attend?
+
+-   **Postgrads**: Whether you’re a Masters or a PhD candidate, this hackathon is your chance to apply computational techniques to real-world biological questions.
+
+-   **Researchers**: Join forces with fellow scientists to crack complex problems. Collaborate, brainstorm, and innovate!
+
+-   **PIs**: Share your expertise and mentor the next generation of computational biologists.
+
+## The Projects
+
+**TBC**
+
+## FAQs
+
+**Q1:** I want to participate but worried about my coding skills/AI knowledge/etc?
+
+A1: Hackathons are a great environment to learn, so don't worry, just be upfront with your team lead. You can still contribute in so many ways, like ideas, writing, biological knowledge, management, etc.
+
+**Q2:** I can only attend 2 out of the 3 days. Is this a problem?
+
+A2: While attending the full duration of the Hackathon would be beneficial, we understand that committing 3 days might be difficult for some. Please include that information in your application form.
+
+**Q3:** I am a master student and worried about my skills suitability.
+
+A3: See Q1. We welcome participants from diverse backgrounds and you can contribute in many different ways. Also, please note that most projects require initial preparation before the Hackathon.
+
+**Q4:** What if I don't know any other participants?
+
+A4: This is a great opportunity to get to know people from across the university! You don't need to have spoken to anyone prior to signing up, you will be made very welcome.
+
+**Q5:** Will I definitely be included in the team for my preferred project?
+
+A5: We aim to offer every participant a spot on their preferred team but this may not be possible if a project is oversubscribed. If there is a project you don't want to be considered for, please indicate this on the form.
+
+## Registration
+
+TBC
