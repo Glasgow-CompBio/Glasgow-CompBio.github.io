@@ -1,7 +1,7 @@
 ---
 title: "Hackathon 2025"
 description: "Biology Meets Big Data "
-date: 06-01-2025
+date: 06-04-2025
 image: image.jpeg
 categories: [hackathon] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
@@ -23,17 +23,17 @@ This year we have decided to change the process of collecting project proposals.
 
 3.  Step 3: Participants application form opens April 2025
 
-4.  Step 4: Hackathon event, 3 exciting days in June 2025 (TBC)
+4.  Step 4: Hackathon event, 4-6th June 2025
 
 Let us know if you have any questions, we can’t wait to see your ideas!
 
 ## Event Details
 
--   **Date**: TBC June, 2025
+-   **Date**: 4-6th June, 2025
 
--   **Time:** TBC
+-   **Time:** 10am-4pm
 
--   **Location**: TBC
+-   **Location**: McMillan Round Reading Room, University Ave, Glasgow, G12 8QF
 
 ## Why Participate?
 
