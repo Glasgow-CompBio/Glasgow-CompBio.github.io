@@ -1,0 +1,22 @@
+---
+title: "February 2025"
+description: "Variants"
+date: 02-17-2025
+image: image.png
+categories: [genomics] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+**Join Us for the February UofG CompBio Meeting: Variants!**
+
+🗓 **When?** 17th February, 3-5pm\
+📍 **Where?** Advanced Research Centre (ARC), 237B\
+🎙 **Speakers:**
+
+-   Joe Marsh: Overcoming bias and improving interpretation of variant effect predictions
+
+-   Ailith Ewing: title tbc
+
+We look forward to seeing you there!
+
+The CompBio Team

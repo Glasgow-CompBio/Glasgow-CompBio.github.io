@@ -12,9 +12,9 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 🗓 **When?** Wednesday, 22nd January at 3 PM\
 📍 **Where?** Maths and Stats: 116 Lecture Theatre (School of Mathematics and Statistics)\
 🎙 **Speakers:**\
-- Prof Janine Illian\
-- Prof Jason Matthiopoulos\
-- Dr Elaine Ferguson
+- Prof Janine Illian: Realistically complex ecological modelling - capturing spatial and temporal patterns
+- Prof Jason Matthiopoulos: Scorched earth and blackened eyes: The story of Highly Pathogenic Avian Influenza in Seabirds
+- Dr Elaine Ferguson: How does human behaviour impact dog rabies ecology in Tanzania?
 
 After the talks, we’ll head over to the **Sparkle Horse** for informal discussions and networking.
 
