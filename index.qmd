@@ -17,7 +17,7 @@ about:
 
 # Bringing Glasgow's computational biology & bioinformatics community together
 
-Join the vibrant Glasgow Computational Biology community at the University of Glasgow! Whether you're utilizing computer algorithms to tackle intriguing biology problems or simply curious about the intersection of computation and life sciences, our events are perfect for you. Embrace the opportunity to connect with like-minded individuals, exchange ideas, and delve deeper into the exciting world of computational biology. Don't miss out -- come along and be a part of our dynamic community!
+Join the vibrant Glasgow Computational Biology community at the University of Glasgow! Whether you're utilising computer algorithms to tackle intriguing biology problems or simply curious about the intersection of computation and life sciences, our events are perfect for you. Embrace the opportunity to connect with like-minded individuals, exchange ideas, and delve deeper into the exciting world of computational biology. Don't miss out -- come along and be a part of our dynamic community!
 
 ## Quick links
 

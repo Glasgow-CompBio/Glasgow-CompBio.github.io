@@ -1,0 +1,75 @@
+---
+title: "Glasgow University Computational Biology Conference 2024: A Resounding Success!"
+description: "Over two packed days, attendees engaged in inspiring keynote talks, thought-provoking discussions, and invaluable networking opportunities"
+image: allThePeople.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+date: 09-10-2024
+---
+
+# **Glasgow University Computational Biology Conference 2024: A Resounding Success!**
+
+The Glasgow University Computational Biology Conference 2024 took place on the 5th and 6th of September at the Advanced Research Center (ARC), bringing together researchers, students, and professionals from across the computational biology spectrum. Over two packed days, attendees engaged in inspiring keynote talks, thought-provoking discussions, and invaluable networking opportunities.
+
+![](allThePeople.jpeg)
+
+### Cutting-Edge Science & Insightful Discussions
+
+The conference featured two specialist sessions that sparked in-depth conversations:
+
+-   **Is Spatial Transcriptomics Worth the Hype?** – A lively debate concluded that this powerful technique is best utilised when guided by well-defined research questions.
+
+-   **What is Generative AI and How Do You Use It?** – Experts delved into the transformative potential of AI in biological research, exploring its broader applications beyond science.
+
+The scientific program included three stellar keynote speakers alongside community-selected abstracts covering a diverse range of topics in bioinformatics and computational biology. Talks spanned everything from Bayesian multi-view clustering to cold sensing mechanisms in plants and ecological statistics, reflecting the breadth of our field.
+
+![](images/spatial.jpeg)
+
+![](images/genAI.jpeg)
+
+### Highlighted Talks
+
+-   **Paul Kirk** kicked off the conference with a keynote on Bayesian clustering for biomedical data, tackling the challenges of large-scale, multi-source datasets.
+
+-   **Rea Laila Antoniou Kourounioti** gave an engaging talk on the mathematical modeling of gene regulation in plant cold responses, shedding light on how plants sense and respond to low temperatures.
+
+-   **Robin Hankin** captivated the audience with a dynamic session on the unified neutral theory of biodiversity, demonstrating how computational ecology can offer deep insights into species distribution and evolution.
+
+-   **Christopher Walsh** introduced groundbreaking deep learning methods for identifying prognostic cell morphologies in colorectal cancer, offering a glimpse into the future of AI-driven pathology.
+
+-   **Rowan Durrant** impressed with a novel approach for estimating outbreak sizes from phylogenies, earning the Best Presentation Award.
+
+    ![](images/paulKirk.jpeg)
+
+![](images/robinHankin.jpeg)
+
+![](images/reaAK.jpeg)
+
+### Highlights from Social Media
+
+Attendees took to Twitter to share their enthusiasm:
+
+-   *“And so we start with a beautiful talk from \@pauldwkirk explaining Bayesian multi-view clustering techniques with big data.”*
+
+-   *“An absolutely fascinating talk about how we can model cold sensing mechanisms in plants by \@ReaLAntKour.”*
+
+-   *“An amazingly dynamic talk about unified neutral theory in the context of biodiversity from Dr Robin Hankin! We never knew ecological statistics could be so profound.”*
+
+-   *“Had an amazing time at the UofG computational biology conference last week, and was super pleased to receive the best presentation award”*
+
+### Building a Stronger Community
+
+Beyond the scientific program, the conference emphasised networking with extended coffee breaks, a dynamic poster session, and vibrant discussions between sessions. The atmosphere was one of inclusivity and collaboration, allowing attendees to make meaningful connections.
+
+Special thanks go to to all our speakers, panelists, and attendees for making it such a success.
+
+### Looking Ahead
+
+With another fantastic year behind us, we are already looking forward to next year’s conference! We aim to build on this year’s momentum, bringing in an even wider range of topics and speakers to ensure another stimulating event.
+
+If you attended, we’d love to hear your thoughts—what were your key takeaways? What would you like to see next year? Let’s keep the conversation going and continue growing this fantastic community!
+
+Until next time!
+
+![](images/ARC.jpeg)
+
+![](images/thereIsSunInGlasgow.jpeg)

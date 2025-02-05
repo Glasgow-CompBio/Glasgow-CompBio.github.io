@@ -1,21 +1,13 @@
 [
   {
-    "listing": "/conference/2024_conference/index.html",
+    "listing": "/blog.html",
     "items": [
-      "/keynotes/key2024/keynote3.html",
-      "/keynotes/key2024/keynote1.html",
-      "/keynotes/key2024/keynote2.html"
+      "/blog/2024_conference_feedback/index.html",
+      "/blog/2024_conference/index.html"
     ]
   },
   {
-    "listing": "/conference.html",
-    "items": [
-      "/conference/2024_conference/index.html",
-      "/conference/2023_conference/index.html"
-    ]
-  },
-  {
-    "listing": "/conference/2023_conference/index.html",
+    "listing": "/blog/2023_conference/index.html",
     "items": [
       "/keynotes/key2023/catalina.html",
       "/keynotes/key2023/louise.html",
@@ -40,6 +32,29 @@
       "/events/202401_assembly/index.html",
       "/events/202312_quiz/index.html",
       "/events/202311_epigen/index.html"
+    ]
+  },
+  {
+    "listing": "/conference/2023_conference/index.html",
+    "items": [
+      "/keynotes/key2023/catalina.html",
+      "/keynotes/key2023/louise.html",
+      "/keynotes/key2023/magnus.html"
+    ]
+  },
+  {
+    "listing": "/conference.html",
+    "items": [
+      "/conference/2024_conference/index.html",
+      "/conference/2023_conference/index.html"
+    ]
+  },
+  {
+    "listing": "/conference/2024_conference/index.html",
+    "items": [
+      "/keynotes/key2024/keynote3.html",
+      "/keynotes/key2024/keynote1.html",
+      "/keynotes/key2024/keynote2.html"
     ]
   }
 ]

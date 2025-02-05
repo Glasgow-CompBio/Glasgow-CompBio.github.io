@@ -1,0 +1,67 @@
+---
+title: "Reflections on This Year’s Conference: Insights & Improvements"
+description: "We asked, you responded!"
+image: image.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+date: 09-30-2024
+---
+
+**Reflections on This Year’s Conference: Insights & Improvements**
+
+Another year, another fantastic conference! We’re incredibly grateful to everyone who attended, participated, and provided feedback. Our goal is always to create an engaging and insightful event, and your input helps us improve each year. Here’s a recap of what worked well, what we can improve, and what’s in store for the future.
+
+## **What Went Well**
+
+### **Engaging Talks & Panels**
+
+One of the standout aspects of this year’s event was the quality of the keynote and panel discussions. Attendees particularly enjoyed sessions on **generative AI**, **clustering methods (Paul Kirk’s talk)**, and **colorectal cancer subtyping (Philip Dunn’s talk)**. Many also found the **lightning talks** useful in identifying researchers with overlapping interests.
+
+### **Networking Opportunities**
+
+A strong conference isn’t just about content - it’s about connections. Attendees appreciated the chance to network, whether through informal discussions during breaks or structured sessions. Several participants mentioned making valuable new contacts and collaborations.
+
+### **Smooth Organisation & Logistics**
+
+For the most part, logistics ran smoothly. Our venue, generously provided by ARC, served as an excellent space for discussions and presentations. The conference remained accessible and welcoming, with attendees appreciating the effort that went into planning.
+
+## **What We Can Improve**
+
+### **Expanding Topic Diversity**
+
+While our core themes were well-received, some attendees suggested a broader range of topics. Requests included **biodiversity, epidemiology, spatial ecology, metagenomics, computational statistics, and research on pathogens/viruses**. We’ll consider how to integrate these into next year’s lineup.
+
+### **Timing & Scheduling**
+
+There was some debate about the best time of year for the conference. While September worked for many, some participants preferred July (as in 2023) due to fewer competing academic obligations. We’ll assess the best option moving forward.
+
+### **Presentation Logistics & Program Distribution**
+
+A few attendees faced **technical issues with slides and presenter view**, which we aim to resolve next year. Additionally, some attendees would have liked the **conference program distributed in advance** to better plan their participation.
+
+### **Food & Catering**
+
+While the lunch provided was generally well-received, there were suggestions for **more variety, clearer labeling of vegetarian vs. non-vegetarian options, and snacks during coffee breaks**. We’ll be working with our caterers to address these requests.
+
+### **Enhancing Networking & Engagement**
+
+While networking opportunities were valuable, some attendees suggested **longer lunch breaks or more structured networking sessions** to facilitate meaningful discussions. We’re considering ideas such as **ECR (Early Career Researcher) networking sessions** or topic-based discussion groups.
+
+## **Looking Ahead**
+
+### **Expanding Representation**
+
+Several attendees expressed interest in seeing more representation from **other universities beyond Glasgow**. We’ll work on outreach strategies to bring in a more diverse group of participants.
+
+### **Funding & Donations**
+
+This conference has been sustained largely by generous donations, and we’re grateful for the ongoing support. Some attendees suggested **a clearer system for voluntary contributions**, so we’ll explore ways to make it easier for those who wish to contribute.
+
+### **More Pre-Event Communication**
+
+Suggestions included sharing **speaker titles, institutions, and presentation topics in advance** to help attendees tailor their schedules. We’ll aim to make this information more accessible next year.
+
+## **Thank You!**
+
+Once again, thank you to everyone who participated and provided feedback. Your insights help us refine and improve the conference experience. We’re already looking forward to next year’s event and can’t wait to implement these changes to make it even better.
+
+If you have any additional thoughts or suggestions, feel free to reach out. See you next year!

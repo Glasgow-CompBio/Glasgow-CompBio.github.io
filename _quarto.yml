@@ -14,6 +14,8 @@ website:
         text: Annual Conference
       - href: contact.qmd
         text: Contact
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
