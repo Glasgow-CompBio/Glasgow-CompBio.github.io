@@ -13,6 +13,12 @@ about:
     - icon: list
       text: Mailing list
       href: https://lists.cent.gla.ac.uk/sympa/info/compbio
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/compbio-uog
+    - icon: share
+      text: Bluesky
+      href: https://bsky.app/profile/glasgowcompbio.bsky.social
 ---
 
 # Bringing Glasgow's computational biology & bioinformatics community together
