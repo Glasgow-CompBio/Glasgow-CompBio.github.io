@@ -12,7 +12,7 @@ If you have a specific question, you may wish to address it directly to a releva
 
 # Organising Committee
 
-::: columns
+:::::: columns
 ::: {.column width="20%"}
 ![](./assets/img/Alex.jpeg){width="100"}
 :::
@@ -27,9 +27,9 @@ Postdoctoral Researcher
 
 CRUK Scotland Institute
 :::
-:::
+::::::
 
-::: columns
+:::::: columns
 ::: {.column width="20%"}
 ![](./assets/img/Anh.png){width="100"}
 :::
@@ -44,9 +44,9 @@ PhD Student
 
 CRUK Scotland Institute
 :::
-:::
+::::::
 
-::: columns
+:::::: columns
 ::: {.column width="20%"}
 ![](./assets/img/fran.jpg){width="100"}
 :::
@@ -61,26 +61,9 @@ Postdoctoral Researcher
 
 Centre for Viral Research
 :::
-:::
+::::::
 
-::: columns
-::: {.column width="20%"}
-![](./assets/img/HollyHall.jpeg){width="100"}
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="70%"}
-[Holly Hall]()
-
-Postdoctoral Researcher
-
-CRUK Scotland Institute
-:::
-:::
-
-::: columns
+:::::: columns
 ::: {.column width="20%"}
 ![](./assets/img/Jake.jpeg){width="100"}
 :::
@@ -95,9 +78,9 @@ Lecturer
 
 School of Computing Science
 :::
-:::
+::::::
 
-::: columns
+:::::: columns
 ::: {.column width="20%"}
 ![](./assets/img/Jenny.png){width="100"}
 :::
@@ -112,43 +95,9 @@ PhD Student
 
 CRUK Scotland Institute
 :::
-:::
+::::::
 
-::: columns
-::: {.column width="20%"}
-![](./assets/img/johnc.jpg){width="100"}
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="70%"}
-[John Cole]()
-
-Lead Bioinformatician
-
-School of Infection and Immunity
-:::
-:::
-
-::: columns
-::: {.column width="20%"}
-![](./assets/img/johnf.jpg){width="100"}
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="70%"}
-[John Fozard]()
-
-Postdoctoral Researcher
-
-Centre for Viral Research
-:::
-:::
-
-::: columns
+:::::: columns
 ::: {.column width="20%"}
 ![](./assets/img/kieran.jpeg){width="100"}
 :::
@@ -163,9 +112,9 @@ PhD Student
 
 Centre for Viral Research
 :::
-:::
+::::::
 
-::: columns
+:::::: columns
 ::: {.column width="20%"}
 [![](./assets/img/lucas.jpg){width="100"}](https://lucasfarndale.github.io)
 :::
@@ -180,9 +129,96 @@ PhD Student
 
 CRUK Scotland Institute
 :::
+::::::
+
+:::::: columns
+::: {.column width="20%"}
+![](./assets/img/will.png){width="100"}
 :::
 
-::: columns
+::: {.column width="10%"}
+:::
+
+::: {.column width="70%"}
+[William Haese-Hill](https://www.gla.ac.uk/stafflist/search/person/4edeeeec8792)
+
+Research Software Engineer
+
+MVLS Shared Research Facilities
+:::
+::::::
+
+:::::: columns
+::: {.column width="20%"}
+[![](./assets/img/Vinny2.jpg){width="100"}](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vinnydavies/)
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="70%"}
+[Vinny Davies](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vinnydavies/)
+
+Lecturer in Statistics
+
+School of Mathematics and Statistics
+:::
+::::::
+
+# Alumni
+
+:::::: columns
+::: {.column width="20%"}
+![](./assets/img/HollyHall.jpeg){width="100"}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="70%"}
+[Holly Hall]()
+
+Postdoctoral Researcher
+
+CRUK Scotland Institute
+:::
+::::::
+
+:::::: columns
+::: {.column width="20%"}
+![](./assets/img/johnc.jpg){width="100"}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="70%"}
+[John Cole]()
+
+Lead Bioinformatician
+
+School of Infection and Immunity
+:::
+::::::
+
+:::::: columns
+::: {.column width="20%"}
+![](./assets/img/johnf.jpg){width="100"}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="70%"}
+[John Fozard]()
+
+Postdoctoral Researcher
+
+Centre for Viral Research
+:::
+::::::
+
+:::::: columns
 ::: {.column width="20%"}
 ![](./assets/img/olympia.jpeg){width="100"}
 :::
@@ -197,42 +233,4 @@ PhD Student
 
 School of Infection and Immunity
 :::
-:::
-
-
-::: columns
-::: {.column width="20%"}
-[![](./assets/img/will.png){width="100"}]()
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="70%"}
-[William Haese-Hill](https://www.gla.ac.uk/stafflist/search/person/4edeeeec8792)
-
-Research Software Engineer
-
-MVLS Shared Research Facilities
-
-:::
-:::
-
-
-::: columns
-::: {.column width="20%"}
-[![](./assets/img/Vinny2.jpg){width="100"}](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vinnydavies/)
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="70%"}
-[Vinny Davies](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vinnydavies/)
-
-Lecturer in Statistics
-
-School of Mathematics and Statistics
-
-:::
-:::
+::::::
