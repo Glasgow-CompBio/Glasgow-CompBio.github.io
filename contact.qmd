@@ -6,7 +6,7 @@ title: "Contact"
 
 If you have any questions, ideas, or would like to help with organising one of our events, please get in touch by email at [compbio-conference\@glasgow.ac.uk](mailto:compbio-conference@glasgow.ac.uk).
 
-If you have a specific question, you may wish to address it directly to a relevant member of the organising committee below. If you spot any errors on the website, please contact [Holly Hall](mailto:h.hall@crukscotlandinstitute.ac.uk).
+If you have a specific question, you may wish to address it directly to a relevant member of the organising committee below. If you spot any errors on the website, please contact [compbio-conference\@glasgow.ac.uk](mailto:compbio-conference@glasgow.ac.uk).
 
 [Join our mailing list here!](https://lists.cent.gla.ac.uk/sympa/info/compbio){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Mailing list"}
 
