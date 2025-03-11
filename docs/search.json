@@ -242,7 +242,7 @@
     "href": "conference.html",
     "title": "Annual conference",
     "section": "",
-    "text": "Glasgow University Computational Biology Conference 2024\n\n\nTake part in talks, networking and learning about everything computational biology!\n\n\n\n\n\n\nSep 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGlasgow University Computational Biology Conference 2023\n\n\nTake part in talks, networking and learning about everything computational biology!\n\n\n\n\n\n\nJul 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGlasgow University Computational Biology Conference 2022\n\n\nTake part in talks, networking and learning about everything computational biology!\n\n\n\n\n\n\nSep 1, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Glasgow University Computational Biology Conference 2024\n\n\nTake part in talks, networking and learning about everything computational biology!\n\n\n\n\n\n\nSep 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGlasgow University Computational Biology Conference 2023\n\n\nTake part in talks, networking and learning about everything computational biology!\n\n\n\n\n\n\nJul 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGlasgow University Computational Biology Conference 2022\n\n\nTake part in talks, networking and learning about everything computational biology!\n\n\n\n\n\n\nSep 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGlasgow University Computational Biology Conference 2021\n\n\nTake part in talks, networking and learning about everything computational biology!\n\n\n\n\n\n\nMay 27, 2021\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contact.html",
@@ -495,5 +495,47 @@
     "title": "Prof David L. Robertson",
     "section": "",
     "text": "Prof David L. Robertson is the head of CVR Bioinformatics at the MRC-University of Glasgow Centre for Virus Research"
+  },
+  {
+    "objectID": "conference/2021_conference/index.html",
+    "href": "conference/2021_conference/index.html",
+    "title": "Glasgow University Computational Biology Conference 2021",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "keynotes/key2021/breda.html",
+    "href": "keynotes/key2021/breda.html",
+    "title": "Dr Breda Cullen",
+    "section": "",
+    "text": "Dr Breda Cullen is a senior lecturer in Clinical Psychology and member of the UK Biobank Research Team who focuses on cognitive functions in chronic psychiatric and neurological disorders. Her background is in clinical neuropsychology and rehabilitation and has also attained a PhD in psychiatric epidemiology. Her interests reside in applying computational methods to identify risk factors associated with cognitive function and model treatment response to neurorehabilitation therapies."
+  },
+  {
+    "objectID": "keynotes/key2021/jess.html",
+    "href": "keynotes/key2021/jess.html",
+    "title": "Dr Jessica Enright",
+    "section": "",
+    "text": "Dr Jessica Enright is a lecturer within the University of Glasgow. Her background is in Computing Science and Mathematics, and her interests include modelling the risk factors for the spread of infectious disease. Her research primarily focuses on the use of graph theory to model difficult real-world problems, in particular predicting the spread of infectious outbreaks and developing strategies to contain them."
+  },
+  {
+    "objectID": "conference/2021_conference/index.html#our-2021-keynote-speakers",
+    "href": "conference/2021_conference/index.html#our-2021-keynote-speakers",
+    "title": "Glasgow University Computational Biology Conference 2021",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "keynotes/key2021/richard.html",
+    "href": "keynotes/key2021/richard.html",
+    "title": "Dr Richard Reeve",
+    "section": "",
+    "text": "Dr Richard Reeve is a Reader in the Institute of Biodiversity Animal Health & Comparative Medicine and is the co-director of Boyd Orr Centre for Population and Ecosystem Health. He had a background in AI before moving into life sciences where he uses modelling to study ecosystem health and biodiversity. His primary interests are the application of mathematical, computational and statistical tools to the areas of pathogens and vaccinology."
+  },
+  {
+    "objectID": "keynotes/key2021/robert.html",
+    "href": "keynotes/key2021/robert.html",
+    "title": "Prof Robert Insall FRSE",
+    "section": "",
+    "text": "Prof Robert Insall FRSE Leads the Cell Migration and Chemotaxis group at the Beatson Institute for Cancer Research. His group takes an interdisciplinary approach using mathematical models to inform biological experiments. The primary focus of his research is understanding the underlying mechanisms that guide cell migration processes. By using computational models to represent cells he can show that the predicted movement of these cells based on self-generated gradients is similar to that of real cells."
   }
 ]

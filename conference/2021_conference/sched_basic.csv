@@ -1,0 +1,26 @@
+time_start,time_end,Day,event,First,Last,Title
+12:00,12:40,Thursday,Keynote 1,Robert,Insall,"Self-generated chemotaxis: how cells solve mazes, and how to study it by iterative modelling and experiments"
+12:40,1:00,Thursday,Invited talk,David,Dalton,Graph Neural Network Emulation of Cardiac Mechanics
+1:00,1:20,Thursday,Invited talk,Ethan,Kelly,Introducing features of agency into computational models of infectious disease
+1:20,1:40,Thursday,Invited talk,Ben,Swallow,Efficient Bayesian parameter inference for high-dimensional stochastic dynamical biological systems using an approximation
+1:40,2:00,Thursday,Invited talk,Dimitra,Eleftheriou,Dirichlet Process Gaussian Mixture Models: an application in prostate cancer prediction
+2:00,2:30,Thursday,Coffee Break,,,
+2:30,3:00,Thursday,Networking Session,,,
+3:00,3:40,Thursday,Keynote 2,Richard,Reeve,Open and FAIR: using computational biology to support public policy
+3:40,4:00,Thursday,Invited talk,Derek,Wright,COG-UK Mutation Explorer: a dashboard for surveillance of SARS-CoV-2 mutations and associated antigenic information
+4:00,4:20,Thursday,Invited talk,Karen,McLuskey,FlyMet: An online metabolomics atlas for Drosophila tissues and aged flies
+4:20,4:40,Thursday,Invited talk,Joe Wandy,Ronan Daly,WebOmics: an Interactive Platform to Explore and Integrate Multi-Omics Data
+4:40,,Thursday,Networking Session,,,
+12:00,12:40,Friday,Keynote 3,Jessica,Enright,
+12:40,1:00,Friday,Invited talk,Megan,Griffths,"Multiple strains of herpesvirus in vampire bats: using longitudinal deep sequencing to infer inter- and intra-host dynamics of infection"
+1:00,1:20,Friday,Invited talk,Yanni,Ji,"Comparative study of learned and hand-crafted representations of single-cell images"
+1:20,1:40,Friday,Invited talk,Ana-Maria,Nastase,"Alignment of multiple metabolomics LC-MS datasets from disparate diseases reveal fever-associated metabolites"
+1:40,2:00,Friday,Invited talk,Ross,McBride,"Novelty-based Acquisition Methods for Multi-Sample Mass Spectrometry"
+2:00,2:20,Friday,Invited talk,Bachar,Cheaib,"Cell invasion, colonisation and genome erosion – what can neutral niche modelling and metagenomics tell us about the role of mycoplasmas in Atlantic salmon"
+2:20,3:00,Friday,Coffee Break,,, 
+3:00,3:40,Friday,Keynote 4,Breda,Cullen,"Prediction modelling in clinical neuropsychology"
+3:40,4:00,Friday,Invited talk,Cameron,Best,"Uncovering a metabolomic signature of treatment responses in patients with rheumatoid arthritis"
+4:00,4:20,Friday,Invited talk,Mario,Cangiano,"Gene Regulation Network Analysis on Human Prostate Ortho-grafts Highlights A Potential Role for the JMJD6 Regulon in Clinical Prostate Cancer"
+4:20,4:40,Friday,Invited talk,Yalei,Yang,"Classification of Myocardial Perfusion DCE-MRI using Hierarchical Bayesian Model with Spatio-temporal Markov Random Fields."
+4:40,5:00,Friday,Invited talk,Christopher,Walsh,"Using deep learning to detect tumour buds for faster and more accurate prognosis in colon cancer."
+5:00,,Friday,Networking Session,,,

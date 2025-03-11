@@ -1,0 +1,41 @@
+---
+title: "Glasgow University Computational Biology Conference 2021"
+description: "Take part in talks, networking and learning about everything computational biology!"
+image: compressedMol.gif
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+date: 05-27-2021
+listing:
+  - id: keynotes
+    contents: "../../keynotes/key2021/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 4
+    fields: [image, title]
+    grid-item-align: center
+---
+
+## Our 2021 Keynote Speakers
+
+::: {#keynotes}
+:::
+
+# Schedule
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+require(dplyr); require(kableExtra)
+data = read.csv("sched_basic.csv")
+data %>%
+  mutate(Time = paste0(time_start, "-", time_end),
+         Name = paste(First, Last)) %>%
+  select(Time, event, Name, Title) %>%
+kableExtra::kbl(escape = FALSE, align = "rlccc", table.attr = 'class="schedule-table"')  %>%
+  kable_styling() %>%
+  column_spec(1, width = "20%", extra_css = "padding-right: 20px;") %>% 
+  #column_spec(2, width = "20%", extra_css = "padding-right: 20px;") %>% 
+ # row_spec(c(4,8,11), background = "lightgrey") %>%
+    kableExtra::pack_rows(index = c("Thursday" = 12, "Friday" = 13),
+              label_row_css = "border-bottom: 2px solid #000000;") 
+
+
+
+```

@@ -47,7 +47,8 @@
     "items": [
       "/conference/2024_conference/index.html",
       "/conference/2023_conference/index.html",
-      "/conference/2022_conference/index.html"
+      "/conference/2022_conference/index.html",
+      "/conference/2021_conference/index.html"
     ]
   },
   {
@@ -65,6 +66,15 @@
       "/keynotes/key2022/simon.html",
       "/keynotes/key2022/tamir.html",
       "/keynotes/key2022/david.html"
+    ]
+  },
+  {
+    "listing": "/conference/2021_conference/index.html",
+    "items": [
+      "/keynotes/key2021/breda.html",
+      "/keynotes/key2021/jess.html",
+      "/keynotes/key2021/richard.html",
+      "/keynotes/key2021/robert.html"
     ]
   }
 ]

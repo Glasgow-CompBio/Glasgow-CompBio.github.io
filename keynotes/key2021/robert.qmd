@@ -1,0 +1,13 @@
+---
+title: "Prof Robert Insall FRSE"
+image: Robert.jpg
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.gla.ac.uk/schools/cancersciences/staff/robertinsall/
+---
+
+Prof Robert Insall FRSE Leads the Cell Migration and Chemotaxis group at the Beatson Institute for Cancer Research. His group takes an interdisciplinary approach using mathematical models to inform biological experiments. The primary focus of his research is understanding the underlying mechanisms that guide cell migration processes. By using computational models to represent cells he can show that the predicted movement of these cells based on self-generated gradients is similar to that of real cells.

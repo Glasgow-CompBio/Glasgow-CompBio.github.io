@@ -1,0 +1,13 @@
+---
+title: "Dr Breda Cullen"
+image: Breda.png
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.gla.ac.uk/researchinstitutes/healthwellbeing/staff/bredacullen/
+---
+
+Dr Breda Cullen is a senior lecturer in Clinical Psychology and member of the UK Biobank Research Team who focuses on cognitive functions in chronic psychiatric and neurological disorders. Her background is in clinical neuropsychology and rehabilitation and has also attained a PhD in psychiatric epidemiology. Her interests reside in applying computational methods to identify risk factors associated with cognitive function and model treatment response to neurorehabilitation therapies.

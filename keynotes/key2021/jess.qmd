@@ -1,0 +1,13 @@
+---
+title: "Dr Jessica Enright"
+image: Jess.jpeg
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.gla.ac.uk/schools/computing/staff/jessicaenright/
+---
+
+Dr Jessica Enright is a lecturer within the University of Glasgow. Her background is in Computing Science and Mathematics, and her interests include modelling the risk factors for the spread of infectious disease. Her research primarily focuses on the use of graph theory to model difficult real-world problems, in particular predicting the spread of infectious outbreaks and developing strategies to contain them.
