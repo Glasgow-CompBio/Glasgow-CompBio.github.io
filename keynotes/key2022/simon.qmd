@@ -1,0 +1,13 @@
+---
+title: "Dr Simon Rogers"
+image: SimonRogers.png
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: http://www.dcs.gla.ac.uk/~srogers/
+---
+
+Dr Simon Rogers is an AI data scientist at NHS National Services Scotland and an Honorary Lecturer in Computer Science at the University of Glasgow.

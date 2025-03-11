@@ -1,0 +1,13 @@
+---
+title: "Dr Tamir Chandra"
+image: TamirChandra.jpeg
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.ed.ac.uk/mrc-human-genetics-unit/research/chandra-group
+---
+
+Dr Tamir Chandra is a Chancellor's fellow and Tenured PI at The University of Edinburgh/MRC Human Genetics Unit at The University of Edinburgh.

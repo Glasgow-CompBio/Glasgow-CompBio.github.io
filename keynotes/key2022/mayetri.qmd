@@ -1,0 +1,13 @@
+---
+title: "Dr Mayetri Gupta"
+image: MayetriGupta.jpg
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.gla.ac.uk/schools/mathematicsstatistics/staff/mayetrigupta/
+---
+
+Dr Mayetri Gupta is a Reader in the School of Mathematics and Statistics.

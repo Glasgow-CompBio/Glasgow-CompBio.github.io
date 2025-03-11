@@ -46,7 +46,8 @@
     "listing": "/conference.html",
     "items": [
       "/conference/2024_conference/index.html",
-      "/conference/2023_conference/index.html"
+      "/conference/2023_conference/index.html",
+      "/conference/2022_conference/index.html"
     ]
   },
   {
@@ -55,6 +56,15 @@
       "/keynotes/key2024/keynote3.html",
       "/keynotes/key2024/keynote1.html",
       "/keynotes/key2024/keynote2.html"
+    ]
+  },
+  {
+    "listing": "/conference/2022_conference/index.html",
+    "items": [
+      "/keynotes/key2022/mayetri.html",
+      "/keynotes/key2022/simon.html",
+      "/keynotes/key2022/tamir.html",
+      "/keynotes/key2022/david.html"
     ]
   }
 ]

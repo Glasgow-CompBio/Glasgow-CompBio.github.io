@@ -1,0 +1,36 @@
+time_start,time_end,Day,event,First,Last,Title
+08:45,09:30,Thursday,Registration,,,
+09:30,09:45,Thursday,Introduction,,,"Introduction from Professor Muffy Calder, Head of College of Science and Engineering"
+09:45,10:30,Thursday,Keynote 1,David,Robertson,
+10:30,11:00,Thursday,Coffee,,,
+11:00,11:22,Thursday,Invited talk,Carlijn,Bogaardt,"Movenet: livestock movement networks, without data concerns."
+11:22,11:45,Thursday,Invited talk,Matt,Arnold,Feed your model more protein: Novel features based on viral protein composition and predicted interactions improve and slimline models of viral zoonoses.
+11:45,12:07,Thursday,Invited talk,Max,Schroeder,Two decades of elevated disease mortality risk following the main waves of influenza pandemics.
+12:07,12:30,Thursday,Invited talk,Roderic,Page,Building the biodiversity knowledge graph.
+12:30,13:30,Thursday,Poster Session and Lunch,,,
+13:30,13:45,Thursday,Introduction,,,Professor Ana Basiri: Centre for Data Science and AI
+13:45,14:30,Thursday,Keynote 2,Simon,Rogers,Spec2Vec -- rethinking spectral similarity in metabolomics.
+14:30,15:00,Thursday,Coffee,,,
+15:00,15:22,Thursday,Invited talk,Yanni,Ji,CellProfiler can draw: generating high-quality single-cell images using CellProfiler representations.
+15:22,15:45,Thursday,Invited talk,Sarah,Derby,The shape of the problem: double strand break location in glioblastoma.
+15:45,16:07,Thursday,Invited talk,Dan,Liu,Predict virus and host interactions based on pre-trained transformer model and attention-based multiple instances learning.
+16:07,16:30,Thursday,Invited talk,Ross,McBride,Maximum matching algorithms for comprehensive LC/MS data acquisition.
+16:30,16:45,Thursday,Closing Remarks for Day 1,,,
+After ARC,,Thursday,Drinks at Oran Mor,,,
+09:30,10:15,Friday,Keynote 3,Mayetri,Gupta,
+10:15,10:30,Friday,"Hacky Hour, Single Cell Clinic and Bioinformatics drop-in update"
+10:30,11:00,Friday,Coffee,,,
+11:00,11:22,Friday,Invited talk,Calum,Bentley-Abbot,FISHtoFigure: A single molecule fluorescent in-situ hybridisation (Smfish) tool for the automated analysis of transcriptional activity in tissues.
+11:22,11:45,Friday,Invited talk,Debao,Guan,A New Active Contraction Model for Myocardium Using a Modified  Hill Model.
+11:45,12:07,Friday,Invited talk,Andrew,Gillen,Finding drosophila genes of interest DIGITtally.
+12:07,12:30,Friday,Invited talk,Zaiqiao,Meng,Biomedical knowledge probing and infusing with pretrained language  models.
+12:30,13:30,Friday,Poster Session and Lunch,,,
+13:30,13:45,Friday,Comp Bio Society Update,,,
+13:45,14:30,Friday,Keynote 4,Tamir,Chandra,
+14:30,15:00,Friday,Coffee,,,
+15:00,15:22,Friday,Invited talk,Colin,Wood,Spatial transcriptomics deconvolutes histological subtypes of colorectal cancer liver metastases.
+15:22,15:45,Friday,Invited talk,Jennifer,McIntyre,Unravelling the haplotypes from a heterogenous pool of DNA: the impact of using HiC data to help with a complex draft genome assembly for a worm of small size.
+15:45,16:07,Friday,Invited talk,Ke,Yuan,Signatures of evolutionary dynamics in human cancer.
+16:07,16:30,Friday,Invited talk,Alison,MacFadyen,Computational Biology for Interrogating Bacterial Genomes - What we can and cannot do.
+16:30,16:45,Friday,Closing Remarks and Prize Announcements,,,
+After ARC,,Friday,Drinks at the Curlers Rest,,,
