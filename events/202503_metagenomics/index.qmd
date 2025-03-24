@@ -1,0 +1,25 @@
+---
+title: "March 2025"
+description: "Metagenomics"
+date: 03-31-2025
+image: image.jpeg
+image-alt: Rimantas Kodzius and Takashi Gojobori, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons
+categories: [genomics] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+**Join Us for the March UofG CompBio Meeting: Metagenomics!**
+
+🗓 **When?** 31st March, 3pm\
+📍 **Where?** Maths & Stats, Lecture Theatre: 116\
+🎙 **Speakers:**
+
+-   Umer Ijaz: Understanding microbial communities through *in situ* omics data synthesis
+
+-   Andrew Free: Meta-omics and Modelling in Studies of Microbial Bioaugmentation
+
+-   Hannah Lepper: Metagenomics to analyse antibiotic resistance patterns in community and hospital wastewater in Scotland
+
+We look forward to seeing you there!
+
+The CompBio Team
