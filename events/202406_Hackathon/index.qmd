@@ -13,7 +13,6 @@ Welcome to the University of Glasgow Computational Biology Hackathon. 
 
 Are you passionate about unravelling the mysteries of life through code and data? Do you dream of collaborating with brilliant minds to tackle complex biological problems? Look no further! Our exclusive hackathon is designed for researchers, students, and enthusiasts who share a common goal: advancing computational biology.
 
-[Sign Up Here!](https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Sign Up Link"}
 
 ## Event Details
 
@@ -101,12 +100,12 @@ A3: See Q1. We welcome participants from diverse backgrounds and you can contrib
 
 **Q4:** What if I don't know any other participants?
 
-A4: This is a great opportunity to get to know people from across the university! You don't need to have spoken to anyone prior to signing up, just fill out the [sign-up form](https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u) and you will be made very welcome.
+A4: This is a great opportunity to get to know people from across the university! You don't need to have spoken to anyone prior to signing up, just fill out the sign-up form and you will be made very welcome.
 
 **Q5:** Will I definitely be included in the team for my preferred project?
 
-A5: We aim to offer every participant a spot on their preferred team but this may not be possible if a project is oversubscribed. This is why we ask you to rank projects by preference on the [sign-up form](https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u). If there is a project you don't want to be considered for, please indicate this on the form.
+A5: We aim to offer every participant a spot on their preferred team but this may not be possible if a project is oversubscribed. This is why we ask you to rank projects by preference on the sign-up form. If there is a project you don't want to be considered for, please indicate this on the form.
 
 ## Registration
 
-Ready to embark on this scientific adventure? [Pick your preferred project and reserve your spot now](https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u). Limited slots available! Please express your interest and fill in the form by the 31st of May.
+Ready to embark on this scientific adventure? Pick your preferred project and reserve your spot now. Limited slots available! Please express your interest and fill in the form by the 31st of May.
