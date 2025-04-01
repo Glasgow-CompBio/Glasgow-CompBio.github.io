@@ -77,5 +77,13 @@
       "/keynotes/key2021/richard.html",
       "/keynotes/key2021/robert.html"
     ]
+  },
+  {
+    "listing": "/conference/2025_conference/index.html",
+    "items": [
+      "/keynotes/key2025/keynote1.html",
+      "/keynotes/key2025/keynote2.html",
+      "/keynotes/key2025/keynote3.html"
+    ]
   }
 ]

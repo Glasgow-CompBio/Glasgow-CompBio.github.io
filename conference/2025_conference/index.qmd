@@ -1,0 +1,133 @@
+---
+title: "Glasgow University Computational Biology Conference 2025"
+description: "Take part in talks, networking and learning about everything computational biology!"
+image: arc_image.jpg
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+date: 09-15-2025
+listing:
+  - id: keynotes
+    contents: "../../keynotes/key2025/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    fields: [image, title]
+    grid-item-align: center
+---
+
+# **Welcome to the Glasgow University Computational Biology Conference 2025**
+
+We are excited to announce the 5th iteration of our annual conference! Come along to take part in talks, networking, and learning about everything computational biology.
+
+**When:** 15th & 16th September.
+
+**Where:** Advanced Research Center (ARC)
+
+**Abstract submission deadline:** TBC
+
+## What to expect:
+
+-   **Specialist sessions:**
+    -   CompBio Through the Ages
+    -   More TBC
+-   **Scientific talks:**
+    -   Three amazing keynote speakers
+    -   Abstracts selected from your community on various topics within bioinformatics and computational biology
+-   **Networking:**
+    -   Coffee breaks long enough to have some great discussions!
+    -   Poster session
+
+## Our 2025 Keynote Speakers
+
+::: {#keynotes}
+:::
+
+## Programme of talks
+
+[Programme TBC](){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2025"}
+
+# Conference Scope and Interests
+
+Our conference is dedicated to exploring the diverse and dynamic intersections of computational biology. We welcome contributions from all areas where computational techniques and biological research converge. This includes, but is not limited to:
+
+-   **Genomics and Proteomics**: Analysis of genomic sequences, gene expression data, and protein structures using computational models and algorithms.
+-   **Systems Biology**: Integration of computational and mathematical modeling to understand complex biological systems and networks.
+-   **Bioinformatics**: Development and application of tools for the storage, retrieval, and analysis of biological data.
+-   **Computational Neuroscience**: Modeling of neural systems and brain functions using computational techniques.
+-   **Structural Biology**: Computational prediction and analysis of biological macromolecules' 3D structures.
+-   **Evolutionary Biology**: Use of computational methods to study evolutionary processes and phylogenetics.
+-   **Synthetic Biology**: Designing and modeling synthetic biological systems and organisms through computational approaches.
+-   **Biomedical Informatics**: Application of computational tools to manage and analyze biomedical data for healthcare advancements.
+-   **Computational Pharmacology**: Modeling and simulation of drug interactions and effects at the molecular and system levels.
+-   **Ecology and Environmental Biology**: Use of computational models to understand ecological systems and their responses to environmental changes.
+-   **Machine Learning and AI in Biology**: Application of machine learning and artificial intelligence to solve biological problems and uncover new insights.
+
+We are committed to fostering an inclusive and interdisciplinary environment where researchers from all backgrounds can share their latest findings, engage in thoughtful discussions, and build collaborations that push the boundaries of what is possible in computational biology. Whether you are a seasoned expert or a budding researcher, we invite you to join us in advancing the field and exploring new frontiers.
+
+# Practical information
+
+## Location
+
+**Advanced Research Centre (ARC), University of Glasgow**
+
+-   **Telephone:** +44 (0)141 330 4170
+
+-   **Address:** The Mazumdar-Shaw Advanced Research Centre, 11 Chapel Lane, G11 6EW
+
+-   [Find on Google Maps](https://goo.gl/maps/DbjyvBYBZwK4e5JG7)
+
+![Join us in the Mazumdar-Shaw Advanced Research Centre (ARC)](arc_image.jpg)
+
+## Transport to the Conference
+
+There are a number of ways to get to the conference site either by walking, cycling, public transport or driving. For more information about site accessibility, click the button below. We encourage all attendees to take sustainable travel routes where possible.
+
+[Click here to view transport and accessibility options](https://www.gla.ac.uk/myglasgow/sustainability/travel/traveltogilmorehillcampus/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View transport and accessibility options"}
+
+# Frequently Asked Questions (FAQs)
+
+**Q: Who can attend the conference?** A: The conference is open to researchers, industry professionals, students, and anyone interested in computational biology.
+
+**Q: How do I register for the conference?** A: You can register for the conference through the EventBright registration link provided on our website, which will be made available soon.
+
+**Q: What opportunities are there for me to present my work?** A: You have three options:
+
+-   Full presentation: 25 minute presentation with time for questions
+-   Flash talk: 3 minute presentation, includes the opportunity to bring a poster
+-   Poster: *Poster specifications coming soon*
+
+**Q: Can I submit an abstract for a presentation?** A: Yes, you can submit an abstract. Register for the conference via EventBright (link available soon), and then you can edit your registration to add an abstract at a later date.
+
+**Q: Is there a deadline for abstract submissions?** A: Yes, the deadline for abstract submissions is TBC. Please ensure you submit your abstract by this date for consideration.
+
+**Q: What types of tickets are available?** A: We offer several ticket types:
+
+-   **Free Ticket**: For those without funds.
+-   **General Ticket**: Covers catering and room hire costs.
+-   **Advance Ticket**: Offsets the cost of one free ticket.
+-   **Supporter Ticket**: Choose any amount to support the conference.
+
+**Q: Can I change my ticket type after purchasing?** A: No, ticket types cannot be changed after purchase. Please select the ticket that best fits your situation on EventBright.
+
+**Q: Will there be networking opportunities?** A: Yes, the conference includes multiple networking sessions to connect with peers, mentors, and potential collaborators.
+
+**Q: Are meals provided during the conference?** A: Yes, catering is included with your registration. Please indicate any dietary restrictions during the registration process.
+
+**Q: What is the refund policy for tickets?** A: Please refer to the EventBright page for our detailed refund policy.
+
+**Q: How can I stay updated on conference news and updates?** A: Follow our social media channels and check our website regularly for the latest updates.
+
+**Q: How do I get to the Advanced Research Centre at the University of Glasgow?** A: Detailed directions and travel information can be found on our Practical information section.
+
+**Q: Who do I contact for more information?** A: For any additional questions, please contact us at [compbio-conference\@glasgow.ac.uk](mailto:compbio-conference@glasgow.ac.uk){.email}.
+
+**Q: Do you have any travel bursaries?** A: We do not have the funds to offer travel fellowships at this time.
+
+# Meet the organisers
+
+[Check out the contact page](https://glasgow-compbio.github.io/contact.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View our conference organisers"}
+
+# Previous Conferences
+
+[Glasgow Computational Biology Conference 2024](https://glasgow-compbio.github.io/conference/2024_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2024 conference"}
+
+[Glasgow Computational Biology Conference 2023](https://glasgow-compbio.github.io/conference/2023_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2023 conference"}

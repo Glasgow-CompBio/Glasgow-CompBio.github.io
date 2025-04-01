@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="dcterms.date" content="2024-06-12">
 <meta name="description" content="Biology Meets Big Data">
 
-<title>Hackathon 2024 – Glasgow CompBio Community</title>
+<title>Glasgow CompBio Community - Hackathon 2024</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -85,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -112,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
+          <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -179,7 +179,6 @@ ul.task-list li input[type="checkbox"] {
 <h1>Biology Meets Big Data Hackathon 2024</h1>
 <p>Welcome to the University of Glasgow Computational Biology Hackathon.&nbsp;</p>
 <p>Are you passionate about unravelling the mysteries of life through code and data? Do you dream of collaborating with brilliant minds to tackle complex biological problems? Look no further! Our exclusive hackathon is designed for researchers, students, and enthusiasts who share a common goal: advancing computational biology.</p>
-<p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u" class="btn btn-info" role="button" data-toggle="tooltip" title="Sign Up Link">Sign Up Here!</a></p>
 <section id="event-details" class="level2">
 <h2 class="anchored" data-anchor-id="event-details">Event Details</h2>
 <ul>
@@ -248,13 +247,13 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Q3:</strong> I am a master student and worried about my skills suitability.</p>
 <p>A3: See Q1. We welcome participants from diverse backgrounds and you can contribute in many different ways. Also, please note that most projects require initial preparation before the Hackathon.</p>
 <p><strong>Q4:</strong> What if I don’t know any other participants?</p>
-<p>A4: This is a great opportunity to get to know people from across the university! You don’t need to have spoken to anyone prior to signing up, just fill out the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u">sign-up form</a> and you will be made very welcome.</p>
+<p>A4: This is a great opportunity to get to know people from across the university! You don’t need to have spoken to anyone prior to signing up, just fill out the sign-up form and you will be made very welcome.</p>
 <p><strong>Q5:</strong> Will I definitely be included in the team for my preferred project?</p>
-<p>A5: We aim to offer every participant a spot on their preferred team but this may not be possible if a project is oversubscribed. This is why we ask you to rank projects by preference on the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u">sign-up form</a>. If there is a project you don’t want to be considered for, please indicate this on the form.</p>
+<p>A5: We aim to offer every participant a spot on their preferred team but this may not be possible if a project is oversubscribed. This is why we ask you to rank projects by preference on the sign-up form. If there is a project you don’t want to be considered for, please indicate this on the form.</p>
 </section>
 <section id="registration" class="level2">
 <h2 class="anchored" data-anchor-id="registration">Registration</h2>
-<p>Ready to embark on this scientific adventure? <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u">Pick your preferred project and reserve your spot now</a>. Limited slots available! Please express your interest and fill in the form by the 31st of May.</p>
+<p>Ready to embark on this scientific adventure? Pick your preferred project and reserve your spot now. Limited slots available! Please express your interest and fill in the form by the 31st of May.</p>
 
 
 </section>
@@ -296,7 +295,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const onCopySuccess = function(e) {
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -328,29 +338,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
   });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -358,7 +346,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

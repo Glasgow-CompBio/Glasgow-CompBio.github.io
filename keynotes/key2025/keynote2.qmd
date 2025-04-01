@@ -1,0 +1,13 @@
+---
+title: "Keynote 2"
+image: keynote2.png
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://glasgow-compbio.github.io/
+---
+
+TBC
