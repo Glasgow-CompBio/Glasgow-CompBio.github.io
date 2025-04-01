@@ -9,19 +9,23 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 # Hackathon 2025
 
+[Registration is now open! Apply here by 1st May 2025.](https://forms.office.com/e/c33SNGsY8A){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Sign up form"}
+
 Welcome to the University of Glasgow Computational Biology Hackathon. 
 
 Are you passionate about unravelling the mysteries of life through code and data? Do you dream of collaborating with brilliant minds to tackle complex biological problems? Look no further! Our exclusive hackathon is designed for researchers, students, and enthusiasts who share a common goal: advancing computational biology.
 
 [See what we got up to last year!](https://glasgow-compbio.github.io/events/202406_Hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2024"}
 
+## Timeline
+
 This year we have decided to change the process of collecting project proposals. We are going to start with an initial expression of interest and an abstract submission. Below is the outlined hackathon timeline.
 
-1.  Step 1: Abstract submission ([email us](mailto:compbio-conference@glasgow.ac.uk) with a short abstract, no longer than 500 words). Deadline: **December 18th, 2024**. Following the abstract submission, the team will review your abstracts and liaise further with you to help shape exciting but achievable projects.
+1.  Step 1: Abstract submission ([email us](mailto:compbio-conference@glasgow.ac.uk) with a short abstract, no longer than 500 words). Deadline: **December 18th, 2024** (Closed). Following the abstract submission, the team will review your abstracts and liaise further with you to help shape exciting but achievable projects.
 
-2.  Step 2: Full project proposal deadline: March, 2025 TBC. Only projects that have completed Step 1 will be considered.
+2.  Step 2: Full project proposal deadline: March, 2025 (Closed). Only projects that have completed Step 1 will be considered.
 
-3.  Step 3: Participants application form opens April 2025
+3.  Step 3: [Participants application form](https://forms.office.com/e/c33SNGsY8A) opens 1st April 2025, and closes 1st May 2025 (now open!)
 
 4.  Step 4: Hackathon event, 4-6th June 2025
 
@@ -47,15 +51,43 @@ Let us know if you have any questions, we can’t wait to see your ideas!
 
 ## Who Should Attend?
 
--   **Postgrads**: Whether you’re a Masters or a PhD candidate, this hackathon is your chance to apply computational techniques to real-world biological questions.
+Whatever your career stage or job title, we would love to hear from you if you have skills you think could benefit a team. Whether you are from a wet-lab, dry-lab, or non-lab background, we would love you to bring your skills to a highly interdisciplinary team. We strongly encourage those in non-research roles and those from non-traditional scientific backgrounds to apply, and we select participants based on skills and enthusiasm, not perceived status!
 
--   **Researchers**: Join forces with fellow scientists to crack complex problems. Collaborate, brainstorm, and innovate!
+-   [**Undergrads**:](https://forms.office.com/e/c33SNGsY8A) Are you interested in problem solving? Do you have programming skills you wish to apply to biological problems? Do you have biological knowledge you can bring to a team? Are you wondering if research is a potential next step? [Sign up!](https://forms.office.com/e/c33SNGsY8A) 
 
--   **PIs**: Share your expertise and mentor the next generation of computational biologists.
+-   [**Postgrads**:](https://forms.office.com/e/c33SNGsY8A) Whether you’re a Masters or a PhD candidate, this hackathon is your chance to apply computational techniques to real-world biological questions.
+
+-   [**Researchers**:](https://forms.office.com/e/c33SNGsY8A) Join forces with fellow scientists to crack complex problems. Collaborate, brainstorm, and innovate!
+
+-   [**Scientific/Technical Staff**:](https://forms.office.com/e/c33SNGsY8A) Can you bring your expertise or insight to help solve biological problems? Please sign up!
+
+-   [**PIs**:](https://forms.office.com/e/c33SNGsY8A) Share your expertise and mentor the next generation of computational biologists.
 
 ## The Projects
 
-**TBC**
+**3D Big Data – developing a pipeline from microscope to discovery** 
+
+Advances in light microscopy and tissue clearing techniques allow us to image whole mouse organs in minutes-to-hours. This generates large datasets and processing them is not trivial. During the hackathon we will work towards developing a robust workflow to help with the processing of such datasets.  
+
+[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/EaIL_fyrWRZLt_q2c51uqnMBxpd0XhybUTngLS6_Toh97w?e=3FQVFL) 
+
+**Graph-Based Representations for Storing Sequence Alignments** 
+
+The continuous growth of sequencing data has brought a pressing need for efficient storage and analysis of genomic information. Traditional methods for storing multiple sequence alignments (MSAs) or reference-based read alignments (BAM/CRAM), are often large files with significant levels of sequence redundancy.  Can we do better and use a graph-based approach for representation?
+
+[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/EZ0mFoxoh-xJqeczHNpqOBEBRdzxSLuunVj8Z-vPiFX3Yg?e=5deoEI) 
+
+**Mining and visualisation of cell type-specific sequence alignment data to evaluate alternative splicing** 
+
+Genome browsers do not have an effective way of visualising and annotating alternative introns/exons. Starting with BAM files the project aims to develop ways of highlighting regions that require annotation and improve on visualisation of alternative splicing.  
+
+[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/EW3BaGIRXiNJgQELFQn8ZDcBN4LHIl0yYgVBOAw5BznODg?e=QJYZx1) 
+
+**Multiomics Data Integration for Oncology Classification Models** 
+
+Generating multiple data modalities from the same patient samples is increasingly common. This allows for a range of biological questions to be addressed and provides an exciting data integration challenge. The goal of the hackathon is to tackle a multimodal integration challenge for a cancer dataset.
+
+[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/EW4cuzMDs61Ip26G14VjrEwBBUZFUYL5ApKezZZw-6SBrA?e=jUvhMG) 
 
 ## FAQs
 
@@ -67,13 +99,13 @@ A1: Hackathons are a great environment to learn, so don't worry, just be upfront
 
 A2: While attending the full duration of the Hackathon would be beneficial, we understand that committing 3 days might be difficult for some. Please include that information in your application form.
 
-**Q3:** I am a master student and worried about my skills suitability.
+**Q3:** I am an undergrad/master student and worried about my skills suitability.
 
-A3: See Q1. We welcome participants from diverse backgrounds and you can contribute in many different ways. Also, please note that most projects require initial preparation before the Hackathon.
+A3: See Q1. We welcome participants from diverse backgrounds and you can contribute in many different ways. Also, please note that some projects require initial preparation before the Hackathon.
 
 **Q4:** What if I don't know any other participants?
 
-A4: This is a great opportunity to get to know people from across the university! You don't need to have spoken to anyone prior to signing up, you will be made very welcome.
+A4: This is a great opportunity to get to know people from across the university! You don't need to have spoken to anyone prior to signing up, you will be made very welcome, and there will be many other people in the same position.
 
 **Q5:** Will I definitely be included in the team for my preferred project?
 
@@ -81,4 +113,4 @@ A5: We aim to offer every participant a spot on their preferred team but this ma
 
 ## Registration
 
-TBC
+[Sign up here!](https://forms.office.com/e/c33SNGsY8A) Registration closes 1st May 2025

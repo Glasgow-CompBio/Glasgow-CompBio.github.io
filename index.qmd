@@ -29,17 +29,19 @@ Join the vibrant Glasgow Computational Biology community at the University of Gl
 
 [Glasgow Computational Biology Conference 2024](https://glasgow-compbio.github.io/conference/2024_conference/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View details of our 2024 conference"}[Check out our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}[CompBio Hackathon 2025](https://glasgow-compbio.github.io/events/202506_Hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2025"}
 
-## Hackathon 2025
+## [Hackathon 2025](https://glasgow-compbio.github.io/events/202506_Hackathon/)
+
+[Registration is now open! Apply here by 1st May 2025.](https://forms.office.com/e/c33SNGsY8A){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Sign up form"}
 
 Following the success of our CompBio 2024 Hackathon, we are happy to start planning the next one.
 
 This year we have decided to change the process of collecting project proposals. We are going to start with an initial expression of interest and an abstract submission. Below is the outlined hackathon timeline.
 
-Step 1: Abstract submission ([email us](mailto:compbio-conference@glasgow.ac.uk) with a short abstract, no longer than 500 words). Deadline: **December 18th, 2024**. Following the abstract submission, the team will review your abstracts and liaise further with you to help shape exciting but achievable projects.
+Step 1: Abstract submission ([email us](mailto:compbio-conference@glasgow.ac.uk) with a short abstract, no longer than 500 words). Deadline: **December 18th, 2024 (Closed)**. Following the abstract submission, the team will review your abstracts and liaise further with you to help shape exciting but achievable projects.
 
-Step 2: Full project proposal deadline: March, 2025 TBC. Only projects that have completed Step 1 will be considered.
+Step 2: Full project proposal deadline: March 2025 (Closed). Only projects that have completed Step 1 will be considered.
 
-Step 3: Participants application form opens April 2025
+Step 3: Participants application form now open, deadline 1st May 2025. [Sign up now!](https://forms.office.com/e/c33SNGsY8A)
 
 Step 4: Hackathon event, 4-6th June 2025
 
