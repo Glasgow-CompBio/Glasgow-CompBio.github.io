@@ -1,13 +1,13 @@
 ---
-title: "Keynote 2"
-image: keynote2.png
+title: "Ram DasGupta"
+image: Ram_DasGupta.jpeg
 toc: false
 about:
   template: jolla
   links:
     - icon: link
       text: website
-      href: https://glasgow-compbio.github.io/
+      href: https://www.crukscotlandinstitute.ac.uk/cruk-si-research/cruk-si-research-groups/ramanuj-dasgupta-cancer-systems-biology-and-tumour-evolution.html
 ---
 
 TBC

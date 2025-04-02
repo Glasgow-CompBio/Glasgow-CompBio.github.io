@@ -1,13 +1,13 @@
 ---
-title: "Keynote 3"
-image: keynote3.png
+title: "Shona Hilton"
+image: shona-hilton.png
 toc: false
 about:
   template: jolla
   links:
     - icon: link
       text: website
-      href: https://glasgow-compbio.github.io/
+      href: https://www.strath.ac.uk/staff/hiltonshonaprofessor/#contact
 ---
 
 TBC
