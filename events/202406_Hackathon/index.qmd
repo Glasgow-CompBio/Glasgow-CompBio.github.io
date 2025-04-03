@@ -13,7 +13,6 @@ Welcome to the University of Glasgow Computational Biology Hackathon. 
 
 Are you passionate about unravelling the mysteries of life through code and data? Do you dream of collaborating with brilliant minds to tackle complex biological problems? Look no further! Our exclusive hackathon is designed for researchers, students, and enthusiasts who share a common goal: advancing computational biology.
 
-
 ## Event Details
 
 -   **Date**: 12th-14th June, 2024
