@@ -1,6 +1,6 @@
 ---
 title: "Shona Hilton"
-image: shona-hilton.png
+image: shona-hilton.jpg
 toc: false
 about:
   template: jolla
