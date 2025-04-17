@@ -18,6 +18,7 @@
     "listing": "/events.html",
     "items": [
       "/events/202506_Hackathon/index.html",
+      "/events/202505_WoS/index.html",
       "/events/202503_metagenomics/index.html",
       "/events/202501_variants/index.html",
       "/events/202501_ecology/index.html",
@@ -46,6 +47,7 @@
   {
     "listing": "/conference.html",
     "items": [
+      "/conference/2025_conference/index.html",
       "/conference/2024_conference/index.html",
       "/conference/2023_conference/index.html",
       "/conference/2022_conference/index.html",

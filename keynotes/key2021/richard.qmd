@@ -10,4 +10,4 @@ about:
       href: https://www.gla.ac.uk/researchinstitutes/bahcm/staff/richardreeve/
 ---
 
-Dr Richard Reeve is a Reader in the Institute of Biodiversity Animal Health & Comparative Medicine and is the co-director of Boyd Orr Centre for Population and Ecosystem Health. He had a background in AI before moving into life sciences where he uses modelling to study ecosystem health and biodiversity. His primary interests are the application of  mathematical, computational and statistical tools to the areas of pathogens and vaccinology.
+Dr Richard Reeve is a Reader in the Institute of Biodiversity Animal Health & Comparative Medicine and is the co-director of Boyd Orr Centre for Population and Ecosystem Health. He had a background in AI before moving into life sciences where he uses modelling to study ecosystem health and biodiversity. His primary interests are the application of mathematical, computational and statistical tools to the areas of pathogens and vaccinology.

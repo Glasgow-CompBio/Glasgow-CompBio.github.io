@@ -1,0 +1,48 @@
+---
+title: "CompBio Writing Retreat 2025"
+description: "Write of Spring 2025"
+date: 05-22-2025
+image: image.jpeg
+categories: [writing retreat] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Glasgow CompBio Community Writing Retreat
+
+[Registration is now open! Book via Inkpath from 23/04](https://glasgow.inkpath.co.uk/#/ActivityDetailPage/%7B%22id%22:105133%7D){.btn .btn-info .btn role="button"}
+
+The Glasgow Computational Biology Community will be hosting its very first writing retreat as part of the 2025 “Write of Spring” festival!
+
+This session is open to anyone with an interest in the field of computational biology, from PGR to professor! Regardless of if you are polishing a manuscript, drafting a grant, or outlining your next big idea, our structured session will allow you to work alongside a multi-disciplinary gathering and away from daily distractions.
+
+You’ll have the opportunity to network with fellow computational biologists, with a generous supply of coffee and cake! So come along and join the community and let’s get writing!
+
+## Event Details
+
+-   **Date**: 22nd May, 2025
+
+-   **Time:** 9am-1pm
+
+-   **Location**: Room 237AB, The Mazumdar-Shaw Advanced Research Centre (ARC), 11 Chapel Lane, University of Glasgow, G11 6EW
+
+## FAQs
+
+**Q1:** What is a "writing retreat"?
+
+A1: Writing retreats are sessions led by a facilitator, where participants are encouraged to tackle a measurable writing goal that they would like to complete. This might be something that they have put off and need a little extra motivation to get started on, such as writing up a Thesis chapter or drafting a manuscript. The emphasis is on avoiding distraction and procrastination, in a supportive, structured environment alongside like-minded individuals.
+
+**Q2:** What will happen during the retreat?
+
+A2: Like many other writing retreats, we will utilise the [Pomodoro Technique](https://www.todoist.com/productivity-methods/pomodoro-technique#what-is-the-pomodoro-technique), with blocks of 25 minutes of concentrated writing, interspersed with 5 minute breaks. There will be a longer break halfway through the session, during which participants can choose to network or simply refresh.
+
+**Q3:** What should I bring?
+
+A3: Whether you prefer to write on your laptop, or simply with pen and paper, just make sure you have everything you need to achieve your writing goal. While it is understandable that some participants will need to use the internet, you will be encouraged to have your phone on silent, and forgo checking emails / other distractions. This is both to avoid disturbing fellow attendees, and also to help you maintain focus. 
+
+**Q4:** Will there be any catering?
+
+A4: Coffee, tea and seasonal fruit will be available throughout the session. A selection of cakes will be made available during the halfway break. You will have the opportunity to specify any dietary requirements on the Inkpath booking form.
+
+**Q5:** Can I join remotely?
+
+A5: This will be an in-person only session. This will makes things easier to facilitate and avoid any AV-related distractions that a hybrid event can bring. If you are interested in attending a virtual writing retreat, we recommend the 2 hour sessions found on Inkpath, hosted by a network of universities around Europe.
