@@ -9,7 +9,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 # Glasgow CompBio Community Writing Retreat
 
-[Registration is now open! Book via Inkpath from 23/04](https://glasgow.inkpath.co.uk/#/ActivityDetailPage/%7B%22id%22:105133%7D){.btn .btn-info .btn role="button"}
+[Registration is now open! Book via Inkpath from 23/04](https://glasgow.inkpath.co.uk/#/redirect/eyJuYW1lIjoiQWN0aXZpdHlEZXRhaWxQYWdlIiwicGFyYW1zIjp7ImlkIjoxMDUxMzN9fQ==){.btn .btn-info .btn role="button"}
 
 The Glasgow Computational Biology Community will be hosting its very first writing retreat as part of the 2025 “Write of Spring” festival!
 
