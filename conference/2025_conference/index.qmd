@@ -2,7 +2,7 @@
 title: "Glasgow University Computational Biology Conference 2025"
 description: "Take part in talks, networking and learning about everything computational biology!"
 image: arc_image.jpg
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 date: 09-15-2025
 listing:
   - id: keynotes
@@ -142,8 +142,4 @@ There are a number of ways to get to the conference site either by walking, cycl
 
 We are hugely grateful to our sponsors -- without their support this event would not be possible!
 
-![](./assets/img/mvls-shared-research-facilities.png){width="400"}
-![](./assets/img/cdsai.jpg){width="400"}
-![](./assets/img/mvls.png){width="400"}
-![](./assets/img/cose.png){width="400"}
-
+![](./assets/img/mvls-shared-research-facilities.png){width="400"} ![](./assets/img/cdsai.jpg){width="400"} ![](./assets/img/mvls.png){width="400"} ![](./assets/img/cose.png){width="400"}
