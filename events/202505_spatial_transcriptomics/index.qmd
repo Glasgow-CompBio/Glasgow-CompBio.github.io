@@ -1,0 +1,22 @@
+---
+title: "May 2025"
+description: "Spatial Transcriptomics"
+date: 05-07-2025
+image: image.png
+categories: [spatial-transcriptomics] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+We are excited to announce our May event taking place on the **7th of May**, from **3pm**. This month we are off to the Garscube campus and the **CRUK Scotland Institute**.
+
+We have an exciting line-up:
+
+-   **Florent Petitprez** (University of Edinburgh) Spatial transcriptomics to interrogate intra- and inter-tumour heterogeneity in glioblastoma
+
+-   **Lucas Zeiger** (CRUK Scotland Institute) Spatial transcriptomics to investigate cell states and therapy resistance in colorectal cancer
+
+-   **Tengyu Zhang** (University of Glasgow) Exploring the spatial patterns in malignant epithelial for pancreatic cancer
+
+Looking forward to seeing you all there,
+
+The CompBio Team
