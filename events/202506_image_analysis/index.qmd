@@ -1,0 +1,24 @@
+---
+title: "June 2025"
+description: "Image Analysis"
+date: 06-17-2025
+image: image.png
+categories: [image-analysis] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+We are excited to announce our June event taking place on the **17th of June**, from **3pm**. This month we are kindly hosted by Maths and Stats.
+
+**Date:** 17th June, 3-5pm\
+**Location:** Room 116, Maths and Stats Building\
+**Talks:**
+
+-   **Luciana Luque:** From zero to hero: An end-to-end computational pipeline for analysis of multiplexed images
+
+-   **Joshua Roche:** Challenges in CT-Based Assessment of Pleural Mesothelioma
+
+-   **Surajit Ray:** Tumour Segmentation for Lymphoma Using a Pre-trained U-Net model and Probability Contour Framework
+
+Looking forward to seeing you all there,
+
+The CompBio Team
