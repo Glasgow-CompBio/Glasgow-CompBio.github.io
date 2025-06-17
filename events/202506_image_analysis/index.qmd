@@ -13,11 +13,11 @@ We are excited to announce our June event taking place on the **17th of June**, 
 **Location:** Room 116, Maths and Stats Building\
 **Talks:**
 
+-   **Surajit Ray:** Tumour Segmentation for Lymphoma Using a Pre-trained U-Net model and Probability Contour Framework
+
 -   **Luciana Luque:** From zero to hero: An end-to-end computational pipeline for analysis of multiplexed images
 
 -   **Joshua Roche:** Challenges in CT-Based Assessment of Pleural Mesothelioma
-
--   **Surajit Ray:** Tumour Segmentation for Lymphoma Using a Pre-trained U-Net model and Probability Contour Framework
 
 Looking forward to seeing you all there,
 

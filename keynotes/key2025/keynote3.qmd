@@ -1,13 +1,13 @@
 ---
-title: "Shona Hilton"
-image: shona-hilton.jpg
+title: "Ava Khamseh"
+image: ava-khamseh.jpg
 toc: false
 about:
   template: jolla
   links:
     - icon: link
       text: website
-      href: https://www.strath.ac.uk/staff/hiltonshonaprofessor/#contact
+      href: https://institute-genetics-cancer.ed.ac.uk/research/research-groups-a-z/a-khamseh-group
 ---
 
 TBC
