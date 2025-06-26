@@ -18,7 +18,7 @@ about:
     - icon: list
       text: Mailing list
       href: https://lists.cent.gla.ac.uk/sympa/info/compbio
-  
+
 ---
 
 # Bringing Glasgow's computational biology & bioinformatics community together
@@ -29,35 +29,7 @@ Join the vibrant Glasgow Computational Biology community at the University of Gl
 
 [Glasgow Computational Biology Conference 2025](https://glasgow-compbio.github.io/conference/2025_conference/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View details of our 2025 conference"}[Check out our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}[CompBio Hackathon 2025](https://glasgow-compbio.github.io/events/202506_Hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2025"}
 
-## [Hackathon 2025](https://glasgow-compbio.github.io/events/202506_Hackathon/)
-
-[Registration is now open! Apply here by 1st May 2025.](https://forms.office.com/e/c33SNGsY8A){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Sign up form"}
-
-Following the success of our CompBio 2024 Hackathon, we are happy to start planning the next one.
-
-This year we have decided to change the process of collecting project proposals. We are going to start with an initial expression of interest and an abstract submission. Below is the outlined hackathon timeline.
-
-Step 1: Abstract submission ([email us](mailto:compbio-conference@glasgow.ac.uk) with a short abstract, no longer than 500 words). Deadline: **December 18th, 2024 (Closed)**. Following the abstract submission, the team will review your abstracts and liaise further with you to help shape exciting but achievable projects.
-
-Step 2: Full project proposal deadline: March 2025 (Closed). Only projects that have completed Step 1 will be considered.
-
-Step 3: Participants application form now open, deadline 1st May 2025. [Sign up now!](https://forms.office.com/e/c33SNGsY8A)
-
-Step 4: Hackathon event, 4-6th June 2025
-
-Let us know if you have any questions, we can't wait to see your ideas!
-
-The CompBio Team
-
-## Monthly Events
-
-Engage in lively discussions and exchange ideas at our regular science-sharing events!
-
-Our community gathers to explore fascinating advancements in computational biology and bioinformatics, sparking conversations that inspire innovation. Join us at various locations across the university, from the main campus at Gilmorehill to centers at Garscube, and afterward, unwind and continue the conversation at the pub.
-
-[More information about our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}
-
-## The Conference
+## Glasgow Computational Biology Conference 2025
 
 ### Overview
 
@@ -65,7 +37,7 @@ Our community gathers to explore fascinating advancements in computational biolo
 
 Computational biology is fast becoming one of the most interesting research areas in modern science and the University of Glasgow has a large number of researchers working within the area.
 
-[Click here for more information about the 2024 Glasgow Computational Biology Conference](https://glasgow-compbio.github.io/conference/2024_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2024 conference"}
+[Click here for more information about the 2025 Glasgow Computational Biology Conference](https://glasgow-compbio.github.io/conference/2025_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2025 conference"}
 
 #### Topics of Interest
 
@@ -80,3 +52,13 @@ Computational biology is fast becoming one of the most interesting research area
 The University of Glasgow computational biology conference is an opportunity for Ph.D. students and early career researchers to come together to share ideas and build collaboration for future projects. The conference will cover a wide variety of applied and methodological research related to computational biology, and we welcome researchers from a variety of backgrounds.
 
 If your research area is not covered by the list above but it's still relevant to computational biology, do not hesitate to submit an abstract. The conference will give the chance for students and early career researchers to present their work, but also give them the opportunity to listen to established researchers from within the University of Glasgow. See the confirmed list of keynote speakers. This event provides excellent opportunities to network and discuss your research.
+
+
+## Monthly Events
+
+Engage in lively discussions and exchange ideas at our regular science-sharing events!
+
+Our community gathers to explore fascinating advancements in computational biology and bioinformatics, sparking conversations that inspire innovation. Join us at various locations across the university, from the main campus at Gilmorehill to centers at Garscube, and afterward, unwind and continue the conversation at the pub.
+
+[More information about our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}
+

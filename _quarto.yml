@@ -12,6 +12,8 @@ website:
         text: Monthly Events
       - href: conference.qmd
         text: Annual Conference
+      - href: hackathon.qmd
+        text: Hackathon
       - href: contact.qmd
         text: Contact
       - href: blog.qmd
