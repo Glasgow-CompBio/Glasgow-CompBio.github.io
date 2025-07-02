@@ -1,0 +1,28 @@
+---
+title: "July 2025"
+description: "Alpha Genome"
+date: 07-00-2025
+image: image.png
+categories: [genomics] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Hey CompBio folks, we’ve got a slightly different plan for our July event. DeepMind have just put out work on a project known as AlphaGenome. We thought it’d be fun to discuss it.
+
+AlphaGenome is a large DNA language model that supposedly can help understand gene regulation and variant effects. There is a blog post ([https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdeepmind.google%2Fdiscover%2Fblog%2Falphagenome-ai-for-better-understanding-the-genome%2F&data=05%7C02%7CLucas.Farndale%40glasgow.ac.uk%7C0ba57007a5784a130f1f08ddb4d37805%7C6e725c29763a4f5081f22e254f0133c8%7C1%7C0%7C638865542527908930%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qu27BNvfy%2B%2BDPMk%2FyT77L5WlX2uGbbDZTbWTMULGntk%3D&reserved=0 "Original URL: https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/. Click or tap if you trust this link.")) and preprint ([https://storage.googleapis.com/deepmind-media/papers/alphagenome.pdf](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstorage.googleapis.com%2Fdeepmind-media%2Fpapers%2Falphagenome.pdf&data=05%7C02%7CLucas.Farndale%40glasgow.ac.uk%7C0ba57007a5784a130f1f08ddb4d37805%7C6e725c29763a4f5081f22e254f0133c8%7C1%7C0%7C638865542527923806%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=99ZWyRVT26IeaLDZoIXey5Hq91ByatnxdiYi%2BpkVb%2FM%3D&reserved=0 "Original URL: https://storage.googleapis.com/deepmind-media/papers/alphagenome.pdf. Click or tap if you trust this link."))
+
+For the journal club, I’ll put together a short presentation to go over the key ideas. And then we can discuss it. I’d recommend reading the blog post and as much of the paper as you can manage ahead of time so we can have a good discussion.
+
+**What:** Jake Lever will talk about AlphaGenome with plenty of time for some chat
+
+**When:** Sir Alwyn Williams Building (Computing Science): Rooms 422/423
+
+**Where:** 4pm on Thursday July 17^th^
+
+**Preparation:** We recommend reading the above links (as much as you can 😊) and come with ideas/confusion, but not preparation is required!
+
+Plus we will head to the pub afterwards as usual.
+
+Hope to see you there,
+
+The CompBio Team
