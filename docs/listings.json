@@ -18,9 +18,9 @@
   {
     "listing": "/events.html",
     "items": [
+      "/events/202507_alphagenome/index.html",
       "/events/202506_image_analysis/index.html",
       "/events/202506_Hackathon/index.html",
-      "/events/202507_alphagenome/index.html",
       "/events/202505_WoS/index.html",
       "/events/202505_spatial_transcriptomics/index.html",
       "/events/202503_metagenomics/index.html",
@@ -37,7 +37,8 @@
       "/events/202402_mathMod/index.html",
       "/events/202401_assembly/index.html",
       "/events/202312_quiz/index.html",
-      "/events/202311_epigen/index.html"
+      "/events/202311_epigen/index.html",
+      "/events/2000_examplePost/index.html"
     ]
   },
   {

@@ -1,7 +1,7 @@
 ---
 title: "July 2025"
 description: "Alpha Genome"
-date: 07-00-2025
+date: 07-17-2025
 image: image.png
 categories: [genomics] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
