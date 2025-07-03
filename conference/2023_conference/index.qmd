@@ -1,5 +1,5 @@
 ---
-title: "Glasgow University Computational Biology Conference 2023"
+title: "University of Glasgow Computational Biology Conference 2023"
 description: "Take part in talks, networking and learning about everything computational biology!"
 image: compBio_com_23V2.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
@@ -14,7 +14,7 @@ listing:
     grid-item-align: center
 ---
 
-# **Welcome to the Glasgow University Computational Biology Conference 2023**
+# **Welcome to the** University of Glasgow **Computational Biology Conference 2023**
 
 Come and join us at the ARC on the 3rd and 4th of July 2023
 
@@ -38,11 +38,11 @@ data %>%
   select(Time, event, Name, Title) %>%
 kableExtra::kbl(escape = FALSE, align = "rlccc", table.attr = 'class="schedule-table"')  %>%
   kable_styling() %>%
-  column_spec(1, width = "20%", extra_css = "padding-right: 20px;") %>% 
-  #column_spec(2, width = "20%", extra_css = "padding-right: 20px;") %>% 
+  column_spec(1, width = "20%", extra_css = "padding-right: 20px;") %>%
+  #column_spec(2, width = "20%", extra_css = "padding-right: 20px;") %>%
  # row_spec(c(4,8,11), background = "lightgrey") %>%
     kableExtra::pack_rows(index = c("Monday" = 13, "Tuesday" = 13),
-              label_row_css = "border-bottom: 2px solid #000000;") 
+              label_row_css = "border-bottom: 2px solid #000000;")
 
 
 

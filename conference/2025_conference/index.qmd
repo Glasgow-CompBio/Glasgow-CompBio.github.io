@@ -1,5 +1,5 @@
 ---
-title: "Glasgow University Computational Biology Conference 2025"
+title: "University of Glasgow Computational Biology Conference 2025"
 description: "Take part in talks, networking and learning about everything computational biology!"
 image: arc_image.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
@@ -14,7 +14,7 @@ listing:
     grid-item-align: center
 ---
 
-# **Welcome to the Glasgow University Computational Biology Conference 2025**
+# **Welcome to the University of Glasgow Computational Biology Conference 2025**
 
 We are excited to announce the 5th iteration of our annual conference! Come along to take part in talks, networking, and learning about everything computational biology.
 
@@ -29,8 +29,7 @@ We are excited to announce the 5th iteration of our annual conference! Come alon
 ## What to expect:
 
 -   **Specialist sessions:**
-    -   CompBio Through the Ages
-    -   More TBC
+    -   TBC
 -   **Scientific talks:**
     -   Three amazing keynote speakers
     -   Abstracts selected from your community on various topics within bioinformatics and computational biology

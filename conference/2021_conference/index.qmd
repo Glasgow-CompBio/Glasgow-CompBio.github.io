@@ -1,5 +1,5 @@
 ---
-title: "Glasgow University Computational Biology Conference 2021"
+title: "University of Glasgow Computational Biology Conference 2021"
 description: "Take part in talks, networking and learning about everything computational biology!"
 image: compressedMol.gif
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
@@ -30,11 +30,11 @@ data %>%
   select(Time, event, Name, Title) %>%
 kableExtra::kbl(escape = FALSE, align = "rlccc", table.attr = 'class="schedule-table"')  %>%
   kable_styling() %>%
-  column_spec(1, width = "20%", extra_css = "padding-right: 20px;") %>% 
-  #column_spec(2, width = "20%", extra_css = "padding-right: 20px;") %>% 
+  column_spec(1, width = "20%", extra_css = "padding-right: 20px;") %>%
+  #column_spec(2, width = "20%", extra_css = "padding-right: 20px;") %>%
  # row_spec(c(4,8,11), background = "lightgrey") %>%
     kableExtra::pack_rows(index = c("Thursday" = 12, "Friday" = 13),
-              label_row_css = "border-bottom: 2px solid #000000;") 
+              label_row_css = "border-bottom: 2px solid #000000;")
 
 
 
