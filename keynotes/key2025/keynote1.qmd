@@ -10,4 +10,27 @@ about:
       href: https://www.ncl.ac.uk/medical-sciences/people/profile/katherineduncan.html
 ---
 
-TBC
+**Title:** Marine microbial biodiscovery - using biological questions to uncover patterns in\
+microbial ‘omics data
+
+**\
+Abstract:** Microbial drug discovery in the 'omics era relies on three key datasets,\
+biosynthetic, chemical and biological (activity). Yet, to integrate and interrogate\
+these large and complex datasets remains a challenge and results in the low-\
+throughput prioritization of only a few strains based on observed antibiotic activity.\
+Despite this wealth of genomic and metabolomic data, linking metabolites to the\
+BGC responsible for their production and to observed bioactivity is limited, slow\
+(manual) and challenging. Furthermore, our current discovery is reliant on existing\
+biosynthetic, chemical and antibiotic knowledge, thus overlooking unidentified\
+parent ions (metabolites) or hypothetical proteins (BGCs) which is the exact\
+chemical and biosynthetic space which should be prioritized to identify novel\
+antibiotics. Here, approaches to combine data sets consisting of bacterial\
+genomes (and their predicted BGCs), the chemical products of these same strains\
+and their bioactivity profiles will be discussed. Several datasets of Actinomycetota\
+genomes have been mined for BGCs and these strains cultured to generate\
+metabolite extracts for comparative metabolomics (high resolution tandem mass\
+spectrometry /molecular networking) and antibiotic screening (against a panel of\
+clinically relevant pathogens). Driven by biological questions, tools have been\
+developed to establish patterns across strains and learn relationships between\
+BGC, spectral features and bioactivity – here we will discuss experimental data\
+considerations and how ‘omics information is informing biodiscovery.
