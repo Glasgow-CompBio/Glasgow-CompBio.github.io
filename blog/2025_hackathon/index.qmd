@@ -3,7 +3,7 @@ title: "CompBio Hackathon 2025: Collaborative Problem Solving"
 description: "Researchers and students gathered in Glasgow to build collaborative, code-based solutions to real-world computational biology challenges."
 image: people.JPG
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
-date: 08-20-2025
+date: 08-21-2025
 ---
 
 From 4th to 6th June, over 40 researchers and students gathered at the University of Glasgow's McMillan Round Reading Room for the Computational Biology Community Hackathon 2025, tackling real-world data challenges over three days. Four interdisciplinary teams developed novel code-based solutions to advance current research problems. The event showed how focused, collaborative work can lead to meaningful progress in computational biology, helping participants turn ideas into practical tools for research. Each team shared their results on the final day with fellow attendees and a panel of judges.
