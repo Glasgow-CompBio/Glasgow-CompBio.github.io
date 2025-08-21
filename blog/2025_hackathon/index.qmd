@@ -1,0 +1,35 @@
+---
+title: "CompBio Hackathon 2025: Collaborative Problem Solving"
+description: "Researchers and students gathered in Glasgow to build collaborative, code-based solutions to real-world computational biology challenges."
+image: people.JPG
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+date: 08-20-2025
+---
+
+From 4th to 6th June, over 40 researchers and students gathered at the University of Glasgow's McMillan Round Reading Room for the Computational Biology Community Hackathon 2025, tackling real-world data challenges over three days. Four interdisciplinary teams developed novel code-based solutions to advance current research problems. The event showed how focused, collaborative work can lead to meaningful progress in computational biology, helping participants turn ideas into practical tools for research. Each team shared their results on the final day with fellow attendees and a panel of judges.
+
+![](people.JPG)
+
+### Winning Project: Graph-Based Sequence Alignment Storage
+
+Led by Joseph Hughes, this team developed graph-based frameworks to store sequence alignments more efficiently than traditional formats, reducing redundancy in low sequence diversity datasets (e.g., SARS-CoV-2). Their approach models sequences as paths through nucleotide graphs, enabling scalable and queryable storage with integrated metadata. [GitHub](https://github.com/josephhughes/graphMSA)
+
+### Improving Alternative Splicing Visualisation
+
+Will Haese-Hill’s team built workflows to process RNA-Seq data for better visualisation of alternative splicing in genome browsers. They modularised development across GitHub issues and are preparing their pipeline for publication. [GitHub](https://github.com/haessar/HackathonAltSplicing)
+
+### 3D Big Data for Medical Imaging
+
+Claire Mitchell’s group created tools to handle multi-terabyte imaging datasets. They developed scripts converting NGFF (Zarr) to HDF5 using Dask for distributed processing and adapted Neuroglancer for direct Zarr visualisation, streamlining analysis pipelines for large-scale datasets. [GitHub](https://github.com/shaunchuah/gbc_hackathon_2025)
+
+### Multiomics Integration for Oncology Classification Models
+
+Simon Fisher’s team integrated miRNA, RNA, DNA, CNV, methylation, and histology data to classify breast cancer samples using multiple machine learning architectures. Their best multimodal model achieved a Weighted F1 of 0.84, matching histology alone. They also prototyped a GUI for data integration and model explainability. [GitHub](https://github.com/Beatson-CompBio/Hackathon_2025_MultiOMICS)
+
+------------------------------------------------------------------------
+
+### Looking Ahead
+
+All teams presented impressive outputs and received offers of continued support from the MVLS Research Software Engineering (RSE) team, with some aiming for journal publications. The organisers thank sponsors Centre for Data Science and AI and MVLS NERD for making the event possible. We hope you’ve been inspired to join a team or submit a proposal next year!
+
+![](CDSAI.png){width="150"} ![](NERD.jpg){width="400"}
