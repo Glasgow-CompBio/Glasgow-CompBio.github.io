@@ -1,0 +1,18 @@
+---
+title: "First-Ever Glasgow CompBio Writing Retreat: A new tradition in the making?"
+description: "The community stepped away from code and data to focus on writing.
+The retreat left participants motivated, and eager for more."
+image: image.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+date: 08-20-2025
+---
+
+### First-Ever Glasgow CompBio Writing Retreat: A new tradition in the making?
+
+The Glasgow CompBio Community recently held its inaugural writing retreat, an event that brought together around 10-15 enthusiastic members for a dedicated focus on academic writing. This retreat was a proud part of the larger Write of Spring festival, a two-week celebration of academic writing practice led by the University of Glasgow's Research Culture & Researcher Development Team. The festival's mission is to create a welcoming and inclusive space for all who engage with academic writing, and the CompBio retreat certainly embodied this spirit.
+
+The retreat provided a fantastic opportunity for attendees, including academics, postgraduate researchers, research professionals, technicians, and research staff, to step away from their usual routines and immerse themselves in their writing projects. Participants engaged in focused writing sessions, fostering a productive environment that allowed for significant progress on various research outputs. Beyond the individual writing, the retreat also facilitated valuable networking opportunities, allowing community members to connect, share insights, and build relationships. A key element of the retreat's structure was goal setting, helping individuals to define clear objectives for their writing during the event and beyond.
+
+Overall, the feedback from participants was unanimously positive, with calls for more retreats in future. The focused environment, combined with the camaraderie of the CompBio community, made the retreat a well-received and highly beneficial experience for everyone involved. While writing retreats are a well-established practice in the humanities, this event offered a valuable opportunity for researchers in the sciences to benefit from the same model. This successful first retreat bodes well for future collaborations and continued support for academic writing within the Glasgow CompBio community.
+
+![](rcrd.png){width="150"}
