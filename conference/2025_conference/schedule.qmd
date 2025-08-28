@@ -33,11 +33,46 @@ if (!exists("mutate", mode = "function")) {
 
 # Create the table data
 table_data <- data %>%
-  dplyr::mutate(Time = paste0(time_start, "-", time_end),
-                Speaker = ifelse(is.na(Speaker) | Speaker == "", "", Speaker),
-                Topic = ifelse(is.na(Topic) | Topic == "", "", Topic),
-                Event = event
-               ) %>%
+  dplyr::mutate(
+    Time = paste0(time_start, "-", time_end),
+    Speaker = ifelse(is.na(Speaker) | Speaker == "", "", Speaker),
+    Topic = ifelse(is.na(Topic) | Topic == "", "", Topic),
+    Event = event,
+    # Create clickable links for talks with abstracts
+    Title = case_when(
+      grepl("Stator.*single cell data", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/ava-keynote.html">', Title, '</a>'),
+      grepl("GeneWeaver 3", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/ram-keynote.html">', Title, '</a>'),
+      grepl("Cell-specific action potential", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/cardiology-talk.html">', Title, '</a>'),
+      grepl("Patient-Specific Multiscale Modelling of Glioblastoma", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/glioblastoma-talk.html">', Title, '</a>'),
+      grepl("A tRNA regulatory nexus", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/trna-talk.html">', Title, '</a>'),
+      grepl("Rectal cancer.*spatial single-cell", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/rectal-cancer-talk.html">', Title, '</a>'),
+      grepl("DOMAINet.*Domain-Oriented", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/domainnet-talk.html">', Title, '</a>'),
+      grepl("Viro3D.*comprehensive database", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/viro3d-talk.html">', Title, '</a>'),
+      grepl("Making Sense of Big Data.*MetaAtlas", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/metaatlas-talk.html">', Title, '</a>'),
+      grepl("Spatially Resolved Single Cell Analysis.*Bevacizumab", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/ram-keynote-spatial.html">', Title, '</a>'),
+      grepl("Marine microbial biodiscovery", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/kate-keynote.html">', Title, '</a>'),
+      grepl("AI Driven Models.*Flare Risk.*RA", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/ra-flare-prediction.html">', Title, '</a>'),
+      grepl("Performance Comparison.*Statistical Emulators", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/statistical-emulators.html">', Title, '</a>'),
+      grepl("Multi-omics Cancer Subtyping Hackathon", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/cancer-subtyping-hackathon.html">', Title, '</a>'),
+      grepl("The Virus Genome Toolkit.*V-gTK", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/virus-toolkit-hackathon.html">', Title, '</a>'),
+      TRUE ~ as.character(Title)
+    )
+  ) %>%
   dplyr::select(Time, Event, Speaker, Topic, Title)
 
 # Count rows for each day

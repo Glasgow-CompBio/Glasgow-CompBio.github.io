@@ -1,0 +1,23 @@
+---
+title: "Rectal cancer: spatial single-cell transcriptomics reveals radiotherapy resistance features across the crypt architecture"
+description: "Submitted Talk"
+---
+
+## Talk Details
+
+**Time:** Monday, 14:10-14:30\
+**Speaker:** Tom Wright\
+**Topic:** Cancer\
+**Type:** Submitted Talk
+
+## Abstract
+
+Locally advanced rectal cancer (T2–T4) is routinely treated with radiotherapy to shrink tumours before surgical removal. While 15–30% of patients achieve a complete response and can avoid surgery, the remainder have variable outcomes and exhibit radioresistance. Predictive biomarkers and the underlying mechanisms of resistance have yet to be identified. Addressing these challenges could transform patient stratification and facilitate radiosensitisation strategies.
+
+The Roxburgh lab has established a unique longitudinal biopsy protocol throughout radiotherapy treatment in rectal cancer patients. Using bulk RNA-sequencing, temporal gene expression patterns of radiotherapy have been detected for the first time. Building on these findings, we are now exploiting cutting-edge spatial single-cell RNA-sequencing techniques to atlas the compartmental adaptive response to radiotherapy. As a first step, cell subtype and gene expression analysis has identified features of radioresistant rectal tumour epithelium.
+
+By integrating temporal and single-cell spatial transcriptomic data, our work aims to establish a molecular atlas of radiotherapy response in rectal cancer. Validation using high-plex immunofluorescence of biopsy specimens and investigation of drug targets in our emerging organoid library will lay the foundation for precision treatment allocation and rational radiosensitiser development.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

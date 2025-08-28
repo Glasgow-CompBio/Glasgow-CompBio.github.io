@@ -1,0 +1,23 @@
+---
+title: "Viro3D: a comprehensive database of virus protein structure predictions"
+description: "Submitted Talk"
+---
+
+## Talk Details
+
+**Time:** Monday, 15:20-15:40\
+**Speaker:** Ulad Litvin\
+**Topic:** Viruses\
+**Type:** Submitted Talk
+
+## Abstract
+
+Viruses are genetic parasites of cellular life. Tolerance to genetic change, high mutation rates, adaptations to hosts, and immune escape have driven extensive sequence divergence of viral genes, hampering phylogenetic inference and functional annotation. Protein structure, however, is more conserved, allowing searches for distant homologs and revealing otherwise obscured evolutionary histories.
+
+Viruses are underrepresented in current protein structure databases, but this can be addressed by recent advances in machine learning. Using AlphaFold2-ColabFold and ESMFold, we predicted structures for 85,000 proteins from 4,400 viruses, expanding viral coverage 30-times compared to experimental structures.
+
+Using this data, we map form and function across the human and animal virosphere and examine the evolutionary history of viral class-I fusion glycoproteins, revealing the potential origins of coronavirus spike glycoprotein. Our database, Viro3D (https://viro3d.cvr.gla.ac.uk/), will allow the virology community to fully benefit from the structure prediction revolution, facilitating fundamental molecular virology and structure-informed design of therapies and vaccines.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

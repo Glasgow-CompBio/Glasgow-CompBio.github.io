@@ -1,0 +1,27 @@
+---
+title: "Making Sense of Big Data - Democratising Meta-Analysis using MetaAtlas"
+description: "Submitted Talk"
+---
+
+## Talk Details
+
+**Time:** Tuesday, 11:15-11:35\
+**Speaker:** Andrew Gillen\
+**Topic:** Genetics\
+**Type:** Submitted Talk
+
+## Abstract
+
+In the age of "Big Data", our capacity to generate large datasets is increasing at an astronomical rate. This is especially true within the model organisms where much research is focused.
+
+A flashpoint for this issue exists in the fruit fly Drosophila melanogaster, with over 1,900 independent groups around the world studying the fly. In such a wide field, it is unsurprising that vast quantities of data exist – indeed, NCBI's Sequence Run Archive (SRA) currently hosts \>90,000 individual Drosophila RNAseq samples, divided between single cell and bulk RNAseq data.
+
+Intuitively, this is a good thing – after all, more data should enable researchers to perform deep preliminary studies on public data to generate new hypothesis. However, the sheer volume of available data, and the relative paucity of associated metadata, makes navigating the data landscape an onerous task. In addition, data from diverse groups or produced in different ways show wildly varying results, even for the most high-profile datasets.
+
+To rectify this issue, we have created a new, open resource for the fly community, MetaAtlas (www.metaatlas.org), which plays host to harmonized analyses of all interpretable SRA bulk RNAseq datasets (\>20,000 individual samples). Manually curated metadata allows samples to be easily sorted by various categories, including fly genotype, life stage or experimental intervention. Selected experiments can then be directly compared, providing a rapid readout of gene expression values from across the published research space.
+
+By streamlining meta-analysis, MetaAtlas provides users with access to the full power of the Drosophila melanogaster community, enabling Big Data to become a key strength of, rather than an obstacle to, analysis.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

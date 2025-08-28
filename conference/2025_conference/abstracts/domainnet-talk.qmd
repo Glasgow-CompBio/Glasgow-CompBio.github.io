@@ -1,0 +1,21 @@
+---
+title: "DOMAINet: Domain-Oriented Mutation-aware Analysis Network for RBPs using Protein Language Models"
+description: "Submitted Talk"
+---
+
+## Talk Details
+
+**Time:** Monday, 15:00-15:20\
+**Speaker:** Rozeena Arif\
+**Topic:** Viruses\
+**Type:** Submitted Talk
+
+## Abstract
+
+Protein-RNA interactions play a vital role in virus-host infections. It thus becomes essential to identify the binding interfaces between these two molecules for efficient understanding and manipulation of the mechanism. Several deep learning approaches have been proposed to predict RNA-binding domains (RBDs) in proteins; however, these approaches pose challenges for precise prediction at nucleotide level resolution of interacting residues.
+
+Here we present DOMAINet (Domain-Oriented Mutation-aware Analysis Network for RBPs), which incorporates Protein Language Model ESM-2 trained and finetuned on the experimental datasets of RNA Binding proteins to predict binding probability of the whole protein. DOMAINet is further finetuned on experimentally identified RNA binding domains from RBPs to recognize binding regions within RBPs. DOMAINet shows high sensitivity towards point mutations and can be used to identify functionally significant residues within the protein. Training on a broad dataset of RBPs from protozoans to higher vertebrates has enabled model to generalize well on diverse datasets. Performance evaluation on high confidence experimental datasets shows that DOMAINet outperforms state-of-the-art methods.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

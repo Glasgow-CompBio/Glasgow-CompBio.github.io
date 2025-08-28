@@ -1,0 +1,23 @@
+---
+title: "Spatially Resolved Single Cell Analysis of Bevacizumab-induced Enhancement of anti-PD1 Response in Nasopharyngeal Cancer"
+description: "Keynote by Ram DasGupta"
+---
+
+## Talk Details
+
+**Time:** Tuesday, 9:40-10:25\
+**Speaker:** Ram DasGupta\
+**Topic:** Cancer\
+**Type:** Keynote
+
+## Abstract
+
+This keynote will explore the application of spatially resolved single-cell analysis to understand how bevacizumab enhances anti-PD1 immunotherapy response in nasopharyngeal cancer. Using cutting-edge spatial transcriptomics and single-cell sequencing technologies, we investigate the complex interactions between tumor cells, immune cells, and the tumor microenvironment following combination therapy.
+
+Our research reveals how bevacizumab, an anti-VEGF therapy, modifies the spatial organization of immune infiltrates and creates a more favorable microenvironment for PD-1 checkpoint inhibitor efficacy. Through detailed spatial mapping, we identify key cellular neighborhoods and communication pathways that predict therapeutic response.
+
+The findings have important implications for understanding combination immunotherapy strategies and developing personalized treatment approaches for nasopharyngeal cancer patients.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

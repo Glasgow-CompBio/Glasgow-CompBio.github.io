@@ -1,0 +1,23 @@
+---
+title: "A tRNA regulatory nexus of cell-state dependent protein expression"
+description: "Submitted Talk"
+---
+
+## Talk Details
+
+**Time:** Monday, 13:50-14:10\
+**Speaker:** Britt van Abeelen\
+**Topic:** Cancer\
+**Type:** Submitted Talk
+
+## Abstract
+
+Functionally related genes, including those associated with proliferation, exhibit similar codon usage patterns. This impacts protein production through the control of mRNA decay and translation. By applying RNA- and tRNA-seq alongside SLAM-seq and pulsed-SILAC to a human fibroblast cell line, we characterised the distinct codon usage patterns associated with proliferative and quiescent gene expression programmes and identified a set of rare tRNAs upregulated during proliferation. Importantly, these tRNAs are confined to a discrete locus on human chromosome 6, while quiescent associated tRNAs are distributed throughout the genome.
+
+Here we further investigate the role of these tRNAs in proliferation and cancer by integrating RNA-, tRNA- and ATAC-seq from multiple cancer cell lines, in combination with multiomics data from The Cancer Genome Atlas (TCGA). By analysing ATAC-seq and RNA-seq from the TCGA cohort, we find that the tRNAs upregulated in our proliferative fibroblast cell line contain anticodons matching proliferative gene sets upregulated in human tumours. Further, we find that high accessibility of these tRNAs is linked to poor patient outcome.
+
+Taken these data together these data reveal a surprising and previously unreported pattern of coordination between codon usage, genomic organisation and expression of tRNAs to aid proliferation in cancer.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

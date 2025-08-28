@@ -1,0 +1,25 @@
+---
+title: "Multi-omics Cancer Subtyping Hackathon Project"
+description: "Hackathon Presentation"
+---
+
+## Talk Details
+
+**Time:** Tuesday, 15:55-16:15\
+**Speaker:** Robin Shaw\
+**Topic:** Hackathon\
+**Type:** Submitted Talk
+
+## Abstract
+
+Multimodal integration, the fusing of information between different data modalities within a machine learning architecture, is becoming increasingly relevant in biomedicine as datasets become richer. Three main architectures constitute multimodal integration- early (the concatenation of features), intermediate (mathematical operations in the latent space) and late (mathematical operations on single modality outputs).
+
+In this three-day hackathon, we classified ductal versus lobular breast adenocarcinoma using the publicly available TCGA Breast Cancer dataset across six data modalities- RNA, miRNA, SNV, CNV, Methylation and Histology (n-fully-available, train, val, test = 383, 82, 84). We evaluated this task against early, intermediate and late integration approaches. Additionally, we created a graphical-user-interface in the style which may be deployed in a healthcare setting to communicate findings to patients and clinicians.
+
+Our results in the validation set indicate that early integration dominates predictive performance at F1 (weighted) of 0.78 (+/- 0.12) versus 0.7 (+/- 0.1) for intermediate and 0.69 (+/- 0.06) with a best performing early model of RNA, miRNA, H&E and CNV at 0.84. Additionally, we observed that the best performing single modalities were competitive with the best multimodal architecture at 0.83 for histology and 0.82 for miRNA. Finally, our user interface incorporates the ability to explore, train models, evaluate with explainability and predict for individual patients.
+
+In conclusion, our initial codebase both sets a baseline for breast cancer classification and provides a platform for researchers to explore multimodal integration.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

@@ -1,0 +1,23 @@
+---
+title: "GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics"
+description: "Keynote by Ram"
+---
+
+## Talk Details
+
+**Time:** Tuesday, 9:40-10:25\
+**Speaker:** Ram DasGupta\
+**Topic:** Genetics\
+**Type:** Keynote
+
+## Abstract
+
+Over two decades ago, we presented the GeneWeaver system that consisted of multiple interacting agents, each endowed with a particular bioinformatics expertise. We orchestrated these systems of agents to cooperate, driven by goals, to annotated bacterial genomes. At the time, we faced two key difficulties: the development of a flexible language for agents to communicate goals to each other and the flexible creation of plans to satisfy these goals.
+
+Could both these aspects be solved with the recent rise of LLMs and Agentic AI? Will this result in a new era of bioinformatics data and tool integration? Will we all get knowledgeable bioscience assistants?
+
+This talk will first provide an introduction to LLMs, Agentic AI and Federated AI for bioinformatics; before outlining the results of a few case studies we have carried out in this area.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

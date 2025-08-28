@@ -1,0 +1,23 @@
+---
+title: "Marine microbial biodiscovery - using biological questions to uncover patterns in microbial 'omics data"
+description: "Keynote by Kate Duncan"
+---
+
+## Talk Details
+
+**Time:** Tuesday, 14:00-14:45\
+**Speaker:** Kate Duncan\
+**Topic:** Marine Biology/Metabolomics\
+**Type:** Keynote
+
+## Abstract
+
+Marine environments harbor an extraordinary diversity of microorganisms that represent an untapped reservoir of bioactive compounds and novel biological functions. This keynote will explore how integrating biological questions with cutting-edge 'omics technologies can reveal hidden patterns in microbial communities and guide biodiscovery efforts.
+
+We will discuss innovative computational approaches for analyzing multi-omics data from marine microbes, including metagenomics, metatranscriptomics, and metabolomics. By focusing on biologically relevant questions about adaptation, symbiosis, and chemical ecology, we can uncover meaningful patterns that would otherwise remain hidden in the complexity of high-dimensional data.
+
+The talk will showcase recent discoveries of novel biosynthetic pathways and bioactive compounds from marine microorganisms, demonstrating how hypothesis-driven computational biology can accelerate the discovery of new drugs, enzymes, and biotechnological applications. We will also discuss the challenges and opportunities in translating computational discoveries into practical applications for human health and environmental sustainability.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

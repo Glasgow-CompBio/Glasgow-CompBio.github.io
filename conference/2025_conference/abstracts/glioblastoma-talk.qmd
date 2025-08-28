@@ -1,0 +1,27 @@
+---
+title: "Patient-Specific Multiscale Modelling of Glioblastoma: Targeted Modulation of Interstitial Fluid Flow Using Electric Field"
+description: "Submitted Talk"
+---
+
+## Talk Details
+
+**Time:** Monday, 13:30-13:50\
+**Speaker:** Zita Fulop\
+**Topic:** Cancer\
+**Type:** Submitted Talk
+
+## Abstract
+
+Glioblastomas are aggressive and highly heterogeneous brain tumours with poor prognosis and limited treatment options. Their complex microstructure present significant barriers to therapy. Accurate modelling of their physical environment is crucial to understand and improve therapeutic delivery. We present a novel, patient-specific, multi-compartment and multiscale model, that simulates interstitial fluid flow, pressure and electric field distributions, with a focus on modulating flow using externally applied electric fields. The macroscale geometry is derived from MRI scans and the microstructure is informed by histopathological consultations.
+
+Unlike most existing models, which rely on experimental averages, idealised geometries, or homogeneous tissue assumptions, our framework incorporates real anatomical macroscale geometries and captures microscale tissue heterogeneity via asymptotic homogenisation. This enables the derivation of effective, physiologically meaningful transport properties that bridge the gap between patient-specific macrostructure and underlying microscale variations.
+
+The model is applied at three clinical stages: (i) pre-operative, (ii) post-operative with recurrence, and (iii) further progression. Each compartment- necrotic core, tumour, oedema, and healthy tissue, is assigned distinct dielectric and hydraulic properties. The tumour and oedema regions incorporate locally periodic microstructures with varying periodic cell inclusion shapes.
+
+We solve the homogenised Darcy and Laplace type equations to compute spatial distributions of pressure, velocity profile, and electric potential. Our results show elevated interstitial fluid pressure in tumour and oedema regions and physiologically realistic outward flow. We demonstrate that the application of the electric field can reverse and redirect interstitial flow, enabling control of fluid streamlines to penetrate the tumour- an essential step toward improving targeted delivery.
+
+This work established a computational foundation for understanding how electrokinetic modulation affects flow pathways. To our knowledge, this is one of the first models that combines realistic macroscale geometries and multiscale modelling for glioblastoma, offering new insights for patient-specific treatment strategies.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

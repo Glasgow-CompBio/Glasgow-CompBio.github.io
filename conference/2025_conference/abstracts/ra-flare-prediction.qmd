@@ -1,0 +1,25 @@
+---
+title: "AI Driven Models for Predicting Flare Risk in RA Patients in Remission to Guide Treatment Tapering"
+description: "Submitted Talk"
+---
+
+## Talk Details
+
+**Time:** Tuesday, 11:35-11:55\
+**Speaker:** Sneha Sharma\
+**Topic:** Genetics\
+**Type:** Submitted Talk
+
+## Abstract
+
+Artificial intelligence (AI) is redefining healthcare in the era of personalized and precision medicine. Over the past decade, AI advancements have transformed how healthcare professionals diagnose, treat, and manage diseases. This project focuses on applying Machine Learning (ML) to develop models predicting flare occurrences in rheumatoid arthritis (RA) patients in remission, particularly in the context of tapering treatment.
+
+Tapering therapy in RA patients who are in sustained remission is a common clinical practice. However, clinical decisions around treatment reduction or withdrawal remain unguided, and the risk of flare is unpredictable representing a relevant burden for patients. By integrating machine learning with spatial and single-cell transcriptomics of the synovial tissue macrophage populations, the study aims to identify molecular patterns associated with flare risk.
+
+Several machine learning algorithms, including Logistic Regression (LR), Random Forest (RF), and XGBoost (XGB), are employed to predict flare risk. In addition, SHAP (SHapley Additive exPlanations) is used to highlight key genes and cell types that contribute to predictive outcomes, providing interpretability. Preliminary results indicate strong predictive performance, particularly on TREM2+ macrophage cluster located in the lining layer regions of the synovial tissue.
+
+Using a consensus between the predictions made by models trained on spatial lining and sublining macrophage populations data, as well as those trained on different macrophage clusters from single cell RNA sequencing data, we will improve the reliability and accuracy of flare predictions, leading to a stronger and more trustworthy clinical decision support system. The ultimate goal of this work is to test the developed model's outcomes in a clinical trial which will contribute to the development of a decision support system that can guide personalized treatment strategies for RA patients, leveraging AI to enhance clinical decision making.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

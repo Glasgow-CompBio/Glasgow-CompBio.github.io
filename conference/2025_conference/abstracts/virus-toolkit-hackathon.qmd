@@ -1,0 +1,21 @@
+---
+title: "The Virus Genome Toolkit (V-gTK) and Database (V-gDB): An Ecosystem for Curating and Exploring Viral Genomes"
+description: "Hackathon Presentation"
+---
+
+## Talk Details
+
+**Time:** Tuesday, 16:15-16:35\
+**Speaker:** Laura Mojsiejczuk, Joseph Hughes and Sandeep Kasaragod\
+**Topic:** Hackathon\
+**Type:** Submitted Talk
+
+## Abstract
+
+As the volume of virus genomic data continues to grow, so does the challenge of making it accessible, well-annotated, and usable by both expert and non-expert researchers. In this work, we introduce an ecosystem of tools and databases designed to support virologists in managing and exploring virus genome data. At its core is the Virus Genome Toolkit( V-gTK), an open and extensible software framework for curating, annotating, and organizing viral genomes in a reproducible and shareable way. V-gTK supports collaborative data curation through GitHub integration, enabling transparent updates, community contributions, and version control of annotations.
+
+We will showcase how V-gTK has been applied to build structured, phylogenetically organized databases for two contrasting viruses—rabies and influenza—illustrating how it facilitates robust data management and supports genotype-to-phenotype analysis. Finally, we will highlight the user-facing interfaces that allow researchers without bioinformatics training to explore, filter, and extract genome and metadata. These intuitive web tools support tasks such as identifying key sequence features, assigning lineages to submitted sequences, and assessing mutations of interest.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)

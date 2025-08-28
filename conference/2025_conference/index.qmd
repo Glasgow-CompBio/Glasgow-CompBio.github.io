@@ -29,7 +29,8 @@ We are excited to announce the 5th iteration of our annual conference! Come alon
 ## What to expect:
 
 -   **Specialist sessions:**
-    -   TBC
+    -   Networking
+    -   Software Engineering Panel
 -   **Scientific talks:**
     -   Three amazing keynote speakers
     -   Abstracts selected from your community on various topics within bioinformatics and computational biology
@@ -44,7 +45,7 @@ We are excited to announce the 5th iteration of our annual conference! Come alon
 
 ## Programme of talks
 
-[Programme TBC](){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2025"}
+[2025 Programme](./schedule.qmd){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2025"}
 
 # Conference Scope and Interests
 

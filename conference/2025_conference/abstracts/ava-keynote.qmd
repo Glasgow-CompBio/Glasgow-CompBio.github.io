@@ -1,0 +1,23 @@
+---
+title: "Stator: High order expression dependencies finely resolve cryptic states and subtypes in single cell data"
+description: "Keynote by Ava Khamseh"
+---
+
+## Talk Details
+
+**Time:** Monday, 10:00-10:45\
+**Speaker:** Ava Khamseh\
+**Topic:** Cancer\
+**Type:** Keynote
+
+## Abstract
+
+Stator introduces a novel computational framework for analyzing single-cell RNA sequencing data, focusing on the identification of high-order expression dependencies that can reveal previously undetected cellular states and subtypes.
+
+Traditional single-cell analysis methods often miss subtle but biologically significant differences between cell populations. Our approach leverages advanced statistical modeling to capture complex relationships between gene expression patterns, enabling the discovery of cryptic cellular states that may be crucial for understanding disease mechanisms and therapeutic responses.
+
+We demonstrate Stator's effectiveness across multiple cancer datasets, showing its ability to identify clinically relevant subtypes that were previously undetectable using standard analysis pipelines. This work has significant implications for precision medicine and our understanding of cellular heterogeneity in disease contexts.
+
+------------------------------------------------------------------------
+
+[← Back to Schedule](../schedule.html)
