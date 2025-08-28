@@ -173,18 +173,57 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<style>
+/* Mobile-responsive table styling */
+@media (max-width: 768px) {
+  .schedule-table {
+    font-size: 0.85em;
+  }
+
+  .schedule-table td {
+    padding: 8px 4px !important;
+    vertical-align: top;
+  }
+
+  .schedule-table td:nth-child(1) {
+    white-space: nowrap;
+    min-width: 80px;
+  }
+
+  .schedule-table td:nth-child(5) {
+    word-break: break-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+  }
+
+  .schedule-table a {
+    word-break: break-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+  }
+}
+
+/* General responsive improvements */
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+</style>
 <section id="schedule" class="level1">
 <h1>Schedule</h1>
 <div class="cell">
 <div class="cell-output-display">
-<table class="schedule-table table caption-top table-sm table-striped small" data-quarto-postprocess="true">
+<div class="table-responsive">
+<table class="schedule-table table table-striped table-hover table-condensed caption-top table-sm small" data-quarto-postprocess="true">
 <thead>
 <tr class="header">
 <th style="text-align: right;" data-quarto-table-cell-role="th">Time</th>
 <th style="text-align: left;" data-quarto-table-cell-role="th">Event</th>
 <th style="text-align: center;" data-quarto-table-cell-role="th">Speaker</th>
 <th style="text-align: center;" data-quarto-table-cell-role="th">Topic</th>
-<th style="text-align: center;" data-quarto-table-cell-role="th">Title</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Title</th>
 </tr>
 </thead>
 <tbody>
@@ -192,220 +231,221 @@ ul.task-list li input[type="checkbox"] {
 <td colspan="5" style="border-bottom: 2px solid #000000"><strong>Monday</strong></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">9:10-9:40</td>
-<td style="text-align: left;">Registration</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">9:10-9:40</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Registration</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">9:40-10:00</td>
-<td style="text-align: left;">Introduction</td>
-<td style="text-align: center;">Ana Basiri + Jake Lever</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">9:40-10:00</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Introduction</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Ana Basiri + Jake Lever</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">10:00-10:45</td>
-<td style="text-align: left;">Keynote</td>
-<td style="text-align: center;">Ava Khamseh</td>
-<td style="text-align: center;">Cancer</td>
-<td style="text-align: center;"><a href="abstracts/ava-keynote.html">Stator: High order expression dependencies finely resolve cryptic states and subtypes in single cell data</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">10:00-10:45</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Keynote</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Ava Khamseh</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Cancer</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/ava-keynote.html">Stator: High order expression dependencies finely resolve cryptic states and subtypes in single cell data</a></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">10:45-11:15</td>
-<td style="text-align: left;">Coffee</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">10:45-11:15</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Coffee</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">11:15-11:35</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Zhechao Yang</td>
-<td style="text-align: center;">Cardiology</td>
-<td style="text-align: center;"><a href="abstracts/cardiology-talk.html">Cell-specific action potential models for a large population of rabbit ventricular myocytes</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">11:15-11:35</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Zhechao Yang</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Cardiology</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/cardiology-talk.html">Cell-specific action potential models for a large population of rabbit ventricular myocytes</a></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">11:35-12:25</td>
-<td style="text-align: left;">Special Session: Networking</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">11:35-12:25</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Special Session: Networking</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">12:25-13:30</td>
-<td style="text-align: left;">Lunch</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">12:25-13:30</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Lunch</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">13:30-13:50</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Zita Fulop</td>
-<td style="text-align: center;">Cancer</td>
-<td style="text-align: center;"><a href="abstracts/glioblastoma-talk.html">Patient-Specific Multiscale Modelling of Glioblastoma: Targeted Modulation of Interstitial Fluid Flow Using Electric Field</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">13:30-13:50</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Zita Fulop</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Cancer</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/glioblastoma-talk.html">Patient-Specific Multiscale Modelling of Glioblastoma: Targeted Modulation of Interstitial Fluid Flow Using Electric Field</a></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">13:50-14:10</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Britt van Abeelen</td>
-<td style="text-align: center;">Cancer</td>
-<td style="text-align: center;"><a href="abstracts/trna-talk.html">A tRNA regulatory nexus of cell-state dependent protein expression</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">13:50-14:10</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Britt van Abeelen</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Cancer</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/trna-talk.html">A tRNA regulatory nexus of cell-state dependent protein expression</a></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">14:10-14:30</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Tom Wright</td>
-<td style="text-align: center;">Cancer</td>
-<td style="text-align: center;"><a href="abstracts/rectal-cancer-talk.html">Rectal cancer: spatial single-cell transcriptomics reveals radiotherapy resistance features across the crypt architecture</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">14:10-14:30</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Tom Wright</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Cancer</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/rectal-cancer-talk.html">Rectal cancer: spatial single-cell transcriptomics reveals radiotherapy resistance features across the crypt architecture</a></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">14:30-15:00</td>
-<td style="text-align: left;">Coffee</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">14:30-15:00</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Coffee</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">15:00-15:20</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Rozeena Arif</td>
-<td style="text-align: center;">Viruses</td>
-<td style="text-align: center;"><a href="abstracts/domainnet-talk.html">DOMAINet: Domain-Oriented Mutation-aware Analysis Network for RBPs using Protein Language Models</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">15:00-15:20</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Rozeena Arif</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Viruses</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/domainnet-talk.html">DOMAINet: Domain-Oriented Mutation-aware Analysis Network for RBPs using Protein Language Models</a></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">15:20-15:40</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Ulad Litvin</td>
-<td style="text-align: center;">Viruses</td>
-<td style="text-align: center;"><a href="abstracts/viro3d-talk.html">Viro3D: a comprehensive database of virus protein structure predictions</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">15:20-15:40</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Ulad Litvin</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Viruses</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/viro3d-talk.html">Viro3D: a comprehensive database of virus protein structure predictions</a></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">15:40-16:10</td>
-<td style="text-align: left;">Selected Flash Talks</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">15:40-16:10</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Selected Flash Talks</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">16:10-18:00</td>
-<td style="text-align: left;">Posters</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">16:10-18:00</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Posters</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="odd" data-grouplength="15">
 <td colspan="5" style="border-bottom: 2px solid #000000"><strong>Tuesday</strong></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">9:40-10:25</td>
-<td style="text-align: left;">Keynote</td>
-<td style="text-align: center;">Ram DasGupta</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><a href="abstracts/ram-keynote-spatial.html">Spatially Resolved Single Cell Analysis of Bevacizumab-induced Enhancement of anti-PD1 Response in Nasopharyngeal Cancer</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">9:40-10:25</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Keynote</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Ram DasGupta</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/ram-keynote-spatial.html">Spatially Resolved Single Cell Analysis of Bevacizumab-induced Enhancement of anti-PD1 Response in Nasopharyngeal Cancer</a></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">10:25-10:45</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Kevin Bryson</td>
-<td style="text-align: center;">Genetics</td>
-<td style="text-align: center;"><a href="abstracts/kevin-talk.html">GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics?</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">10:25-10:45</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Kevin Bryson</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Genetics</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/kevin-talk.html">GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics?</a></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">10:45-11:15</td>
-<td style="text-align: left;">Coffee</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">10:45-11:15</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Coffee</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">11:15-11:35</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Andrew Gillen</td>
-<td style="text-align: center;">Genetics</td>
-<td style="text-align: center;"><a href="abstracts/metaatlas-talk.html">Making Sense of Big Data - Democratising Meta-Analysis using MetaAtlas</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">11:15-11:35</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Andrew Gillen</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Genetics</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/metaatlas-talk.html">Making Sense of Big Data - Democratising Meta-Analysis using MetaAtlas</a></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">11:35-11:55</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Sneha Sharma</td>
-<td style="text-align: center;">Genetics</td>
-<td style="text-align: center;"><a href="abstracts/ra-flare-prediction.html">AI Driven Models for Predicting Flare Risk in RA Patients in Remission to Guide Treatment Tapering</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">11:35-11:55</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Sneha Sharma</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Genetics</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/ra-flare-prediction.html">AI Driven Models for Predicting Flare Risk in RA Patients in Remission to Guide Treatment Tapering</a></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">11:55-12:40</td>
-<td style="text-align: left;">Software Engineering Panel</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">Software Engineering</td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">11:55-12:40</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Software Engineering Panel</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Software Engineering</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">12:40-14:00</td>
-<td style="text-align: left;">Lunch</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">12:40-14:00</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Lunch</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">14:00-14:45</td>
-<td style="text-align: left;">Keynote</td>
-<td style="text-align: center;">Kate Duncan</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><a href="abstracts/kate-keynote.html">Marine microbial biodiscovery - using biological questions to uncover patterns in microbial ’omics data</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">14:00-14:45</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Keynote</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Kate Duncan</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/kate-keynote.html">Marine microbial biodiscovery - using biological questions to uncover patterns in microbial ’omics data</a></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">14:45-15:05</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Hongjin Ren</td>
-<td style="text-align: center;">Cardiology</td>
-<td style="text-align: center;"><a href="abstracts/statistical-emulators.html">Performance Comparison of Statistical Emulators for Parameter Estimation in Complex Systems</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">14:45-15:05</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Hongjin Ren</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Cardiology</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/statistical-emulators.html">Performance Comparison of Statistical Emulators for Parameter Estimation in Complex Systems</a></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">15:05-15:15</td>
-<td style="text-align: left;">CompBio Recruiting</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">15:05-15:15</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">CompBio Recruiting</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">15:15-15:45</td>
-<td style="text-align: left;">Coffee</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">15:15-15:45</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Coffee</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">15:45-15:55</td>
-<td style="text-align: left;">Hackathon Summary</td>
-<td style="text-align: center;">William Hease-Hill</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">15:45-15:55</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Hackathon Summary</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">William Hease-Hill</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">15:55-16:15</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Robin Shaw</td>
-<td style="text-align: center;">Hackathon</td>
-<td style="text-align: center;"><a href="abstracts/cancer-subtyping-hackathon.html">Multi-omics Cancer Subtyping Hackathon Project</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">15:55-16:15</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Robin Shaw</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Hackathon</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/cancer-subtyping-hackathon.html">Multi-omics Cancer Subtyping Hackathon Project</a></td>
 </tr>
 <tr class="odd">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">16:15-16:35</td>
-<td style="text-align: left;">Submitted Talk</td>
-<td style="text-align: center;">Laura Mojsiejczuk, Joseph Hughes and Sandeep Kasaragod</td>
-<td style="text-align: center;">Hackathon</td>
-<td style="text-align: center;"><a href="abstracts/virus-toolkit-hackathon.html">The Virus Genome Toolkit (V-gTK) and Database (V-gDB): An Ecosystem for Curating and Exploring Viral Genomes</a></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">16:15-16:35</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Submitted Talk</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Laura Mojsiejczuk, Joseph Hughes and Sandeep Kasaragod</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Hackathon</td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"><a href="abstracts/virus-toolkit-hackathon.html">The Virus Genome Toolkit (V-gTK) and Database (V-gDB): An Ecosystem for Curating and Exploring Viral Genomes</a></td>
 </tr>
 <tr class="even">
-<td style="text-align: right; width: 20%; padding-right: 20px; padding-left: 2em;" data-indentlevel="1">16:35-16:45</td>
-<td style="text-align: left;">Closing Remarks</td>
-<td style="text-align: center;">Jake Lever</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: right; width: 15%; padding-right: 10px; white-space: nowrap; padding-left: 2em;" data-indentlevel="1">16:35-16:45</td>
+<td style="text-align: left; width: 20%; padding-right: 10px;">Closing Remarks</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;">Jake Lever</td>
+<td style="text-align: center; width: 15%; padding-right: 10px;"></td>
+<td style="text-align: left; width: 35%; word-wrap: break-word; overflow-wrap: break-word;"></td>
 </tr>
 </tbody>
 </table>
+</div>
 </div>
 </div>
 

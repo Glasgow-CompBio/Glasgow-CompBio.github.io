@@ -6,6 +6,47 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 date: 09-15-2025
 ---
 
+```{=html}
+<style>
+/* Mobile-responsive table styling */
+@media (max-width: 768px) {
+  .schedule-table {
+    font-size: 0.85em;
+  }
+
+  .schedule-table td {
+    padding: 8px 4px !important;
+    vertical-align: top;
+  }
+
+  .schedule-table td:nth-child(1) {
+    white-space: nowrap;
+    min-width: 80px;
+  }
+
+  .schedule-table td:nth-child(5) {
+    word-break: break-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+  }
+
+  .schedule-table a {
+    word-break: break-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+  }
+}
+
+/* General responsive improvements */
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+</style>
+```
+
 # Schedule
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
@@ -81,12 +122,14 @@ day2_count <- sum(data$Day == 2, na.rm = TRUE)
 
 # Create the table
 table_data %>%
-  kableExtra::kbl(escape = FALSE, align = "rlcccc", table.attr = 'class="schedule-table"')  %>%
-  kable_styling() %>%
-  column_spec(1, width = "20%", extra_css = "padding-right: 20px;") %>%
-  #column_spec(2, width = "20%", extra_css = "padding-right: 20px;") %>%
- # row_spec(c(4,8,11), background = "lightgrey") %>%
-    kableExtra::pack_rows(index = setNames(c(day1_count, day2_count), c("Monday", "Tuesday")),
+  kableExtra::kbl(escape = FALSE, align = "rlccl", table.attr = 'class="schedule-table table-responsive"')  %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
+  column_spec(1, width = "15%", extra_css = "padding-right: 10px; white-space: nowrap;") %>%
+  column_spec(2, width = "20%", extra_css = "padding-right: 10px;") %>%
+  column_spec(3, width = "15%", extra_css = "padding-right: 10px;") %>%
+  column_spec(4, width = "15%", extra_css = "padding-right: 10px;") %>%
+  column_spec(5, width = "35%", extra_css = "word-wrap: break-word; overflow-wrap: break-word;") %>%
+  kableExtra::pack_rows(index = setNames(c(day1_count, day2_count), c("Monday", "Tuesday")),
               label_row_css = "border-bottom: 2px solid #000000;")
 
 
