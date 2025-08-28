@@ -205,6 +205,54 @@ ul.task-list li input[type="checkbox"] {
   }
 }
 
+/* Portrait mode - extra narrow screens */
+@media (max-width: 480px) {
+  .schedule-table {
+    font-size: 0.8em;
+  }
+
+  .schedule-table td {
+    padding: 6px 2px !important;
+  }
+
+  /* Hide less critical columns on very small screens */
+  .schedule-table td:nth-child(4) {
+    display: none; /* Hide Topic column */
+  }
+
+  .schedule-table th:nth-child(4) {
+    display: none; /* Hide Topic header */
+  }
+
+  /* Make title column take more space */
+  .schedule-table td:nth-child(5) {
+    max-width: 200px;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+  }
+
+  /* Compress other columns */
+  .schedule-table td:nth-child(1) {
+    font-size: 0.9em;
+    min-width: 70px;
+  }
+
+  .schedule-table td:nth-child(2) {
+    font-size: 0.9em;
+    max-width: 100px;
+    word-wrap: break-word;
+  }
+
+  .schedule-table td:nth-child(3) {
+    font-size: 0.9em;
+    max-width: 80px;
+    word-wrap: break-word;
+  }
+}
+
 /* General responsive improvements */
 .table-responsive {
   overflow-x: auto;
