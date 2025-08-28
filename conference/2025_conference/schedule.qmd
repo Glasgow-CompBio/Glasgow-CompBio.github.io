@@ -43,7 +43,7 @@ table_data <- data %>%
       grepl("Stator.*single cell data", Title, ignore.case = TRUE) ~
         paste0('<a href="abstracts/ava-keynote.html">', Title, '</a>'),
       grepl("GeneWeaver 3", Title, ignore.case = TRUE) ~
-        paste0('<a href="abstracts/ram-keynote.html">', Title, '</a>'),
+        paste0('<a href="abstracts/kevin-talk.html">', Title, '</a>'),
       grepl("Cell-specific action potential", Title, ignore.case = TRUE) ~
         paste0('<a href="abstracts/cardiology-talk.html">', Title, '</a>'),
       grepl("Patient-Specific Multiscale Modelling of Glioblastoma", Title, ignore.case = TRUE) ~

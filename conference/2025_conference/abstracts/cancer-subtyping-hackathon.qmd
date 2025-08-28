@@ -1,6 +1,7 @@
 ---
 title: "Multi-omics Cancer Subtyping Hackathon Project"
 description: "Hackathon Presentation"
+draft: false
 ---
 
 ## Talk Details

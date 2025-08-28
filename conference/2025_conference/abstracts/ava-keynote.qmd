@@ -1,6 +1,7 @@
 ---
 title: "Stator: High order expression dependencies finely resolve cryptic states and subtypes in single cell data"
 description: "Keynote by Ava Khamseh"
+draft: false
 ---
 
 ## Talk Details

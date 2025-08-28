@@ -1,6 +1,7 @@
 ---
 title: "Cell-specific action potential models for a large population of rabbit ventricular myocytes"
 description: "Submitted Talk"
+draft: false
 ---
 
 ## Talk Details

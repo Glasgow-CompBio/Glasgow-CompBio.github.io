@@ -1,6 +1,7 @@
 ---
 title: "Marine microbial biodiscovery - using biological questions to uncover patterns in microbial 'omics data"
 description: "Keynote by Kate Duncan"
+draft: false
 ---
 
 ## Talk Details

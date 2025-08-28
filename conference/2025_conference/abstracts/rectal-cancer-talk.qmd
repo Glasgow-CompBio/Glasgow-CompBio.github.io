@@ -1,6 +1,7 @@
 ---
 title: "Rectal cancer: spatial single-cell transcriptomics reveals radiotherapy resistance features across the crypt architecture"
 description: "Submitted Talk"
+draft: false
 ---
 
 ## Talk Details

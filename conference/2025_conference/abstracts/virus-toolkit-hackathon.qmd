@@ -1,6 +1,7 @@
 ---
 title: "The Virus Genome Toolkit (V-gTK) and Database (V-gDB): An Ecosystem for Curating and Exploring Viral Genomes"
 description: "Hackathon Presentation"
+draft: false
 ---
 
 ## Talk Details

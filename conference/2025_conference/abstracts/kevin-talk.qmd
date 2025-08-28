@@ -1,14 +1,15 @@
 ---
 title: "GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics"
-description: "Keynote by Ram"
+description: "Talk by Kevin Bryson"
+draft: false
 ---
 
 ## Talk Details
 
 **Time:** Tuesday, 9:40-10:25\
-**Speaker:** Ram DasGupta\
+**Speaker:** Kevin Bryson\
 **Topic:** Genetics\
-**Type:** Keynote
+**Type:** Invited Talk
 
 ## Abstract
 

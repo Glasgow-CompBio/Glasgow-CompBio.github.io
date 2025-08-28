@@ -1,6 +1,7 @@
 ---
 title: "Patient-Specific Multiscale Modelling of Glioblastoma: Targeted Modulation of Interstitial Fluid Flow Using Electric Field"
 description: "Submitted Talk"
+draft: false
 ---
 
 ## Talk Details

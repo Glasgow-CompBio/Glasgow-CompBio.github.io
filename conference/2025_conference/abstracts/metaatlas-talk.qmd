@@ -1,6 +1,7 @@
 ---
 title: "Making Sense of Big Data - Democratising Meta-Analysis using MetaAtlas"
 description: "Submitted Talk"
+draft: false
 ---
 
 ## Talk Details
