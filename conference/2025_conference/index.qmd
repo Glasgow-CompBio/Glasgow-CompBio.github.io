@@ -22,7 +22,7 @@ We are excited to announce the 5th iteration of our annual conference! Come alon
 
 **Where:** Advanced Research Center (ARC)
 
-**Abstract submission deadline:** 8th August 2025
+**Abstract submission deadline:** CLOSED
 
 [Sign Up Here](https://www.eventbrite.co.uk/e/university-of-glasgow-computational-biology-conference-2025-tickets-1306819615649?aff=oddtdtcreator){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Buy a ticket on EventBright"}
 
@@ -92,13 +92,13 @@ There are a number of ways to get to the conference site either by walking, cycl
 
 **Q: What opportunities are there for me to present my work?** A: You have three options:
 
--   Full presentation: 25 minute presentation with time for questions
--   Flash talk: 3 minute presentation, includes the opportunity to bring a poster
+-   Full presentation: 15 minute presentation with time for questions
+-   Flash talk: 4 minute presentation, includes the opportunity to bring a poster
 -   Poster: *Poster specifications coming soon*
 
-**Q: Can I submit an abstract for a presentation?** A: Yes, you can submit an abstract. Register for the conference via EventBright [here](https://www.eventbrite.co.uk/e/university-of-glasgow-computational-biology-conference-2025-tickets-1306819615649?aff=oddtdtcreator), and then you can edit your registration to add an abstract at a later date.
+**Q: Can I submit an abstract for a presentation?** A: Yes, you can submit an abstract (NOW CLOSED). Register for the conference via EventBright [here](https://www.eventbrite.co.uk/e/university-of-glasgow-computational-biology-conference-2025-tickets-1306819615649?aff=oddtdtcreator), and then you can edit your registration to add an abstract at a later date.
 
-**Q: Is there a deadline for abstract submissions?** A: Yes, the deadline for abstract submissions is 1st August 2025. Please ensure you submit your abstract by this date for consideration.
+**Q: Is there a deadline for abstract submissions?** A: Yes, the deadline for abstract submissions is 8th August 2025. Please ensure you submit your abstract by this date for consideration.
 
 **Q: What types of tickets are available?** A: We offer several ticket types:
 

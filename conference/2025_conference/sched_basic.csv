@@ -1,0 +1,32 @@
+Day,time_start,time_end,Length,event,Chair (Working Suggestions),Speaker,Topic,Confirmed?,Title
+1,9:10,9:40,0:30,Registration,,,,,
+1,9:40,10:00,0:20,Introduction,Jake Lever,Ana Basiri + Jake Lever,,,
+1,10:00,10:45,0:45,Keynote,Jake Lever,Ava Khamseh,Cancer,,Stator: High order expression dependencies finely resolve cryptic states and subtypes in single cell data
+1,10:45,11:15,0:30,Coffee,,,,,
+1,11:15,11:35,0:20,Submitted Talk,Jake Lever,Zhechao Yang,Cardiology,Yes,Cell-specific action potential models for a large population of rabbit ventricular myocytes
+1,11:35,12:25,0:50,Special Session: Networking,Jake Lever,,,,
+1,12:25,13:30,1:05,Lunch,,,,,
+1,13:30,13:50,0:20,Submitted Talk,Beto (CRUK Scotland),Zita Fulop,Cancer,Yes,Patient-Specific Multiscale Modelling of Glioblastoma: Targeted Modulation of Interstitial Fluid Flow Using Electric Field
+1,13:50,14:10,0:20,Submitted Talk,Beto (CRUK Scotland),Britt van Abeelen,Cancer,Yes,A tRNA regulatory nexus of cell-state dependent protein expression
+1,14:10,14:30,0:20,Submitted Talk,Beto (CRUK Scotland),Tom Wright,Cancer,Yes,Rectal cancer: spatial single-cell transcriptomics reveals radiotherapy resistance features across the crypt architecture
+1,14:30,15:00,0:30,Coffee,,,,,
+1,15:00,15:20,0:20,Submitted Talk,Kieran Lamb,Rozeena Arif,Viruses,Yes,DOMAINet: Domain-Oriented Mutation-aware Analysis Network for RBPs using Protein Language Models
+1,15:20,15:40,0:20,Submitted Talk,Kieran Lamb,Ulad Litvin,Viruses,Yes,Viro3D: a comprehensive database of virus protein structure predictions
+1,15:40,16:10,0:30,Selected Flash Talks,Kieran Lamb,,,,
+1,16:10,18:00,1:50,Posters,,,,,
+
+2,9:40,10:25,0:45,Keynote,Ke?,Ram DasGupta,,,Spatially Resolved Single Cell Analysis of Bevacizumab-induced Enhancement of anti-PD1 Response in Nasopharyngeal Cancer
+2,10:25,10:45,0:20,Submitted Talk,Ke,Kevin Bryson,Genetics,Yes,GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics?
+2,10:45,11:15,0:30,Coffee,,,,,
+2,11:15,11:35,0:20,Submitted Talk,Mayetri,Andrew Gillen,Genetics,Yes,Making Sense of Big Data - Democratising Meta-Analysis using MetaAtlas
+2,11:35,11:55,0:20,Submitted Talk,Mayetri,Sneha Sharma,Genetics,Yes,AI Driven Models for Predicting Flare Risk in RA Patients in Remission to Guide Treatment Tapering
+2,11:55,12:40,0:45,Software Engineering Panel,Jake Lever,,Software Engineering,,
+2,12:40,14:00,1:20,Lunch,,,,,
+2,14:00,14:45,0:45,Keynote,Ronan?,Kate Duncan,,,Marine microbial biodiscovery - using biological questions to uncover patterns in microbial ’omics data
+2,14:45,15:05,0:20,Submitted Talk,Ronan?,Hongjin Ren,Cardiology,,Performance Comparison of Statistical Emulators for Parameter Estimation in Complex Systems
+2,15:05,15:15,0:10,CompBio Recruiting,Kieran Woolcock,,,,
+2,15:15,15:45,0:30,Coffee,,,,,
+2,15:45,15:55,0:10,Hackathon Summary,William Hease-Hill,William Hease-Hill,,Hackathon,
+2,15:55,16:15,0:20,Submitted Talk,William Hease-Hill,Robin Shaw,Hackathon,,Multi-omics Cancer Subtyping Hackathon Project
+2,16:15,16:35,0:20,Submitted Talk,William Hease-Hill,"Laura Mojsiejczuk, Joseph Hughes and Sandeep Kasaragod",Hackathon,,The Virus Genome Toolkit (V-gTK) and Database (V-gDB): An Ecosystem for Curating and Exploring Viral Genomes
+2,16:35,16:45,0:10,Closing Remarks,William Hease-Hill,Jake Lever,,,

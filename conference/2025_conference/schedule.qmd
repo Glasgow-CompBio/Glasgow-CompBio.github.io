@@ -1,0 +1,59 @@
+---
+title: "Talk Schedule"
+description: "Our fantastic lineup of speakers, panels, networking, and more for 2025!"
+image: arc_image.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+date: 09-15-2025
+---
+
+# Schedule
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# Install and load required packages
+if (!requireNamespace("dplyr", quietly = TRUE)) {
+  install.packages("dplyr", quiet = TRUE)
+}
+if (!requireNamespace("kableExtra", quietly = TRUE)) {
+  install.packages("kableExtra", quiet = TRUE)
+}
+
+# Load libraries with explicit namespace
+suppressPackageStartupMessages({
+  library(dplyr)
+  library(kableExtra)
+})
+
+# Read CSV with proper handling
+data <- read.csv("sched_basic.csv", stringsAsFactors = FALSE, check.names = TRUE)
+
+# Check if dplyr is properly loaded
+if (!exists("mutate", mode = "function")) {
+  library(dplyr, warn.conflicts = FALSE)
+}
+
+# Create the table data
+table_data <- data %>%
+  dplyr::mutate(Time = paste0(time_start, "-", time_end),
+                Speaker = ifelse(is.na(Speaker) | Speaker == "", "", Speaker),
+                Topic = ifelse(is.na(Topic) | Topic == "", "", Topic),
+                Event = event
+               ) %>%
+  dplyr::select(Time, Event, Speaker, Topic, Title)
+
+# Count rows for each day
+day1_count <- sum(data$Day == 1, na.rm = TRUE)
+day2_count <- sum(data$Day == 2, na.rm = TRUE)
+
+# Create the table
+table_data %>%
+  kableExtra::kbl(escape = FALSE, align = "rlcccc", table.attr = 'class="schedule-table"')  %>%
+  kable_styling() %>%
+  column_spec(1, width = "20%", extra_css = "padding-right: 20px;") %>%
+  #column_spec(2, width = "20%", extra_css = "padding-right: 20px;") %>%
+ # row_spec(c(4,8,11), background = "lightgrey") %>%
+    kableExtra::pack_rows(index = setNames(c(day1_count, day2_count), c("Monday", "Tuesday")),
+              label_row_css = "border-bottom: 2px solid #000000;")
+
+
+
+```

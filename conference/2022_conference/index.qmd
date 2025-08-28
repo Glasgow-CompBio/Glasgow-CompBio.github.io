@@ -22,7 +22,10 @@ listing:
 # Schedule
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-require(dplyr); require(kableExtra)
+if (!require(dplyr, quietly = TRUE)) install.packages("dplyr")
+if (!require(kableExtra, quietly = TRUE)) install.packages("kableExtra")
+library(dplyr)
+library(kableExtra)
 data = read.csv("sched_basic.csv")
 data %>%
   mutate(Time = paste0(time_start, "-", time_end),
