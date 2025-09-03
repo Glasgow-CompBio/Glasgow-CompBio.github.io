@@ -162,7 +162,7 @@ table_data <- data %>%
       TRUE ~ as.character(Title)
     )
   ) %>%
-  dplyr::select(Time, Event, Speaker, Topic, Title)
+  dplyr::select(Time, Event, Speaker, Title)
 
 # Count rows for each day
 day1_count <- sum(data$Day == 1, na.rm = TRUE)
@@ -170,13 +170,12 @@ day2_count <- sum(data$Day == 2, na.rm = TRUE)
 
 # Create the table
 table_data %>%
-  kableExtra::kbl(escape = FALSE, align = "rlccl", table.attr = 'class="schedule-table table-responsive"')  %>%
+  kableExtra::kbl(escape = FALSE, align = "rlcl", table.attr = 'class="schedule-table table-responsive"')  %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
   column_spec(1, width = "15%", extra_css = "padding-right: 10px; white-space: nowrap;") %>%
-  column_spec(2, width = "20%", extra_css = "padding-right: 10px;") %>%
-  column_spec(3, width = "15%", extra_css = "padding-right: 10px;") %>%
-  column_spec(4, width = "15%", extra_css = "padding-right: 10px;") %>%
-  column_spec(5, width = "35%", extra_css = "word-wrap: break-word; overflow-wrap: break-word;") %>%
+  column_spec(2, width = "25%", extra_css = "padding-right: 10px;") %>%
+  column_spec(3, width = "20%", extra_css = "padding-right: 10px;") %>%
+  column_spec(4, width = "40%", extra_css = "word-wrap: break-word; overflow-wrap: break-word;") %>%
   kableExtra::pack_rows(index = setNames(c(day1_count, day2_count), c("Monday", "Tuesday")),
               label_row_css = "border-bottom: 2px solid #000000;")
 
