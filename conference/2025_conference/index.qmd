@@ -142,4 +142,16 @@ There are a number of ways to get to the conference site either by walking, cycl
 
 We are hugely grateful to our sponsors -- without their support this event would not be possible!
 
-![](./assets/img/mvls-shared-research-facilities.png){width="400"} ![](./assets/img/cdsai.jpg){width="400"} ![](./assets/img/mvls.png){width="400"} ![](./assets/img/cose.png){width="400"}
+![](./assets/img/CRUK_Scotland-Institute.jpg){width="256"}
+
+![](./assets/img/SULSA.png){width="256"}
+
+![](./assets\img\IBIOIC.jpg){width="256"}
+
+![](./assets/img/mvls-shared-research-facilities.png){width="256"}
+
+![](./assets/img/cdsai.jpg){width="256"}
+
+![](./assets/img/mvls.png){width="256"}
+
+![](./assets/img/cose.png){width="256"}
