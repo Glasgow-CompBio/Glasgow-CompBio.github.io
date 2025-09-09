@@ -14,6 +14,7 @@ Day,time_start,time_end,Length,event,Chair (Working Suggestions),Speaker,Topic,C
 1,15:20,15:40,0:20,Submitted Talk,Kieran Lamb,Ulad Litvin,Viruses,Yes,Viro3D: a comprehensive database of virus protein structure predictions
 1,15:40,16:10,0:30,Selected Flash Talks,Kieran Lamb,,,,
 1,16:10,18:00,1:50,Posters,,,,,
+1,18:00,21:00,1:50,Pub,,,,,
 
 2,9:40,10:25,0:45,Keynote,Ke?,Ram DasGupta,,,Spatially Resolved Single Cell Analysis of Bevacizumab-induced Enhancement of anti-PD1 Response in Nasopharyngeal Cancer
 2,10:25,10:45,0:20,Submitted Talk,Ke,Kevin Bryson,Genetics,Yes,GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics?
