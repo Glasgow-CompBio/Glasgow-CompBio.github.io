@@ -1,0 +1,26 @@
+---
+title: "October 2025"
+description: "Parasitology"
+date: 10-23-2025
+image: image.png
+categories: [transcriptomics] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+We are excited to announce our next event taking place on the 23rd of October, from 3pm. This month we are back to the familiar Computing Science building.
+
+**Date:** 23rd October, 3-5pm 
+
+**Location:** Rooms: 422/423, Sir Alwyn Williams Building (School of Computing Science) 
+
+**Talks:**
+
+-   **Fiona Achcar:** Using single-cell RNA sequencing (scRNA-seq) to study malaria parasite differentiation
+
+-   **Frances Blow:** scRNA-seq of *Schistosoma mansoni* parasites during intra-mammalian development
+
+-   **Catarina De Almeida Marques:** scRNA-seq analysis of *Leishmania major* parasites
+
+Looking forward to seeing you all there (we hope you like single-cell!),
+
+The CompBio Team
