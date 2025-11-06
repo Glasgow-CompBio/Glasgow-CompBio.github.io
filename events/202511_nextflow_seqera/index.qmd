@@ -1,0 +1,44 @@
+---
+title: "Nextflow Advanced Community Training"
+description: "Training event with Seqera"
+date: 11-06-2025
+image: seqera.jpeg
+categories: [nextflow] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Overview 
+
+This comprehensive training course covers advanced Nextflow concepts and best practices for developing robust, maintainable workflows. Through hands-on exercises and real-world examples, participants will learn essential skills for professional Nextflow development.
+
+**Date:** Nov 6 from 10am to 4pm GMT
+
+**Location:** 422/423, Sir Alwyn Williams Building (School of Computing Science)
+
+### Requirements 
+
+Participants should have some Nextflow experience and understand concepts like processes, workflows, channels, basic operators (e.g. `map`, `collect`), multi-step workflows, modules, and basic configuration. Familiarity with command-line tools, basic scripting, and Docker containers is also expected.
+
+We will be running the training with **GitHub Codespaces**, which provides an integrated development environment directly within a web browser (preferably Google Chrome). The workshop material will be available within the GitHub workspace. Create and connect to a GitHub Codespace before training begins to verify your access works properly by following the provided instructions [here](https://training.nextflow.io/latest/envsetup/01_setup/).
+
+### Agenda
+
+10:00 Setup and introductions
+
+10:15 [Working with files](https://training.nextflow.io/latest/side_quests/working_with_files/)
+
+11:00 [Workflows of Workflows](https://training.nextflow.io/latest/side_quests/workflows_of_workflows/)
+
+11:30 Break
+
+11:45 [Debugging Workflows](https://training.nextflow.io/latest/side_quests/debugging/)
+
+12:30 Lunch
+
+13:30 [Testing with nf-test](https://training.nextflow.io/latest/side_quests/nf-test/)
+
+14:30 Break
+
+14:45 [Metadata](https://training.nextflow.io/latest/side_quests/metadata/) and [splitting/ grouping patterns](https://training.nextflow.io/latest/side_quests/splitting_and_grouping/)
+
+16:00 Close
