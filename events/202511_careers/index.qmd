@@ -1,0 +1,26 @@
+---
+title: "November 2025"
+description: "Careers"
+date: 11-28-2025
+image: image.jpeg
+categories: [careers] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Come along and hear some different perpectives on careers in computational biology!
+
+**Date:** November 28th
+
+**Time:** 3:00 PM - 5:00 PM
+
+**Location:** Wolfson Medical School, Room 248 (Gannochy)
+
+We have a range of speakers who will share their experiences across academia and industry, with a particular emphasis on varied academic career paths. We currently have five speakers lined up:
+
+-   Vinny Davies, Mathematics and Statistics
+-   John Cole, Shared Research Facilities
+-   Nina Fajs, PhD Student, MVLS
+-   William Haese-Hill, Research Software Engineer, MVLS
+-   Peter Thomason, CRUK Scotland
+
+The session is a great chance for undergraduates, MSc students, and PhD students to think about possible next steps in their careers. After the event, we will continue the conversation over informal drinks in the School of Mathematics and Statistics Common Room (311B).
