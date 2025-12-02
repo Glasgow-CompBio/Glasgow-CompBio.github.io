@@ -1,0 +1,14 @@
+---
+title: "Fireside Chat on the future of Computational Biology"
+description: "Christmas Event"
+date: 12-09-2025
+image: fireside-chat.jpg
+categories: [discussion] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Come for a fireside chat with Dr Luciana Melina Luque (CRUK Scotland) and Prof Richard Reeve (Ecology) for a discussion about the big advances in computational biology and the future of the field. As the final event of the year, we’ll be throwing around some big ideas as we look back over the year and into the future with new technologies changing how we do research. Come along with your own ideas for some thought-provoking discussions with drinks!
+
+***Date/time:** Tuesday December 9^th^ from 4-5pm with pub afterwards*
+
+***Location:** Room 116, Maths & Stats*

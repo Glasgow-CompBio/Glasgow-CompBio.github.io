@@ -18,7 +18,6 @@ about:
     - icon: list
       text: Mailing list
       href: https://lists.cent.gla.ac.uk/sympa/info/compbio
-
 ---
 
 # Bringing Glasgow's computational biology & bioinformatics community together
@@ -28,6 +27,10 @@ Join the vibrant Glasgow Computational Biology community at the University of Gl
 ## Quick links
 
 [Glasgow Computational Biology Conference 2025](https://glasgow-compbio.github.io/conference/2025_conference/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View details of our 2025 conference"}[Check out our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}[CompBio Hackathon 2025](https://glasgow-compbio.github.io/events/202506_Hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2025"}
+
+## Join the Mailing List
+
+To hear the latest information about events, join our mailing list. You can use [this link](https://lists.cent.gla.ac.uk/sympa/info/compbio) (requires university's VPN) or email [compbio-conference\@glasgow.ac.uk](mailto:compbio-conference@glasgow.ac.uk) to request to be added.
 
 ## Glasgow Computational Biology Conference 2025
 
@@ -53,7 +56,6 @@ The University of Glasgow computational biology conference is an opportunity for
 
 If your research area is not covered by the list above but it's still relevant to computational biology, do not hesitate to submit an abstract. The conference will give the chance for students and early career researchers to present their work, but also give them the opportunity to listen to established researchers from within the University of Glasgow. See the confirmed list of keynote speakers. This event provides excellent opportunities to network and discuss your research.
 
-
 ## Monthly Events
 
 Engage in lively discussions and exchange ideas at our regular science-sharing events!
@@ -61,4 +63,3 @@ Engage in lively discussions and exchange ideas at our regular science-sharing e
 Our community gathers to explore fascinating advancements in computational biology and bioinformatics, sparking conversations that inspire innovation. Join us at various locations across the university, from the main campus at Gilmorehill to centers at Garscube, and afterward, unwind and continue the conversation at the pub.
 
 [More information about our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}
-
