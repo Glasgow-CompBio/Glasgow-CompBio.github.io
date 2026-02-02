@@ -1,0 +1,26 @@
+---
+title: "January 2026"
+description: "Deep learning / Agentic AI for scRNA-seq analysis"
+date: 01-30-2026
+image: image.jpg
+categories: [AI] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+**Date and Time:** Friday 30th January 2026 at 3.30pm.
+
+**Place:** School of Computing Science, Sir Alwyn Williams Building, Room 423/424.
+
+**Talk 1:** **Multi-agent AI enables evidence-based cell annotation in single-cell transcriptomics** \
+Dr Parashar Dhapola, Co-founder and CEO of Nygen Analytics, Lund, Sweden. <https://www.nygen.io/>
+
+Associated research papers: \[1\] Gautam Ahuja, Alex Antill, Yi Su, Giovanni Marco Dall’Olio, Sukhitha Basnayake, Göran Karlsson, Parashar Dhapola (2025) Multi-agent AI enables evidence-based cell annotation in single-cell transcriptomics, bioRxiv 2025.11.06.686964 <https://doi.org/10.1101/2025.11.06.686964>
+
+**Talk 2:** **Deciphering complex biological systems using AI - from generative models to language models** \
+Dr Cen Wan (Senior Lecturer in Bioinformatics, School of Computing and Mathematical Sciences, Birkbeck College, University of London)
+
+Associated research papers: \[1\] Alsaggaf, I., Buchan, D. and Wan, C. (2025) Less is more: Improving cell-type identification with augmentation-free single-cell RNA-Seq contrastive learning, Bioinformatics, btaf437. <https://doi.org/10.1093/bioinformatics/btaf437>
+
+\[2\] Alsaggaf, I., Buchan, D. and Wan, C. (2025) An extensive evaluation of single-cell RNA-Seq contrastive learning generative networks for intrinsic cell-types distribution estimation, bioRxiv. DOI: 10.1101/2025.09.15.675691. <https://www.biorxiv.org/content/10.1101/2025.09.15.675691v1>
+
+\[3\] Rafi, A., et al. (2024) A community effort to optimize sequence-based deep learning models of gene regulation, Nature Biotechnology. <https://doi.org/10.1038/s41587-024-02414-w>
