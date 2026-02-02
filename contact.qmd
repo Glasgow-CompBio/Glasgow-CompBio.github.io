@@ -148,9 +148,27 @@ School of Mathematics and Statistics
 :::
 ::::::
 
+:::::: columns
+::: {.column width="20%"}
+[![](./assets/img/Kevin_Bryson_dogs_crop.jpg){width="100"}](https://www.gla.ac.uk/schools/computing/staff/kevinbryson/)
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="70%"}
+[Kevin Bryson](https://www.gla.ac.uk/schools/computing/staff/kevinbryson/)
+
+Senior Lecturer
+
+School of Computing Science
+:::
+::::::
+
+
 # Alumni
 
-#
+# 
 
 :::::: columns
 ::: {.column width="20%"}
