@@ -19,6 +19,7 @@
   {
     "listing": "/events.html",
     "items": [
+      "/events/202602_bioinformatics_tools/index.html",
       "/events/202601_Agentic_AI/index.html",
       "/events/202512_fireside/index.html",
       "/events/202511_careers/index.html",
@@ -43,7 +44,8 @@
       "/events/202402_mathMod/index.html",
       "/events/202401_assembly/index.html",
       "/events/202312_quiz/index.html",
-      "/events/202311_epigen/index.html"
+      "/events/202311_epigen/index.html",
+      "/events/2000_examplePost/index.html"
     ]
   },
   {

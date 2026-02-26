@@ -1,0 +1,23 @@
+---
+title: "February 2026"
+description: "Bioinformatics Tools"
+date: 02-27-2026
+image: image.png
+categories: [software, genomics, transcriptomics, ML] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Our next event taking place on the 27th of February, from 3pm will be on the broader theme of Bioinformatics tools.
+
+**Date:** 27th February, 3-4pm
+
+**Location:** Room 331b, Maths and Stats
+
+**Talks:**
+
+-   **Yiyi Cheng:** Cell DiffErential Expression by Pooling (CellDEEP)
+-   **Elcid Aaron Pangilinan:** Standing on the Shoulders of Scikit-Learn: How Out-of-the-Box Libraries become Novel Biological Solutions in Malaria Research (upsML)
+
+Looking forward to seeing you all there!
+
+The CompBio Team
