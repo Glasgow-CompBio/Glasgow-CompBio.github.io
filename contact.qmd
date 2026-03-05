@@ -31,18 +31,16 @@ CRUK Scotland Institute
 
 :::::: columns
 ::: {.column width="20%"}
-![](./assets/img/fran.jpg){width="100"}
+![](./assets/img/haley.png){width="100"}
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="70%"}
-[Fran Young]()
+Haley Stone
 
 Postdoctoral Researcher
-
-Centre for Virus Research
 :::
 ::::::
 
@@ -165,10 +163,22 @@ School of Computing Science
 :::
 ::::::
 
+:::::: columns
+::: {.column width="20%"}
+![](./assets/img/nina.jpg){width="100"}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="70%"}
+Nina Fajs
+:::
+::::::
 
 # Alumni
 
-# 
+#
 
 :::::: columns
 ::: {.column width="20%"}
@@ -252,5 +262,22 @@ Centre for Virus Research
 PhD Student
 
 School of Infection and Immunity
+:::
+::::::
+
+:::::: columns
+::: {.column width="20%"}
+![](./assets/img/fran.jpg){width="100"}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="70%"}
+[Fran Young]()
+
+Postdoctoral Researcher
+
+Centre for Virus Research
 :::
 ::::::
