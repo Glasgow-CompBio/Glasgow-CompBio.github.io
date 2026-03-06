@@ -172,7 +172,11 @@ School of Computing Science
 :::
 
 ::: {.column width="70%"}
-Nina Fajs
+[Nina Fajs](https://www.linkedin.com/in/nfajs)
+
+PhD Student
+
+School of Health and Wellbeing
 :::
 ::::::
 
