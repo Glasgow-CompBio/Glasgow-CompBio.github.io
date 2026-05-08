@@ -26,13 +26,13 @@ Join the vibrant Glasgow Computational Biology community at the University of Gl
 
 ## Quick links
 
-[Glasgow Computational Biology Conference 2025](https://glasgow-compbio.github.io/conference/2025_conference/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View details of our 2025 conference"}[Check out our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}[CompBio Hackathon 2025](https://glasgow-compbio.github.io/events/202506_Hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2025"}
+[Glasgow Computational Biology Conference 2026](https://glasgow-compbio.github.io/conference/2026_conference/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View details of our 2026 conference"}[Check out our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}[CompBio Hackathon 2025](https://glasgow-compbio.github.io/events/202506_Hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2025"}
 
 ## Join the Mailing List
 
 To hear the latest information about events, join our mailing list. You can use [this link](https://lists.cent.gla.ac.uk/sympa/info/compbio) (requires university's VPN) or email [compbio-conference\@glasgow.ac.uk](mailto:compbio-conference@glasgow.ac.uk) to request to be added.
 
-## Glasgow Computational Biology Conference 2025
+## Glasgow Computational Biology Conference 2026
 
 ### Overview
 
@@ -40,7 +40,7 @@ To hear the latest information about events, join our mailing list. You can use 
 
 Computational biology is fast becoming one of the most interesting research areas in modern science and the University of Glasgow has a large number of researchers working within the area.
 
-[Click here for more information about the 2025 Glasgow Computational Biology Conference](https://glasgow-compbio.github.io/conference/2025_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2025 conference"}
+[Click here for more information about the 2026 Glasgow Computational Biology Conference](https://glasgow-compbio.github.io/conference/2026_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2026 conference"}
 
 #### Topics of Interest
 
