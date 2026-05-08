@@ -59,6 +59,7 @@
     "listing": "/conference.html",
     "items": [
       "/conference/2025_conference/index.html",
+      "/conference/2026_conference/index.html",
       "/conference/2024_conference/index.html",
       "/conference/2023_conference/index.html",
       "/conference/2022_conference/index.html",
@@ -105,5 +106,9 @@
       "/events/202506_Hackathon/index.html",
       "/events/202406_Hackathon/index.html"
     ]
+  },
+  {
+    "listing": "/conference/2026_conference/index.html",
+    "items": []
   }
 ]
