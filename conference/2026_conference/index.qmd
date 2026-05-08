@@ -3,7 +3,7 @@ title: "University of Glasgow Computational Biology Conference 2026"
 description: "Take part in talks, networking and learning about everything computational biology!"
 image: arc_image.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
-date: 08-28-2025
+date: 08-28-2026
 listing:
   - id: keynotes
     contents: "../../keynotes/key2026/*.qmd"
