@@ -15,7 +15,7 @@ Welcome to the University of Glasgow Computational Biology Hackathon.
 
 Are you passionate about unravelling the mysteries of life through code and data? Do you dream of collaborating with brilliant minds to tackle complex biological problems? Look no further! Our exclusive hackathon is designed for researchers, students, and enthusiasts who share a common goal: advancing computational biology.
 
-[See what we got up to last year!](https://glasgow-compbio.github.io/events/202506_Hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2025"}
+[See what we got up to last year!](https://glasgow-compbio.github.io/blog/2025_hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2025"}
 
 ## Timeline
 
