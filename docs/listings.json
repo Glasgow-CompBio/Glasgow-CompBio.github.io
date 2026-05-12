@@ -19,6 +19,7 @@
   {
     "listing": "/events.html",
     "items": [
+      "/events/202606_Hackathon/index.html",
       "/events/202602_bioinformatics_tools/index.html",
       "/events/202601_Agentic_AI/index.html",
       "/events/202512_fireside/index.html",
@@ -103,6 +104,7 @@
   {
     "listing": "/hackathon.html",
     "items": [
+      "/events/202606_Hackathon/index.html",
       "/events/202506_Hackathon/index.html",
       "/events/202406_Hackathon/index.html"
     ]

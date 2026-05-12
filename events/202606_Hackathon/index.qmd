@@ -4,12 +4,12 @@ description: "Our third annual event"
 date: 06-10-2026
 image: image.jpeg
 categories: [hackathon] # self-defined categories
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 # Hackathon 2026
 
-[Registration is now open! Apply here by 29th May 2026.](TODO){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Sign up form"}
+[Registration is now open! Apply here by 29th May 2026.](https://forms.office.com/e/yLwuuAx4AJ){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Sign up form"}
 
 Welcome to the University of Glasgow Computational Biology Hackathon.
 
@@ -23,7 +23,7 @@ This year we have decided to change the process of collecting project proposals.
 
 1.  Step 1: Full project proposal deadline ([email us](mailto:compbio-conference@glasgow.ac.uk): 31st March 2026 (Closed). Following the project submission, the team will review your proposals and liaise further with you to help shape exciting but achievable projects.
 
-2.  Step 2: [Participants application form](TODO) opens 11th May 2026, and closes 29th May 2026 (now open!)
+2.  Step 2: [Participants application form](https://forms.office.com/e/yLwuuAx4AJ) opens 12th May 2026, and closes 29th May 2026 (now open!)
 
 3.  Step 3: Hackathon event, 10th-12th June 2026
 
@@ -51,19 +51,53 @@ Let us know if you have any questions, we can’t wait to see your ideas!
 
 Whatever your career stage or job title, we would love to hear from you if you have skills you think could benefit a team. Whether you are from a wet-lab, dry-lab, or non-lab background, we would love you to bring your skills to a highly interdisciplinary team. We strongly encourage those in non-research roles and those from non-traditional scientific backgrounds to apply, and we select participants based on skills and enthusiasm, not perceived status!
 
--   [**Undergrads**:](TODO) Are you interested in problem solving? Do you have programming skills you wish to apply to biological problems? Do you have biological knowledge you can bring to a team? Are you wondering if research is a potential next step? [Sign up!](TODO) 
+-   [**Undergrads**:](https://forms.office.com/e/yLwuuAx4AJ) Are you interested in problem solving? Do you have programming skills you wish to apply to biological problems? Do you have biological knowledge you can bring to a team? Are you wondering if research is a potential next step? [Sign up!](https://forms.office.com/e/yLwuuAx4AJ) 
 
--   [**Postgrads**:](TODO) Whether you’re a Masters or a PhD candidate, this hackathon is your chance to apply computational techniques to real-world biological questions.
+-   [**Postgrads**:](https://forms.office.com/e/yLwuuAx4AJ) Whether you’re a Masters or a PhD candidate, this hackathon is your chance to apply computational techniques to real-world biological questions.
 
--   [**Researchers**:](TODO) Join forces with fellow scientists to crack complex problems. Collaborate, brainstorm, and innovate!
+-   [**Researchers**:](https://forms.office.com/e/yLwuuAx4AJ) Join forces with fellow scientists to crack complex problems. Collaborate, brainstorm, and innovate!
 
--   [**Scientific/Technical Staff**:](TODO) Can you bring your expertise or insight to help solve biological problems? Please sign up!
+-   [**Scientific/Technical Staff**:](https://forms.office.com/e/yLwuuAx4AJ) Can you bring your expertise or insight to help solve biological problems? Please sign up!
 
--   [**PIs**:](TODO) Share your expertise and mentor the next generation of computational biologists.
+-   [**PIs**:](https://forms.office.com/e/yLwuuAx4AJ) Share your expertise and mentor the next generation of computational biologists.
 
 ## The Projects
 
-TODO
+**ClarVar: An Open-Source Variant Annotation and Prioritisation Pipeline for Clinical Genomics**
+
+Clinical sequencing can produce thousands of variants per sample, but narrowing these down to the few that matter remains a major bottleneck. This project will build a lightweight, reproducible pipeline that brings together annotation, population allele frequency, and clinical evidence to help prioritise variants for research and clinical genomics.
+
+[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/IQBlsy8DJEX9SZ871xGz1LUNAd_AX7BoA6QKegTzU1yCSd4?e=Ql5MLJ)
+
+**Dissecting Protein Design Methods for Nipah Glycoprotein Binders**
+
+AI-based protein design can generate large numbers of potential binders, but predicting which ones will work experimentally is still a major challenge. This project uses a unique dataset of designed Nipah virus glycoprotein binders, including lab validation data, to explore what sequence, structure, and modelling features best predict binding success.
+
+[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/IQBNKrIM-A75QpfFuqEzlCUoAbXSB7BaVl7888sukNRu7g4?e=oVunVD)
+
+**Scaling data process pipeline for large-scale whole slide image deidentification**
+
+Whole slide imaging is increasingly important in biomedical research, but these files are huge and can contain sensitive information that must be removed before sharing or reuse. This project will focus on building a scalable pipeline for deidentifying large digital pathology datasets safely and efficiently.
+
+[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/IQDlTzhYn28_TZouH-AB0_K1AfmXM29bGknTcnjvnQ_9pTA?e=D3TExF)
+
+**Building a low-cost AI-assisted ligand screening pipeline**
+
+AI tools are rapidly changing early-stage drug discovery, but many ligand screening workflows remain expensive, fragmented, or difficult to reproduce. This project will explore how emerging protein-ligand prediction and structure modelling tools can be combined into an accessible, low-cost screening pipeline.
+
+[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/IQBRkxEEGhoFT6Q-hA9AOS--Ad4uSIJKqY2gD82xYd39SuY?e=bjfcCE)
+
+**Exploring fusion genes in Cancer**
+
+Gene fusions are important cancer-associated events that can reshape gene function and contribute to tumour development. This project will analyse RNA-seq data from cancer samples generated at the CRUK Scotland Institute to identify and explore fusion events across different contexts.
+
+[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/IQBRkxEEGhoFT6Q-hA9AOS--Ad4uSIJKqY2gD82xYd39SuY?e=bjfcCE)
+
+**Unravelling the accessory genome of *Enterococcus faecium* by combining whole-genome sequencing and large language models**
+
+*Enterococcus faecium* is an important hospital-associated pathogen, with antibiotic-resistant strains posing a growing public health concern. This project will combine pan-genome analysis, workflow development, and genomic language models to investigate how accessory genes vary across *E. faecium* genomes and what this might reveal about adaptation and resistance.
+
+[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/IQAmKJ7syOtsR4CDy5kH3HBOAenzcNyCJlzoJd93nJToyPU?e=PRj0te)
 
 ## FAQs
 
@@ -89,7 +123,7 @@ A5: We aim to offer every participant a spot on their preferred team but this ma
 
 ## Registration
 
-[Sign up here!](TODO) Registration closes 29th May 2026
+[Sign up here!](https://forms.office.com/e/yLwuuAx4AJ) Registration closes 29th May 2026
 
 ## Acknowledgements
 
