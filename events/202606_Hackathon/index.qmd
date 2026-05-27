@@ -91,7 +91,7 @@ AI tools are rapidly changing early-stage drug discovery, but many ligand screen
 
 Gene fusions are important cancer-associated events that can reshape gene function and contribute to tumour development. This project will analyse RNA-seq data from cancer samples generated at the CRUK Scotland Institute to identify and explore fusion events across different contexts.
 
-[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/IQBRkxEEGhoFT6Q-hA9AOS--Ad4uSIJKqY2gD82xYd39SuY?e=bjfcCE)
+[Full Project Description](https://gla-my.sharepoint.com/:w:/g/personal/vinny_davies_glasgow_ac_uk/IQA08FoNa5iJRInIV1NW8HLeAbBvm3tmtnIQJSm7U60cmy4?e=1jTUXf)
 
 **Unravelling the accessory genome of *Enterococcus faecium* by combining whole-genome sequencing and large language models**
 
