@@ -26,7 +26,7 @@ Join the vibrant Glasgow Computational Biology community at the University of Gl
 
 ## Quick links
 
-[Glasgow Computational Biology Conference 2026](https://glasgow-compbio.github.io/conference/2026_conference/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View details of our 2026 conference"}[Check out our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}[CompBio Hackathon 2025](https://glasgow-compbio.github.io/events/202506_Hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2025"}
+[Glasgow Computational Biology Conference 2026](https://glasgow-compbio.github.io/conference/2026_conference/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View details of our 2026 conference"}[Check out our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}[CompBio Hackathon 2026](https://glasgow-compbio.github.io/events/202606_Hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2026"}
 
 ## Join the Mailing List
 
