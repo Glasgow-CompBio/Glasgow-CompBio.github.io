@@ -130,3 +130,4 @@ A5: We aim to offer every participant a spot on their preferred team but this ma
 We are hugely grateful to our sponsors -- without their support this event would not be possible!
 
 ![](NERD.jpg){width="400"}
+![](SocRSE.png){width="150"}
