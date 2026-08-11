@@ -1,0 +1,23 @@
+---
+title: "Prediction of antigenic evolution from a single virus sequence using an epistasis-aware protein language model approach"
+description: "Submitted Talk"
+draft: false
+---
+
+## Talk Details
+
+**Time:** Friday, 15:30–15:50  
+**Author:** Rubayet Alam  
+**Type:** Submitted Talk
+
+## Abstract
+
+Characterizing and predicting antigenic escape mutations in viruses can contribute to effective vaccine design. Predicting antigenicity historically requires time-consuming experiments linking viral mutations to antibody escape. While computational studies are faster and have used existing datasets to train models, these in silico antigenic predictions still rely on multiple-sequence alignments and high-resolution protein structures. When data is sparse, for example on the emergence of a pathogen X, early prediction of putative antigenic change from minimal sequence information would be advantageous.
+
+Here, we predict antigenic evolution based on a single glycoprotein sequence comparison using a foundation protein language model (PLM), ESM-2, integrating antigenicity predictions derived from SEMA-2 and accounting for epistasis, applied to eight representative WHO priority viruses. Validation of our approach against experimental deep-mutational scanning, alignment, and structure-derived antigenicity prediction methods, notably EVEscape and Discotope, yields similar performance for prediction of reference viral antibody-escape mutations in the glycoproteins of three well-studied viruses: SARS-CoV-2 Spike, Influenza A (H1N1) Hemagglutinin, and HIV-1 Envelope.
+
+For sparse datasets, we demonstrate that our model predicts key antigenic regions and amino-acid substitutions in the glycoproteins of three understudied priority viruses: Bornavirus-1 p57, CCHFV GPc, and Marburg virus GP1-2. With recent outbreaks of Andes virus and Bundibugyo virus, we predicted escape mutations in the putative epitopes of the glycoproteins. These predictions can help design future-proof vaccines against these priority viruses. Our results demonstrate (i) meaningful antigenic evolution predictions can be made from single virus sequence comparisons, (ii) the importance of accounting for epistasis in antigenic prediction, and (iii) that PLM methods can contribute to vaccine design in the context of future pandemics.
+
+---
+
+[← Back to Schedule](../schedule.html)

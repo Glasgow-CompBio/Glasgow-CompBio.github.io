@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Talk by Kevin Bryson">
+<meta name="description" content="Submitted Talk">
 
-<title>GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics – Glasgow CompBio Community</title>
+<title>Prediction of antigenic evolution from a single virus sequence using an epistasis-aware protein language model approach – Glasgow CompBio Community</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -124,10 +124,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics</h1>
+      <h1 class="title">Prediction of antigenic evolution from a single virus sequence using an epistasis-aware protein language model approach</h1>
                   <div>
         <div class="description">
-          Talk by Kevin Bryson
+          Submitted Talk
         </div>
       </div>
                 </div>
@@ -164,16 +164,15 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="talk-details" class="level2">
 <h2 class="anchored" data-anchor-id="talk-details">Talk Details</h2>
-<p><strong>Time:</strong> Tuesday, 9:40-10:25<br>
-<strong>Speaker:</strong> Kevin Bryson<br>
-<strong>Topic:</strong> Genetics<br>
-<strong>Type:</strong> Invited Talk</p>
+<p><strong>Time:</strong> Friday, 15:30–15:50<br>
+<strong>Author:</strong> Rubayet Alam<br>
+<strong>Type:</strong> Submitted Talk</p>
 </section>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Over two decades ago, we presented the GeneWeaver system that consisted of multiple interacting agents, each endowed with a particular bioinformatics expertise. We orchestrated these systems of agents to cooperate, driven by goals, to annotated bacterial genomes. At the time, we faced two key difficulties: the development of a flexible language for agents to communicate goals to each other and the flexible creation of plans to satisfy these goals.</p>
-<p>Could both these aspects be solved with the recent rise of LLMs and Agentic AI? Will this result in a new era of bioinformatics data and tool integration? Will we all get knowledgeable bioscience assistants?</p>
-<p>This talk will first provide an introduction to LLMs, Agentic AI and Federated AI for bioinformatics; before outlining the results of a few case studies we have carried out in this area.</p>
+<p>Characterizing and predicting antigenic escape mutations in viruses can contribute to effective vaccine design. Predicting antigenicity historically requires time-consuming experiments linking viral mutations to antibody escape. While computational studies are faster and have used existing datasets to train models, these in silico antigenic predictions still rely on multiple-sequence alignments and high-resolution protein structures. When data is sparse, for example on the emergence of a pathogen X, early prediction of putative antigenic change from minimal sequence information would be advantageous.</p>
+<p>Here, we predict antigenic evolution based on a single glycoprotein sequence comparison using a foundation protein language model (PLM), ESM-2, integrating antigenicity predictions derived from SEMA-2 and accounting for epistasis, applied to eight representative WHO priority viruses. Validation of our approach against experimental deep-mutational scanning, alignment, and structure-derived antigenicity prediction methods, notably EVEscape and Discotope, yields similar performance for prediction of reference viral antibody-escape mutations in the glycoproteins of three well-studied viruses: SARS-CoV-2 Spike, Influenza A (H1N1) Hemagglutinin, and HIV-1 Envelope.</p>
+<p>For sparse datasets, we demonstrate that our model predicts key antigenic regions and amino-acid substitutions in the glycoproteins of three understudied priority viruses: Bornavirus-1 p57, CCHFV GPc, and Marburg virus GP1-2. With recent outbreaks of Andes virus and Bundibugyo virus, we predicted escape mutations in the putative epitopes of the glycoproteins. These predictions can help design future-proof vaccines against these priority viruses. Our results demonstrate (i) meaningful antigenic evolution predictions can be made from single virus sequence comparisons, (ii) the importance of accounting for epistasis in antigenic prediction, and (iii) that PLM methods can contribute to vaccine design in the context of future pandemics.</p>
 <hr>
 <p><a href="../schedule.html">← Back to Schedule</a></p>
 

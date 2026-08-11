@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Talk by Kevin Bryson">
+<meta name="description" content="Submitted Talk">
 
-<title>GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics – Glasgow CompBio Community</title>
+<title>Walking and talking to the tree of life – Glasgow CompBio Community</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -124,10 +124,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics</h1>
+      <h1 class="title">Walking and talking to the tree of life</h1>
                   <div>
         <div class="description">
-          Talk by Kevin Bryson
+          Submitted Talk
         </div>
       </div>
                 </div>
@@ -164,16 +164,16 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="talk-details" class="level2">
 <h2 class="anchored" data-anchor-id="talk-details">Talk Details</h2>
-<p><strong>Time:</strong> Tuesday, 9:40-10:25<br>
-<strong>Speaker:</strong> Kevin Bryson<br>
-<strong>Topic:</strong> Genetics<br>
-<strong>Type:</strong> Invited Talk</p>
+<p><strong>Time:</strong> Friday, 14:50–15:10<br>
+<strong>Author:</strong> Roderic Page<br>
+<strong>Type:</strong> Submitted Talk</p>
 </section>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Over two decades ago, we presented the GeneWeaver system that consisted of multiple interacting agents, each endowed with a particular bioinformatics expertise. We orchestrated these systems of agents to cooperate, driven by goals, to annotated bacterial genomes. At the time, we faced two key difficulties: the development of a flexible language for agents to communicate goals to each other and the flexible creation of plans to satisfy these goals.</p>
-<p>Could both these aspects be solved with the recent rise of LLMs and Agentic AI? Will this result in a new era of bioinformatics data and tool integration? Will we all get knowledgeable bioscience assistants?</p>
-<p>This talk will first provide an introduction to LLMs, Agentic AI and Federated AI for bioinformatics; before outlining the results of a few case studies we have carried out in this area.</p>
+<p>A grand challenge of evolutionary biology is to assemble the tree of life. But a tree of this size with millions of nodes poses another challenge: how do we visualise the tree? This talk presents <a href="http://iphylo.org/ott-viewer">OTT Viewer</a>, a web-based tool to navigate through the synthesis tree from the <a href="https://opentreeoflife.github.io">Open Tree of Life</a>.</p>
+<p>The viewer uses the notion of a “summary tree” to ensure that only a subset of the tree is visible at any one time, and that the subtree is always readable. Which subtree is displayed is determined by a “focus” node, which the user can change by clicking on another node in the tree, hence they can “walk” through the tree. Visual continuity is maintained by smooth animation between the previous tree and the current tree. To help avoid the user getting lost as they browse the tree, a “hoptree” displays the navigation history. Major groups in the tree are highlighted, and where available a silhouette from PhyloPic is used to orient the user. The user can also search for a node in the tree by name.</p>
+<p>The use of animated transitions between trees distinguishes this visualisation from other large-scale tree browsers such as LifeMap and OneZoom, which have a fixed layout that the user pans across or zooms in and out of. In addition to the web interface, the viewer supports a Model Context Protocol (MCP) server. This enables an AI tool such as Claude or ChatGPT to “talk” to the tree of life. We can ask questions about whether a taxonomic name corresponds to a monophyletic group, what a taxon’s sister taxon is, or what studies support (or conflict with) a node. We can also locate nodes that correspond to phylogenetic definitions from <a href="https://phyloregnum.org">PhyloRegnum</a>, for example, “the most inclusive clade including x but not y”.</p>
+<p>Support for MCP means that we query the tree using natural language, which may facilitate not only exploration but also curation of the Open Tree of Life.</p>
 <hr>
 <p><a href="../schedule.html">← Back to Schedule</a></p>
 

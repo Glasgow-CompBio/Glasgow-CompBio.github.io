@@ -1,0 +1,23 @@
+---
+title: "Central Active Research Data Storage (CARDS): Developing a Sustainable Institutional Platform for Research Data at the University of Glasgow"
+description: "Submitted Talk"
+draft: false
+---
+
+## Talk Details
+
+**Time:** Friday, 12:30–12:50  
+**Author:** Stephen Fox  
+**Type:** Submitted Talk
+
+## Abstract
+
+The scale and complexity of computational biology research continue to drive rapid growth in active research data, creating challenges for institutions seeking to provide secure, sustainable and well-governed storage. At the University of Glasgow, active and semi-active research data are distributed across local servers, OneDrive and Teams environments, external storage devices, and grant-funded hardware. This fragmented landscape introduces risks around backup and recovery, governance, compliance, reproducibility and long-term sustainability.
+
+This presentation introduces the proposed Central Active Research Data Storage (CARDS) service: a developing institutional initiative designed to provide a centrally managed platform for active research data. The service aims to support the full research data lifecycle, from grant planning and project onboarding through active storage, project closure and transition to long-term preservation services. It is particularly relevant to computational biology and bioinformatics, where genomics, transcriptomics, imaging, microscopy and other data-intensive research generate datasets ranging from terabytes to petabytes in scale.
+
+CARDS would provide managed storage with tiered resilience options, standard NFS and SMB access, lifecycle governance and transparent grant-costing mechanisms. A dedicated Research Data Steward role is proposed to support compliance, metadata management, provenance, FAIR principles and reproducibility. Current estimates suggest that at least 4 PB of active and semi-active research data already resides on unmanaged or locally provisioned infrastructure. Community consultation has highlighted considerations around cost, HPC integration, sensitive-data handling, encryption, retention of Unix permissions and attributes, and alignment with research ethics and data-management planning. As CARDS progresses through University governance and financial approval, this session considers how an institutional storage service can support modern data-intensive science while balancing sustainability, governance, researcher experience and long-term reproducibility.
+
+---
+
+[← Back to Schedule](../schedule.html)

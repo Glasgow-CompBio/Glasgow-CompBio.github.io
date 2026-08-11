@@ -1,0 +1,25 @@
+---
+title: "Walking and talking to the tree of life"
+description: "Submitted Talk"
+draft: false
+---
+
+## Talk Details
+
+**Time:** Friday, 14:50–15:10  
+**Author:** Roderic Page  
+**Type:** Submitted Talk
+
+## Abstract
+
+A grand challenge of evolutionary biology is to assemble the tree of life. But a tree of this size with millions of nodes poses another challenge: how do we visualise the tree? This talk presents [OTT Viewer](http://iphylo.org/ott-viewer), a web-based tool to navigate through the synthesis tree from the [Open Tree of Life](https://opentreeoflife.github.io).
+
+The viewer uses the notion of a "summary tree" to ensure that only a subset of the tree is visible at any one time, and that the subtree is always readable. Which subtree is displayed is determined by a "focus" node, which the user can change by clicking on another node in the tree, hence they can "walk" through the tree. Visual continuity is maintained by smooth animation between the previous tree and the current tree. To help avoid the user getting lost as they browse the tree, a "hoptree" displays the navigation history. Major groups in the tree are highlighted, and where available a silhouette from PhyloPic is used to orient the user. The user can also search for a node in the tree by name.
+
+The use of animated transitions between trees distinguishes this visualisation from other large-scale tree browsers such as LifeMap and OneZoom, which have a fixed layout that the user pans across or zooms in and out of. In addition to the web interface, the viewer supports a Model Context Protocol (MCP) server. This enables an AI tool such as Claude or ChatGPT to "talk" to the tree of life. We can ask questions about whether a taxonomic name corresponds to a monophyletic group, what a taxon's sister taxon is, or what studies support (or conflict with) a node. We can also locate nodes that correspond to phylogenetic definitions from [PhyloRegnum](https://phyloregnum.org), for example, "the most inclusive clade including x but not y".
+
+Support for MCP means that we query the tree using natural language, which may facilitate not only exploration but also curation of the Open Tree of Life.
+
+---
+
+[← Back to Schedule](../schedule.html)

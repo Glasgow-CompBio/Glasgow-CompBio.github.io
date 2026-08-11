@@ -1,0 +1,134 @@
+---
+title: "Talk Schedule"
+description: "Our lineup of talks, keynotes, posters, and networking for 2026."
+image: arc_image.jpg
+draft: false
+date: 08-28-2026
+---
+
+```{=html}
+<style>
+/* Mobile-responsive table styling */
+@media (max-width: 768px) {
+  .schedule-table {
+    font-size: 0.85em;
+  }
+
+  .schedule-table td {
+    padding: 8px 4px !important;
+    vertical-align: top;
+  }
+
+  .schedule-table td:nth-child(1) {
+    white-space: nowrap;
+    min-width: 80px;
+  }
+
+  .schedule-table td:nth-child(4) {
+    word-break: break-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+  }
+}
+
+/* Portrait mode - extra narrow screens */
+@media (max-width: 480px) {
+  .schedule-table {
+    font-size: 0.8em;
+  }
+
+  .schedule-table td {
+    padding: 6px 2px !important;
+  }
+
+  /* Hide the speaker column on very small screens */
+  .schedule-table td:nth-child(3),
+  .schedule-table th:nth-child(3) {
+    display: none;
+  }
+
+  .schedule-table td:nth-child(4) {
+    max-width: 200px;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+  }
+}
+
+/* General responsive improvements */
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+</style>
+```
+
+# Schedule
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# Install and load required packages
+if (!requireNamespace("dplyr", quietly = TRUE)) {
+  install.packages("dplyr", quiet = TRUE)
+}
+if (!requireNamespace("kableExtra", quietly = TRUE)) {
+  install.packages("kableExtra", quiet = TRUE)
+}
+
+suppressPackageStartupMessages({
+  library(dplyr)
+  library(kableExtra)
+})
+
+# Load the 2026 programme data
+data <- read.csv("sched_basic.csv", stringsAsFactors = FALSE, check.names = TRUE)
+
+# Create the table data
+table_data <- data %>%
+  dplyr::mutate(
+    Time = ifelse(
+      is.na(time_end) | time_end == "",
+      time_start,
+      paste0(time_start, "-", time_end)
+    ),
+    Author = ifelse(is.na(Speaker) | Speaker == "", "", Speaker),
+    Event = event,
+    Title = dplyr::case_when(
+      grepl("Biological computation: lessons from cell signalling", Title, ignore.case = TRUE) ~
+        paste0('<a href="../../keynotes/key2026/ralitsa-madsen.html">', Title, '</a>'),
+      grepl("Cerebrospinal Fluid Flow Cytometry", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/csf-flow-cytometry.html">', Title, '</a>'),
+      grepl("Scalable Bayesian Phylogenetic Models", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/bayesian-phylogenetic-models.html">', Title, '</a>'),
+      grepl("Central Active Research Data Storage", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/cards.html">', Title, '</a>'),
+      grepl("Distinguishing Crohn’s Disease", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/ibd-microbiome.html">', Title, '</a>'),
+      grepl("Amphotericin B Resistance", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/amphotericin-resistance.html">', Title, '</a>'),
+      grepl("Predicting Virus Evolution", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/virus-evolution-plms.html">', Title, '</a>'),
+      grepl("Walking and talking to the tree of life", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/walking-tree-of-life.html">', Title, '</a>'),
+      grepl("Prediction of antigenic evolution", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/antigenic-evolution.html">', Title, '</a>'),
+      TRUE ~ ifelse(is.na(Title) | Title == "", "", Title)
+    )
+  ) %>%
+  dplyr::select(Time, Event, Author, Title)
+
+# Create the table
+table_data %>%
+  kableExtra::kbl(
+    escape = FALSE,
+    align = "rlcl",
+    table.attr = 'class="schedule-table table-responsive"'
+  ) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) %>%
+  column_spec(1, width = "15%", extra_css = "padding-right: 10px; white-space: nowrap;") %>%
+  column_spec(2, width = "20%", extra_css = "padding-right: 10px;") %>%
+  column_spec(3, width = "20%", extra_css = "padding-right: 10px;") %>%
+  column_spec(4, width = "45%", extra_css = "word-wrap: break-word; overflow-wrap: break-word;")
+```

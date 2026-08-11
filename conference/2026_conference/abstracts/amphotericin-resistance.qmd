@@ -1,0 +1,25 @@
+---
+title: "Seeking Common Metabolic Pathways Beyond Sterol Metabolism Related To Amphotericin B Resistance In Leishmania"
+description: "Submitted Talk"
+draft: false
+---
+
+## Talk Details
+
+**Time:** Friday, 14:10–14:30  
+**Author:** Michael Black  
+**Type:** Submitted Talk
+
+## Abstract
+
+Leishmania parasites are responsible for approximately one million leishmaniasis infections within humans in the tropics and sub-tropics. Leishmaniasis includes a relatively minor and typically self-healing cutaneous form, a mucocutaneous form that causes severe disfigurement, and a visceral form that, when left untreated, is fatal. Amphotericin B (AmB), a natural antifungal agent, has emerged as a leading therapy for all forms of leishmaniasis. The drug acts by binding with high affinity to ergosterol, the primary sterol present in many fungi and within the plasma membrane of the Leishmania parasite.
+
+In recent years, there has been a marked increase in reports of AmB resistance arising in Leishmania. In Glasgow, multiple different Leishmania cell lines have been selected for metabolomic analysis using liquid chromatography mass spectroscopy (LC-MS) to investigate mechanisms that give rise to AmB resistance. In all cases, the major determinant for resistance has been loss of the drug target ergosterol. This is caused by mutations to genes encoding enzymes at different points of the ergosterol biosynthetic pathway, resulting in downregulated production of ergosterol and increased synthesis of sterol intermediates with weaker binding affinities for AmB.
+
+To systematically compare these changes, an R script was produced to handle multiple metabolomic datasets from seven distinct projects and transform each into a differential metabolite table comparing wild-type and AmB-resistant Leishmania metabolomes. Two Python scripts were also built: `metaboliteExtractor.py` filters metabolites within user-specified p-value and log2 fold-change thresholds, and `commonMetaboliteFinder.py` identifies metabolic hits by matching formula and mass across datasets. This approach has yielded over 60 conserved metabolites dysregulated across resistant strains, providing evidence for coordinated metabolic reprogramming beyond ergosterol depletion. Pathway enrichment analysis, targeted database searches, and chemical database matching will characterise these findings and enable functional validation.
+
+The project will deliver a workflow for systematic filtering and identification of conserved metabolite signatures from independent LC-MS experiments, and an enhanced understanding of changes associated with selection for AmB resistance in Leishmania parasites.
+
+---
+
+[← Back to Schedule](../schedule.html)

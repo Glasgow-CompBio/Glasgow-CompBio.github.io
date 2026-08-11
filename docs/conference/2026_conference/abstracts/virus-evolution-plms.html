@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Talk by Kevin Bryson">
+<meta name="description" content="Submitted Talk">
 
-<title>GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics – Glasgow CompBio Community</title>
+<title>Predicting Virus Evolution from Outbreak Sequence Data using Protein Language Models – Glasgow CompBio Community</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -124,10 +124,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics</h1>
+      <h1 class="title">Predicting Virus Evolution from Outbreak Sequence Data using Protein Language Models</h1>
                   <div>
         <div class="description">
-          Talk by Kevin Bryson
+          Submitted Talk
         </div>
       </div>
                 </div>
@@ -164,16 +164,15 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="talk-details" class="level2">
 <h2 class="anchored" data-anchor-id="talk-details">Talk Details</h2>
-<p><strong>Time:</strong> Tuesday, 9:40-10:25<br>
-<strong>Speaker:</strong> Kevin Bryson<br>
-<strong>Topic:</strong> Genetics<br>
-<strong>Type:</strong> Invited Talk</p>
+<p><strong>Time:</strong> Friday, 14:30–14:50<br>
+<strong>Author:</strong> Bryce Watson<br>
+<strong>Type:</strong> Submitted Talk</p>
 </section>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Over two decades ago, we presented the GeneWeaver system that consisted of multiple interacting agents, each endowed with a particular bioinformatics expertise. We orchestrated these systems of agents to cooperate, driven by goals, to annotated bacterial genomes. At the time, we faced two key difficulties: the development of a flexible language for agents to communicate goals to each other and the flexible creation of plans to satisfy these goals.</p>
-<p>Could both these aspects be solved with the recent rise of LLMs and Agentic AI? Will this result in a new era of bioinformatics data and tool integration? Will we all get knowledgeable bioscience assistants?</p>
-<p>This talk will first provide an introduction to LLMs, Agentic AI and Federated AI for bioinformatics; before outlining the results of a few case studies we have carried out in this area.</p>
+<p>At the onset of viral outbreaks there is often little evident sequence evolution. Predicting mutations can help public-health experts understand potential directions of viral evolution and assist efforts to characterise an epidemic. A recent hantavirus outbreak of Andes virus (ANDV) has highlighted the need to characterise changes in a recurring spillover pathogen without robust sampling. The virus may display strong evolutionary constraints explaining the lack of observed sequence divergence, or simply lack epidemiological pathways to greater spread. Predicting evolutionary trajectories with protein language models (PLMs) may provide insight into evolutionary direction and constraints.</p>
+<p>PLMs can predict variability in protein sequences, but different models, training data and fine-tuning strategies can give different results. Models fed larger datasets or fine-tuned for certain viruses may provide more specificity, but less predictive power due to overfitting and reproducing existing variability. An optimal approach may be to use a virus with less sequence data and test whether PLM mutation prediction can identify potential mutations found at later time points.</p>
+<p>This will be investigated using a timeline of sequenced ANDV genomes reconstructed at time points from a phylogenetic tree. Using a starting subset of available and reconstructed ancestral sequences, we will move along the timeline, predicting the next phase of mutations with PLMs. We anticipate that, given a sequence, we can predict the next step of amino-acid variation with sufficient variability to capture novel mutations rather than merely recapturing existing variability. This could validate PLMs as a useful tool for predicting protein variation and evolution.</p>
 <hr>
 <p><a href="../schedule.html">← Back to Schedule</a></p>
 

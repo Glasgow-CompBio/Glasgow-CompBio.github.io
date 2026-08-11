@@ -1,0 +1,19 @@
+---
+title: "Dr Ralitsa Madsen"
+image: ralitsa-madsen.jpg
+toc: false
+about:
+  template: jolla
+---
+
+**Title:** Biological computation: lessons from cell signalling in health and disease
+
+**Abstract:** Every cell in our body continuously receives a bewildering array of environmental signals. Growth factors, cytokines, mechanical forces, nutrients and countless other cues must somehow be integrated into coherent decisions: whether to divide, differentiate, migrate or die. Yet remarkably, the number of intracellular signalling pathways responsible for interpreting these inputs is comparatively limited. How can such a small biochemical signalling architecture reliably encode such a vast repertoire of biological decisions?
+
+Understanding this problem is fundamental to development, tissue homeostasis and disease. In this keynote, I will discuss the principles of dynamic signal encoding and decoding as the basis of cellular information processing. Using human diseases of aberrant signal transduction as a lens, I will illustrate how developmental biology, quantitative experimentation, mathematical information theory and computational modelling can be combined to uncover the principles governing biological computation in health and disease.
+
+I will conclude by reflecting on the challenges and opportunities presented by artificial intelligence, and on why predictive understanding of biological computation depends not simply on collecting more data, but on collecting the right data.
+
+**Biography:** Dr Ralitsa Madsen is a UKRI Future Leaders Fellow and Principal Investigator at the CRUK Scotland Institute and the University of Glasgow. Her research seeks to understand, predict and ultimately control cellular information processing in health and disease. Originally trained as a biomedical scientist, her long-standing fascination with cell signalling and predictive biology inspired her to venture beyond traditional disciplinary boundaries into bioinformatics, quantitative imaging, mathematical information theory and computational modelling. Drawing on diseases driven by aberrant phosphoinositide 3-kinase (PI3K) signalling, her interdisciplinary research combines experimental biology with computational approaches to uncover how dynamic signalling networks encode and process biological information, with the ultimate goal of enabling more precise and effective therapies.
+
+Dr Madsen is also a prominent advocate for research integrity and Open Science, serving as a member of the UK Committee on Research Integrity. She was awarded the 2025 Dame Anne McLaren Early Career Medal by the Royal Society of Edinburgh in recognition of her contributions to the life sciences, including her pioneering work on quantitative cell signalling and her national and international leadership in promoting research integrity.

@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Talk by Kevin Bryson">
+<meta name="description" content="Submitted Talk">
 
-<title>GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics – Glasgow CompBio Community</title>
+<title>Seeking Common Metabolic Pathways Beyond Sterol Metabolism Related To Amphotericin B Resistance In Leishmania – Glasgow CompBio Community</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -124,10 +124,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">GeneWeaver 3: the rise of Agentic and Federated AI for Bioinformatics</h1>
+      <h1 class="title">Seeking Common Metabolic Pathways Beyond Sterol Metabolism Related To Amphotericin B Resistance In Leishmania</h1>
                   <div>
         <div class="description">
-          Talk by Kevin Bryson
+          Submitted Talk
         </div>
       </div>
                 </div>
@@ -164,16 +164,16 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="talk-details" class="level2">
 <h2 class="anchored" data-anchor-id="talk-details">Talk Details</h2>
-<p><strong>Time:</strong> Tuesday, 9:40-10:25<br>
-<strong>Speaker:</strong> Kevin Bryson<br>
-<strong>Topic:</strong> Genetics<br>
-<strong>Type:</strong> Invited Talk</p>
+<p><strong>Time:</strong> Friday, 14:10–14:30<br>
+<strong>Author:</strong> Michael Black<br>
+<strong>Type:</strong> Submitted Talk</p>
 </section>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Over two decades ago, we presented the GeneWeaver system that consisted of multiple interacting agents, each endowed with a particular bioinformatics expertise. We orchestrated these systems of agents to cooperate, driven by goals, to annotated bacterial genomes. At the time, we faced two key difficulties: the development of a flexible language for agents to communicate goals to each other and the flexible creation of plans to satisfy these goals.</p>
-<p>Could both these aspects be solved with the recent rise of LLMs and Agentic AI? Will this result in a new era of bioinformatics data and tool integration? Will we all get knowledgeable bioscience assistants?</p>
-<p>This talk will first provide an introduction to LLMs, Agentic AI and Federated AI for bioinformatics; before outlining the results of a few case studies we have carried out in this area.</p>
+<p>Leishmania parasites are responsible for approximately one million leishmaniasis infections within humans in the tropics and sub-tropics. Leishmaniasis includes a relatively minor and typically self-healing cutaneous form, a mucocutaneous form that causes severe disfigurement, and a visceral form that, when left untreated, is fatal. Amphotericin B (AmB), a natural antifungal agent, has emerged as a leading therapy for all forms of leishmaniasis. The drug acts by binding with high affinity to ergosterol, the primary sterol present in many fungi and within the plasma membrane of the Leishmania parasite.</p>
+<p>In recent years, there has been a marked increase in reports of AmB resistance arising in Leishmania. In Glasgow, multiple different Leishmania cell lines have been selected for metabolomic analysis using liquid chromatography mass spectroscopy (LC-MS) to investigate mechanisms that give rise to AmB resistance. In all cases, the major determinant for resistance has been loss of the drug target ergosterol. This is caused by mutations to genes encoding enzymes at different points of the ergosterol biosynthetic pathway, resulting in downregulated production of ergosterol and increased synthesis of sterol intermediates with weaker binding affinities for AmB.</p>
+<p>To systematically compare these changes, an R script was produced to handle multiple metabolomic datasets from seven distinct projects and transform each into a differential metabolite table comparing wild-type and AmB-resistant Leishmania metabolomes. Two Python scripts were also built: <code>metaboliteExtractor.py</code> filters metabolites within user-specified p-value and log2 fold-change thresholds, and <code>commonMetaboliteFinder.py</code> identifies metabolic hits by matching formula and mass across datasets. This approach has yielded over 60 conserved metabolites dysregulated across resistant strains, providing evidence for coordinated metabolic reprogramming beyond ergosterol depletion. Pathway enrichment analysis, targeted database searches, and chemical database matching will characterise these findings and enable functional validation.</p>
+<p>The project will deliver a workflow for systematic filtering and identification of conserved metabolite signatures from independent LC-MS experiments, and an enhanced understanding of changes associated with selection for AmB resistance in Leishmania parasites.</p>
 <hr>
 <p><a href="../schedule.html">← Back to Schedule</a></p>
 

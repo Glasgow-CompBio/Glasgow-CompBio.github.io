@@ -111,6 +111,8 @@
   },
   {
     "listing": "/conference/2026_conference/index.html",
-    "items": []
+    "items": [
+      "/keynotes/key2026/ralitsa-madsen.html"
+    ]
   }
 ]

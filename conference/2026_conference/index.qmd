@@ -38,14 +38,14 @@ We are excited to announce the 6th iteration of our annual conference! Come alon
 
 ## Our 2026 Keynote Speakers
 
-TBD
+Prof Chris Yau (coming soon)
 
 ::: {#keynotes}
 :::
 
 ## Programme of talks
 
-TBD <!-- [2026 Programme](./schedule.qmd){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2026"} -->
+[2026 Programme](./schedule.qmd){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2026"}
 
 # Conference Scope and Interests
 

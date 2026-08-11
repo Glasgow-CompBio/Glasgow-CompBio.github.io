@@ -1,0 +1,23 @@
+---
+title: "Investigating Cerebrospinal Fluid Flow Cytometry as a Patient Stratification Tool in Childhood Central Nervous System Acute Lymphoblastic Leukaemia"
+description: "Submitted Talk"
+draft: false
+---
+
+## Talk Details
+
+**Time:** Friday, 11:50–12:10  
+**Author:** Ilaria Di Fazio  
+**Type:** Submitted Talk
+
+## Abstract
+
+Acute lymphoblastic leukaemia (ALL) accounts for a quarter of childhood cancer cases. While over 90% of patients are cured, central nervous system (CNS) involvement makes neurotoxic CNS-directed chemotherapy essential for all patients. Therapy is risk-adapted upon cytospin examination of cerebrospinal fluid (CSF) samples. Based on white and red blood cell counts and the presence of leukemic blasts, patients are stratified as CNS1 (lowest risk), CNS2 (intermediate) or CNS3 (highest risk), with or without traumatic lumbar puncture (TLP). TLP can occur during CSF sample withdrawal and CNS-directed therapy administration and is associated with worse prognosis if CSF leukemic blasts are visible. Non-standardised laboratory protocols translate in inconsistent CNS stratification across centres.
+
+Previous research suggests that flow cytometry (FCM) could be a better diagnostic test, as it is more sensitive than cytospin and flow positivity (FCM+) was associated with higher risk of relapse. Therefore, the CSF-FLOW study has been recruiting European ALL patients to assess whether FCM can improve patient stratification to minimise neurotoxicity and CNS relapse rates. Results suggest that pre-analytical confounders including CSF sample volume and transport delays need to be addressed, as there were inconsistent FCM+ rates across countries, with the UK having the lowest, unexplained by baseline patient characteristics. FCM was more accurate than cytospin at baseline. However, FCM+ was not associated with higher CNS relapse risk in multivariate models.
+
+A CNS relapse risk score was built using age, baseline WBC, cytogenetics and cytospin stratification and accurately stratified patients in four risk groups. FCM+ will be added to this score to test if it can further improve patient stratification. Results so far suggest that FCM is more sensitive than cytospin, but likely not as prognostically useful.
+
+---
+
+[← Back to Schedule](../schedule.html)

@@ -1,0 +1,17 @@
+Day,time_start,time_end,Length,event,Speaker,Title
+1,10:00,10:10,0:10,Welcome,,
+1,10:10,11:10,1:00,Keynote 1,Dr Ralitsa Madsen,"Biological computation: lessons from cell signalling in health and disease"
+1,11:10,11:50,0:40,Coffee + Posters,,
+1,11:50,12:10,0:20,Talk,Ilaria Di Fazio,"Investigating Cerebrospinal Fluid Flow Cytometry as a Patient Stratification Tool in Childhood Central Nervous System Acute Lymphoblastic Leukaemia."
+1,12:10,12:30,0:20,Talk,Emily Davison,"Using Scalable Bayesian Phylogenetic Models to Predict Plant Responses to Climate Change"
+1,12:30,12:50,0:20,Talk,Stephen Fox,"Central Active Research Data Storage (CARDS): Developing a Sustainable Institutional Platform for Research Data at the University of Glasgow"
+1,12:50,13:50,1:00,Lunch,,
+1,13:50,14:10,0:20,Talk,Dom Thompson,"Distinguishing Crohn’s Disease From Ulcerative Colitis Using Stool 16s rRNA Microbiome Signatures While Accounting For Clinical Confounders"
+1,14:10,14:30,0:20,Talk,Michael Black,"Seeking Common Metabolic Pathways Beyond Sterol Metabolism Related To Amphotericin B Resistance In Leishmania"
+1,14:30,14:50,0:20,Talk,Bryce Watson,"Predicting Virus Evolution from Outbreak Sequence Data using Protein Language Models"
+1,14:50,15:10,0:20,Talk,Roderic Page,"Walking and talking to the tree of life"
+1,15:10,15:30,0:20,Coffee,,
+1,15:30,15:50,0:20,Talk,Rubayet Alam,"Prediction of antigenic evolution from a single virus sequence using an epistasis-aware protein language model approach"
+1,15:50,16:50,1:00,Keynote 2,Prof Chris Yau,
+1,16:50,17:00,0:10,Closing Remarks,,
+1,17:00,,,End (and head to pub),,

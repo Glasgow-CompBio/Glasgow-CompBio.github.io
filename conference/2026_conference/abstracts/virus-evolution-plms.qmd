@@ -1,0 +1,23 @@
+---
+title: "Predicting Virus Evolution from Outbreak Sequence Data using Protein Language Models"
+description: "Submitted Talk"
+draft: false
+---
+
+## Talk Details
+
+**Time:** Friday, 14:30–14:50  
+**Author:** Bryce Watson  
+**Type:** Submitted Talk
+
+## Abstract
+
+At the onset of viral outbreaks there is often little evident sequence evolution. Predicting mutations can help public-health experts understand potential directions of viral evolution and assist efforts to characterise an epidemic. A recent hantavirus outbreak of Andes virus (ANDV) has highlighted the need to characterise changes in a recurring spillover pathogen without robust sampling. The virus may display strong evolutionary constraints explaining the lack of observed sequence divergence, or simply lack epidemiological pathways to greater spread. Predicting evolutionary trajectories with protein language models (PLMs) may provide insight into evolutionary direction and constraints.
+
+PLMs can predict variability in protein sequences, but different models, training data and fine-tuning strategies can give different results. Models fed larger datasets or fine-tuned for certain viruses may provide more specificity, but less predictive power due to overfitting and reproducing existing variability. An optimal approach may be to use a virus with less sequence data and test whether PLM mutation prediction can identify potential mutations found at later time points.
+
+This will be investigated using a timeline of sequenced ANDV genomes reconstructed at time points from a phylogenetic tree. Using a starting subset of available and reconstructed ancestral sequences, we will move along the timeline, predicting the next phase of mutations with PLMs. We anticipate that, given a sequence, we can predict the next step of amino-acid variation with sufficient variability to capture novel mutations rather than merely recapturing existing variability. This could validate PLMs as a useful tool for predicting protein variation and evolution.
+
+---
+
+[← Back to Schedule](../schedule.html)

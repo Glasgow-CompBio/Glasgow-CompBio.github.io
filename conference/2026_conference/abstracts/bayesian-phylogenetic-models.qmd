@@ -1,0 +1,23 @@
+---
+title: "Using Scalable Bayesian Phylogenetic Models to Predict Plant Responses to Climate Change"
+description: "Submitted Talk"
+draft: false
+---
+
+## Talk Details
+
+**Time:** Friday, 12:10–12:30  
+**Author:** Emily Davison  
+**Type:** Submitted Talk
+
+## Abstract
+
+Predicting the impacts of climate change on biodiversity requires understanding how species have adapted to environmental conditions throughout their evolutionary history. Plant occurrence records held by institutions such as the Natural History Museum and the Global Biodiversity Information Facility provide an unparalleled resource for studying these processes, but observations can be sparse, unevenly distributed, and unavailable for some plant species.
+
+This research develops new Bayesian phylogenetic models that combine information across related species to improve estimates of plant species traits. The framework jointly models multiple traits while accounting for variation within species through a hierarchical structure, allowing uncertainty arising from uneven sampling to be quantified explicitly. By exploiting mathematical properties of phylogenetic covariance matrices, the method scales to datasets far larger than those accessible using conventional approaches.
+
+Simulation studies show that the model accurately recovers evolutionary parameters and trait correlations even when observations are limited. Applied to large plant phylogenies, the framework produces species-level trait estimates with calibrated uncertainty and enables prediction for poorly sampled taxa by borrowing information from evolutionary relatives. Ultimately, this work aims to support biodiversity conservation under climate change by identifying species and clades that may be particularly vulnerable to future environmental shifts.
+
+---
+
+[← Back to Schedule](../schedule.html)

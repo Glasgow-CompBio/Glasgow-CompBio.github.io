@@ -1,0 +1,23 @@
+---
+title: "Distinguishing Crohn’s Disease From Ulcerative Colitis Using Stool 16s rRNA Microbiome Signatures While Accounting For Clinical Confounders"
+description: "Submitted Talk"
+draft: false
+---
+
+## Talk Details
+
+**Time:** Friday, 13:50–14:10  
+**Author:** Dom Thompson  
+**Type:** Submitted Talk
+
+## Abstract
+
+Inflammatory bowel disease (IBD) can broadly be divided into Crohn’s disease (CD) and ulcerative colitis (UC), with roughly 10% characterised as non-diagnosable IBD. Despite differences in location and pathology, UC and CD share clinical, IBD-associated dysbiosis and inflammatory features that can make cases hard to classify. The gut microbiome has been proposed as a potential source of non-invasive disease-associated markers for UC versus CD classification, as formal diagnosis currently requires endoscopic examination. However, microbiome heterogeneity may reflect inflammation, medication exposure, age, sex, body mass index, smoking, study centre or sequencing batch rather than disease-specific microbial biology.
+
+This project investigated whether stool microbiome profiles from the MUSIC study contain a reproducible signal that can distinguish UC from CD after accounting for confounder effects. The MUSIC dataset contains 1,008 longitudinal clinical records from 240 patients and 539 paired-end stool 16S rRNA sequencing samples with metadata on demographics, smoking, disease activity, inflammatory biomarkers and medication exposure. These data were processed with DADA2 to produce an ML-ready CLR-transformed amplicon sequence variant (ASV) table, harmonised metadata, and taxonomic assignments. An end-to-end, reproducible Nextflow pipeline runs logistic regression, random forests, XGBoost and neural-network models while considering clinical metadata, batch, centre and modelling sensitivity.
+
+Initial results suggest that models using the 10 most variable ASVs produced the strongest microbiome-associated signal, with performance declining as further ASVs were included. Across the four models, microbiome-only all-ASV longitudinal AUROCs ranged from 0.607 to 0.660; shuffled-label and random-noise controls remained close to chance. For a one-layer, 32-node neural network, adding these ASVs to metadata increased balanced accuracy from 0.491 to 0.604 and AUROC from 0.454 to 0.608. Candidate UC/CD-predictive ASVs include Actinomyces, Sutterella, Lachnospira and Terrisporobacter. The signal is moderate and sensitive to the clinical variables included. Further work will test stability after adjustment for inflammation, medication, centre and sequencing batch, and evaluate the model on public datasets.
+
+---
+
+[← Back to Schedule](../schedule.html)
