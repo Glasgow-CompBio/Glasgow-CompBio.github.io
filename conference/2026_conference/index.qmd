@@ -4,14 +4,6 @@ description: "Take part in talks, networking and learning about everything compu
 image: arc_image.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 date: 08-28-2026
-listing:
-  - id: keynotes
-    contents: "../../keynotes/key2026/*.qmd"
-    type: grid
-    image-height: 225px
-    grid-columns: 3
-    fields: [image, title]
-    grid-item-align: center
 ---
 
 # **Welcome to the University of Glasgow Computational Biology Conference 2026**
@@ -38,10 +30,32 @@ We are excited to announce the 6th iteration of our annual conference! Come alon
 
 ## Our 2026 Keynote Speakers
 
-Prof Chris Yau (coming soon)
-
-::: {#keynotes}
-:::
+```{=html}
+<div class="list grid quarto-listing-cols-3">
+  <div class="g-col-1">
+    <a href="../../keynotes/key2026/ralitsa-madsen.html" class="quarto-grid-link">
+      <div class="quarto-grid-item card h-100 card-center">
+        <p class="card-img-top">
+          <img src="../../keynotes/key2026/ralitsa-madsen.jpg" class="thumbnail-image card-img" style="height: 225px;" alt="Dr Ralitsa Madsen">
+        </p>
+        <div class="card-body post-contents">
+          <h5 class="no-anchor card-title">Dr Ralitsa Madsen</h5>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="g-col-1">
+    <div class="quarto-grid-item card h-100 card-center">
+      <p class="card-img-top">
+        <img src="chris_yau_headshot.png" class="thumbnail-image card-img" style="height: 225px;" alt="Prof Chris Yau">
+      </p>
+      <div class="card-body post-contents">
+        <h5 class="no-anchor card-title">Prof Chris Yau</h5>
+      </div>
+    </div>
+  </div>
+</div>
+```
 
 ## Programme of talks
 
