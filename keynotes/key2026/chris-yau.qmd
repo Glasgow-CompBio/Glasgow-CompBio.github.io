@@ -1,0 +1,15 @@
+---
+title: "Prof Chris Yau"
+image: ../../conference/2026_conference/chris_yau_headshot.png
+toc: false
+about:
+  template: jolla
+---
+
+**Title:** Are We Needed Anymore? Has AI Made the Computational Biologist Obsolete?
+
+**Abstract:** The emergence of AI Scientists, together with the recent release of systems such as GPT-Rosalind and Claude for Science, has profound implications for the computational biology community. Increasingly capable AI tools are able to draw upon decades of computational biology research—including publications, software, and online resources—to automatically construct analysis workflows for both routine and novel biological problems. Workflows that previously took individuals or teams days to develop can now often be assembled by AI agents in a matter of hours. In parallel with the rapid development of biological foundation models, it is natural to ask: are the days of the computational biologist numbered?
+
+In this keynote, I will argue that while AI is fundamentally changing how computational biology is practised, it is not eliminating the need for methodological innovation or scientific judgement. Using multiomics integration as a case study, I will review key methodological developments that have led us to the current landscape, including how cross-attention-based transformer architectures provide a flexible framework for integrating heterogeneous biological data by allowing modality-specific representations to interact. I will then discuss opportunities that remain for methodological research, illustrating why models that faithfully capture the statistical and biological properties of different data modalities continue to matter. Examples will include recent work exploring alternatives to tokenisation for count-based data.
+
+Finally, I will consider how the role of the computational biologist is evolving. Rather than replacing computational biologists, AI is shifting their role towards designing, orchestrating, and critically evaluating increasingly autonomous AI systems. As AI agents become commonplace in scientific research, ensuring that their analyses are scientifically sound, reproducible, and consistent with expected biological behaviour will become an essential skill for the next generation of computational biologists as well as bringing new methodological opportunities.

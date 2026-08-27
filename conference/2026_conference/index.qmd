@@ -45,14 +45,16 @@ We are excited to announce the 6th iteration of our annual conference! Come alon
     </a>
   </div>
   <div class="g-col-1">
-    <div class="quarto-grid-item card h-100 card-center">
-      <p class="card-img-top">
-        <img src="chris_yau_headshot.png" class="thumbnail-image card-img" style="height: 225px;" alt="Prof Chris Yau">
-      </p>
-      <div class="card-body post-contents">
-        <h5 class="no-anchor card-title">Prof Chris Yau</h5>
+    <a href="../../keynotes/key2026/chris-yau.html" class="quarto-grid-link">
+      <div class="quarto-grid-item card h-100 card-center">
+        <p class="card-img-top">
+          <img src="chris_yau_headshot.png" class="thumbnail-image card-img" style="height: 225px;" alt="Prof Chris Yau">
+        </p>
+        <div class="card-body post-contents">
+          <h5 class="no-anchor card-title">Prof Chris Yau</h5>
+        </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 ```
