@@ -8,7 +8,7 @@ Day,time_start,time_end,Length,event,Speaker,Title
 1,12:50,13:50,1:00,Lunch,,
 1,13:50,14:10,0:20,Talk,Dom Thompson,"Distinguishing Crohn’s Disease From Ulcerative Colitis Using Stool 16s rRNA Microbiome Signatures While Accounting For Clinical Confounders"
 1,14:10,14:30,0:20,Talk,Michael Black,"Seeking Common Metabolic Pathways Beyond Sterol Metabolism Related To Amphotericin B Resistance In Leishmania"
-1,14:30,14:50,0:20,Talk,Bryce Watson,"Predicting Virus Evolution from Outbreak Sequence Data using Protein Language Models"
+1,14:30,14:50,0:20,Talk,Haley Stone,"VTT-Net: Learning Viral Tissue Tropism Using Graph Neural Networks"
 1,14:50,15:10,0:20,Talk,Roderic Page,"Walking and talking to the tree of life"
 1,15:10,15:30,0:20,Coffee,,
 1,15:30,15:50,0:20,Talk,Rubayet Alam,"Prediction of antigenic evolution from a single virus sequence using an epistasis-aware protein language model approach"

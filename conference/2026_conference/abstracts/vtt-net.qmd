@@ -1,0 +1,23 @@
+---
+title: "VTT-Net: Learning Viral Tissue Tropism Using Graph Neural Networks"
+description: "Submitted Talk"
+draft: false
+---
+
+## Talk Details
+
+**Time:** Friday, 14:30–14:50  
+**Author:** Haley Stone  
+**Type:** Submitted Talk
+
+## Abstract
+
+Viral tissue tropism is a defining determinant of disease manifestation, transmission routes, and host range, and plays a central role in viral evolution and cross-species emergence. While large host-virus datasets are increasingly available, modelling virus-tissue interactions remains difficult due to difficulty in extrapolating from *in vitro* experiments to *in vivo*, and limited sampling coverage.
+
+We present VTT-Net (Viral Tissue Tropism Network), a graph neural network for modelling virus-tissue interactions and predicting tissue-level tropism. In this case study, VTT-Net is applied to human tissues, representing tissue states and viral identities within a unified interaction framework. The network learns tissue-specific tropism patterns directly from observed virus-tissue associations, capturing relationships across tissues, encoded with broad-sample gene expression data, under sparse and uneven supervision. VTT-Net leverages structured relationships between tissues and viruses to integrate interaction information across tissues, enabling tissue-level tropism inference even when direct evidence is sparse.
+
+VTT-Net produces tissue-level permissivity scores for virus-tissue pairs and supports downstream analysis stratified by tissue and viral taxonomy. Although demonstrated here in the context of human tissue tropism, the framework is designed to be extensible to additional host species as appropriate data become available. VTT-Net provides a quantitative framework for analysing viral tissue specificity, supporting comparative studies of tropism evolution, host adaptation, and cross-system infection patterns.
+
+---
+
+[← Back to Schedule](../schedule.html)

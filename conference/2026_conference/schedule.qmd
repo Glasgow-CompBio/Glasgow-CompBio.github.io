@@ -98,6 +98,8 @@ table_data <- data %>%
     Title = dplyr::case_when(
       grepl("Biological computation: lessons from cell signalling", Title, ignore.case = TRUE) ~
         paste0('<a href="../../keynotes/key2026/ralitsa-madsen.html">', Title, '</a>'),
+      grepl("Are We Needed Anymore", Title, ignore.case = TRUE) ~
+        paste0('<a href="../../keynotes/key2026/chris-yau.html">', Title, '</a>'),
       grepl("Cerebrospinal Fluid Flow Cytometry", Title, ignore.case = TRUE) ~
         paste0('<a href="abstracts/csf-flow-cytometry.html">', Title, '</a>'),
       grepl("Scalable Bayesian Phylogenetic Models", Title, ignore.case = TRUE) ~
@@ -108,8 +110,8 @@ table_data <- data %>%
         paste0('<a href="abstracts/ibd-microbiome.html">', Title, '</a>'),
       grepl("Amphotericin B Resistance", Title, ignore.case = TRUE) ~
         paste0('<a href="abstracts/amphotericin-resistance.html">', Title, '</a>'),
-      grepl("Predicting Virus Evolution", Title, ignore.case = TRUE) ~
-        paste0('<a href="abstracts/virus-evolution-plms.html">', Title, '</a>'),
+      grepl("VTT-Net: Learning Viral Tissue Tropism", Title, ignore.case = TRUE) ~
+        paste0('<a href="abstracts/vtt-net.html">', Title, '</a>'),
       grepl("Walking and talking to the tree of life", Title, ignore.case = TRUE) ~
         paste0('<a href="abstracts/walking-tree-of-life.html">', Title, '</a>'),
       grepl("Prediction of antigenic evolution", Title, ignore.case = TRUE) ~
